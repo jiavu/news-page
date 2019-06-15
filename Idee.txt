@@ -1,0 +1,100 @@
+
+Zeigt news headlines an, mit Vorschaubild, Datum und Link zum Artikel.
+======================================================================
+
+Will be created with ANGULAR (7/8)
+
+API: wahrscheinlich newsapi.org
+
+	Breaking news headlines, 
+article search,
+ country filter,
+ source filter,
+ category filter,
+
+	over 30,000 sources.
+
+	Endpoints: "top-headlines", "everything", "sources"
+
+---------------------------
+https://newsapi.org/sources
+---------------------------
+
+
+Node.js client library verwenden?
+
+========================================================
+
+Haupt-Features:
+-------------- 
+
+	Personalisierung der Artikelauswahl, Suchfunktionen und Filter.
+	Personalisierung wird im local storage gespeichert.
+
+
+- Land / Länder (Mehrfachauswahl möglich?)
+- Kategorien
+
+---
+
+Suchfunktionen / Filter (je nach endpoint verfügbar):
+
+- Suchbegriff
+- Land / Länder bzw. Sprache
+- Quellen (Publisher)		// 'sources' bzw. 'domains'
+- Kategorien			/ business, entertainment, general, health, science, sports, technology
+- Aktuelle Schlagzeilen (breaking news) oder Archiv
+- Zeitraum from / to
+
+- SORT-BY			// relevancy, popularity, published at
+- exclude domains
+
+========================================================
+
+(newsapi.org) Nützliche Parameter für den Aufbau der Page:
+
+pageSize, page
+
+Einschränkungen:
+
+- top headlines
+
+	country kann nicht mit sources zusammen verwendet werden
+	category kann nicht mit sources zusammen verwendet werden
+	Nur 1 Auswahl von Country?
+
+- everything:
+
+	Nur 1 Auswahl von Language?
+
+--------------------------------------------------------
+
+(Ansprüche:)
+- Möglichst viele Möglichkeiten (bei nur so vielen requests wie nötig)
+- Dabei Einfachheit des UI
+
+========================================================
+
+TO DO
+-----
+
+- Was sind die Unterschiede zwischen sources, domains, publishers??
+
+	Es gibt über 100 top publications (= 135 publishers?)
+	Es gibt "over 30,000 large and small news sources and blogs".
+
+
+- Wie können mehrere Filter des gleichen Parameters gesetzt werden???
+
+	z. B: country=de,us oder country=de&country=us
+
+	Vermutlich gar nicht.
+	Die json-Antwort sieht wahrscheinlich keine Sortierung vor,
+	daher müsste ich wohl pro zusätzlichem Suchbegriff eine weitere Anfrage
+	starten und alle Antworten selbst einsortieren.
+
+
+- Am besten direkt zu Anfang schon ein json für deutsche Übersetzung erstellen.
+
+	Angular:
+	Wie kann das json für alle Components emitted werden?

@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { dummyData } from "./dummyData";
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'news-page';
+
+  data: object = dummyData;
 }

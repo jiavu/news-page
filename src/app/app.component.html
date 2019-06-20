@@ -1,56 +1,11 @@
-<h1>NEWS</h1>
 
-<div style="max-width: 600px;border-bottom: 3px double grey;">
-  <div style="display: flex; justify-content: space-around;">
-  <div>
-    <button>&#x21bb;</button>
-  </div>
-  
-  <!-- app-select-mode: -->
-  <div style="border: 1px solid lightgrey;">
-    <span>Headlines</span>
-    <button>switchB.</button>
-  </div>
-    
-  <div>
-    <button>Options &#x025B4;</button>
-  </div>
-</div>
-<!-- app-options (Filter and search settings) -->
-<div style="
-  background-color: lightgrey;
-  display: flex;
-  justify-content: space-around;">
-  <div>
-    <label for="search">Search</label>
-    <br>
-    <input type="text" id="search">
-  </div>
-  <div>
-    <label for="country">Country</label>
-    <br>
-    <select name="" id="country">
-      <option value="all">all</option>
-    </select>
-  </div>
-  <div>
-    <label for="category">Category</label>
-    <br>
-    <select name="" id="category">
-      <option value="all">all</option>
-    </select>
-  </div>
-  <div>
-    <label for="sources">Sources</label>
-    <br>
-    <select name="" id="sources">
-      <option value="all">all</option>
-    </select>
-  </div>
-  
-</div>
-</div>
+<header>
+    <h1>NEWS</h1>
+    <app-news-control></app-news-control>
+</header>
 
-<!-- Results / Articles -->
-<!--          - Article  -->
-<app-articles [data]= 'data'></app-articles>
+<main>
+  <!-- Results / Articles -->
+  <!--          - Article  -->
+  <app-articles [data]='data'></app-articles>
+</main>

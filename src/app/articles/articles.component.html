@@ -1,18 +1,21 @@
-<p>https://newsapi.org/v2/everything?from=2019-06-16T00:00:00&language=de&sources=die-zeit</p>
 
-<div>
+<div id="response-info">
+  <p>url: ...</p>
   <p>status: {{data.status}}</p>
   <p>totalResults: {{data.totalResults}}</p>
 </div>
-<hr>
-<div>
-  <div *ngFor='let article of data.articles'>
-    <h3>{{article.title}}</h3>
-    <h4>{{article.author}}</h4>
-    <img src={{article.urlToImage}} alt="img">
-    <p>{{article.description}}</p>
-    <p><a href={{article.url}} target="_blank">{{article.source.name}}</a></p>
-    <p>{{article.content}}</p>
-    <hr>
-  </div>
+
+<div class="articles__container">
+  <a *ngFor='let article of data.articles'
+    href={{article.url}} target="_blank">
+    <div class="articles__card">
+      <h3>{{article.title}}</h3>
+      <img src={{article.urlToImage}} alt="img"
+        class="articles__img">
+        <h4>{{article.source.name}} - {{ formatDate(article.publishedAt) }}</h4>
+      <p>{{article.description}}</p>
+      <p>{{article.author}}</p>
+      <!-- <p>{{article.content}}</p> -->
+    </div>
+  </a>
 </div>

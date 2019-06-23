@@ -1,0 +1,20 @@
+@import '../../scss/variables';
+@import '../../scss/mixins';
+
+.articles__container {
+  @include flex(center, stretch);
+  flex-wrap: wrap;
+  align-content: stretch;
+  padding: $min-card-spacing-sides;
+}
+.articles__card {
+  padding: 1rem;
+  border: $cards-border-width solid $light;
+  border-radius: 1rem;
+  margin: $min-card-spacing-sides;
+  margin-bottom: $card-spacing-below;
+  max-width: $max-card-width;
+}
+.articles__img {
+  width: 100%;
+}

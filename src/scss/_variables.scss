@@ -1,0 +1,19 @@
+
+/* Colors: */
+
+$primary-color: #121212;
+$bg-color: #eee;
+
+$medium: #888;
+$light: #ccc;
+
+
+/* Spacing: */
+
+$max-cards-per-row: 5;
+$min-card-spacing-sides: 5px;
+$card-spacing-below: 5px;
+$cards-border-width: 2px;
+$max-card-width: (1920px - ($max-cards-per-row + 1) *
+  $min-card-spacing-sides) / ($max-cards-per-row) -
+  2 * $max-cards-per-row;

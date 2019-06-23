@@ -1,5 +1,6 @@
+@import '../../../scss/mixins';
+
 .news-filter__container {
   background-color: lightgrey;
-  display: -webkit-flex;
-  display: inline-flex;
+  @include inline-flex(flex-start, flex-start);
 }

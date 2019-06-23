@@ -1,5 +1,6 @@
 import { Component, OnInit, Input } from '@angular/core';
 
+import { RequestService } from "../request.service";
 
 @Component({
   selector: 'app-articles',
@@ -15,8 +16,9 @@ export class ArticlesComponent implements OnInit {
     year: "numeric", month: "long", day: "numeric", hour:"2-digit", minute:"2-digit"
   };
 
-  constructor() {
-  }
+  constructor(
+    private requestService: RequestService
+  ) {}
 
   ngOnInit() {
   }

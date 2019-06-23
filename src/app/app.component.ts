@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { dummyData } from "./dummyData";
 
 @Component({
   selector: 'app-root',
@@ -7,7 +6,11 @@ import { dummyData } from "./dummyData";
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'news-page';
 
-  data: object = dummyData;
+  newsData: object;
+
+  onDataReceived(newData: object) {
+    this.newsData = newData;
+  }
+
 }

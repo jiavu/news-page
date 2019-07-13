@@ -9,8 +9,4 @@ export class AppComponent {
 
   newsData: object;
 
-  onDataReceived(newData: object) {
-    this.newsData = newData;
-  }
-
 }

@@ -1,13 +1,12 @@
 
-<div id="response-info">
+<div *ngIf="newsData" id="response-info">
   <p>url: ...</p>
-  <p>status: {{data.status}}</p>
-  <p>totalResults: {{data.totalResults}}</p>
+  <p>status: {{newsData.status}}</p>
+  <p>totalResults: {{newsData.totalResults}}</p>
 </div>
 
-<div class="articles__container">
-  
-  <a *ngFor='let article of data.articles'
+<div *ngIf="newsData && newsData.status" class="articles__container">
+  <a *ngFor='let article of newsData.articles'
     href={{article.url}} target="_blank">
     <div class="articles__card">
       <h3>{{article.title}}</h3>
@@ -16,7 +15,7 @@
         <h4>{{article.source.name}} - {{ formatDate(article.publishedAt) }}</h4>
       <p>{{article.description}}</p>
       <p>{{article.author}}</p>
-      <!-- <p>{{article.content}}</p> -->
+      <!-- <p>{{article.content}}</p>-->
     </div>
   </a>
 </div>

@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
 
 import { RequestService } from '../request.service';
 
@@ -7,16 +7,17 @@ import { RequestService } from '../request.service';
   templateUrl: './update-data.component.html',
   styleUrls: ['./update-data.component.scss']
 })
-export class UpdateDataComponent implements OnInit {
+
+export class UpdateDataComponent {
 
   constructor(
     private requestService: RequestService
   ) { }
 
-  ngOnInit() {
-  }
-
   updateData() {
     this.requestService.getNewsData();
+    /* Set a timeout for the button being
+    deactivated after request! 
+    Requests limited to 500 per day. */
   }
 }

@@ -1,4 +1,4 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 
 import { RequestService } from '../request.service';
 
@@ -9,18 +9,21 @@ import { RequestService } from '../request.service';
 })
 export class ArticlesComponent implements OnInit {
 
-  @Input() data: object;
+  newsData: object;
 
   lang = 'en-GB';  /* replace with language of browser settings */
   dateFormatOptions = {
     year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit'
   };
 
-  constructor(
-    private requestService: RequestService
-  ) {}
+  constructor(private requestService: RequestService) {
+    this.requestService.dataChanged.subscribe(
+      (data: object) => this.newsData = data
+    );
+  }
 
   ngOnInit() {
+    this.requestService.getNewsData();
   }
 
   formatDate(date: string) {

@@ -1,97 +1,32 @@
 {
   "status": "ok",
-  "totalResults": 34,
+  "totalResults": 33,
   "articles": [
       {
           "source": {
               "id": null,
-              "name": "Giga.de"
+              "name": "Merkur.de"
           },
-          "author": "https://www.facebook.com/GIGA.GAMES.DE",
-          "title": "Mario Kart, Team Sonic Racing oder Crash Team Racing: Wer ist der König der Fun-Racer? - Giga",
-          "description": "Fun-Racer erleben 2019 ein echtes Revival. Aber wie schlagen sich Team Sonic Racing und die Klassiker-Neuauflage Crash Team Racing Nitro-Fueled..",
-          "url": "https://www.giga.de/artikel/mario-kart-team-sonic-racing-oder-crash-team-racing-wer-ist-der-koenig-der-fun-racer/",
-          "urlToImage": "https://crops.giga.de/dc/cc/dd/33485cb934d12d075b3f52da94_YyAzNjEweDE4ODYrMTE1KzEzNwJyZSAxMjAwIDYyNwNkYzM4YjQyNzMyOQ==.jpg",
-          "publishedAt": "2019-06-23T17:18:28Z",
-          "content": "Kennst du Partys, die einfach nicht in Fahrt kommen wollen? Wenn einfach keine Stimmung entsteht und die Leute wahlweise zu satt, müde oder zu angetrunken sind. Wenn so etwas einmal vorkommt, ruft das förmlich nach ein wenig Spaß am Bildschirm. Aber was spiel… [+5604 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Heilpraxisnet.de"
-          },
-          "author": "Alfred Domke",
-          "title": "Forschung: Neues Medikament kann Sterberisiko bei Diabetes-Erkrankungen reduzieren - Heilpraxisnet.de",
-          "description": "Vor einiger Zeit stellten Gesundheitsexperten fest, dass Diabetes-Erkrankungen für wesentlich mehr Tote ursächlich sind, als bislang angenommen wurde. Wissenschaftler berichten nun über ein neues Medikament, dass das Risiko von Todesfällen bei Patienten mit T…",
-          "url": "https://www.heilpraxisnet.de/naturheilpraxis/forschung-neues-medikament-kann-sterberisiko-bei-diabetes-erkrankungen-reduzieren-20190622457617",
-          "urlToImage": null,
-          "publishedAt": "2019-06-23T17:12:20Z",
-          "content": "Neues Arzneimittel senkt Sterberisiko bei Menschen mit Diabetes\r\nVor einiger Zeit stellten Gesundheitsexperten fest, dass Diabetes-Erkrankungen für wesentlich mehr Tote ursächlich sind, als bislang angenommen wurde. Wissenschaftler berichten nun über ein neue… [+4673 chars]"
-      },
-      {
-          "source": {
-              "id": "spiegel-online",
-              "name": "Spiegel Online"
-          },
-          "author": "Nina Weber",
-          "title": "Ein rätselhafter Patient: Herz unter Wasser - SPIEGEL ONLINE",
-          "description": "18 Kilo hat der Mann ungewollt abgenommen. Als er in die Notaufnahme kommt, schmerzen seine Gelenke, sein Herz rast. Die Ärzte stellen eine Krankheit fest, die sonst fast nur Frauen trifft.",
-          "url": "https://www.spiegel.de/gesundheit/diagnose/herz-unter-wasser-ein-raetselhafter-patient-a-1273608.html",
-          "urlToImage": "https://cdn1.spiegel.de/images/image-1441034-860_poster_16x9-dasf-1441034.jpg",
-          "publishedAt": "2019-06-23T16:47:07Z",
-          "content": "Sonntag, 23.06.2019  \r\n18:47 Uhr\r\nDem 44-Jährigen geht es seit einer Weile nicht mehr gut, als er ins Massachusetts General Hospital in Boston gebracht wird. Vor zehn Monaten begannen seine Schultergelenke zu schmerzen. Ein Rheumatologe untersuchte ihn und sp… [+5079 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Welt.de"
-          },
-          "author": "WELT",
-          "title": "Fridays-for-Future-Forderung: Söder will Kohleausstieg schon 2030 - WELT",
-          "description": "Ein schnellerer Kohleausstieg Deutschlands bis 2030 ist eine der zentralen Forderungen der Fridays-for-Future-Aktivisten. Bayerns Ministerpräsident Söder und Kanzlerin Merkel wollen jetzt aufs Gas drücken. Aus Kohleländern kommt Widerspruch.",
-          "url": "https://www.welt.de/politik/deutschland/article195766711/Fridays-for-Future-Forderung-Soeder-will-Kohleausstieg-schon-2030.html",
-          "urlToImage": "https://www.welt.de/img/politik/deutschland/mobile195771085/7591354597-ci16x9-w1200/Unionsfraktionschefs-beraten-in-Weimar.jpg",
-          "publishedAt": "2019-06-23T16:32:00Z",
-          "content": "Die CSU und Kanzlerin Angela Merkel denken an einen früheren Kohleausstieg als 2038. Sind wir ehrlich: Die deutschen Klimaziele sind bis 2030 nur zu erreichen, wenn wir den Kohleausstieg massiv beschleunigen, sagte Bayerns Ministerpräsident Markus Söder, dem … [+4136 chars]"
-      },
-      {
-          "source": {
-              "id": "spiegel-online",
-              "name": "Spiegel Online"
-          },
-          "author": "SPIEGEL ONLINE",
-          "title": "Türkei: Wahl in Istanbul - Oppositionskandidat führt deutlich - SPIEGEL ONLINE",
-          "description": "Der Kandidat der Erdogan-Partei AKP hat seine Niederlage bereits eingestanden: Bei der Wahlwiederholung in Istanbul liegt Oppositionsmann Imamoglu laut Prognosen weit vorn.",
-          "url": "https://www.spiegel.de/politik/ausland/istanbul-ekrem-imamoglu-laut-prognose-weit-vor-binali-yildirim-a-1273902.html",
-          "urlToImage": "https://cdn1.spiegel.de/images/image-1441469-860_poster_16x9-xgwo-1441469.jpg",
-          "publishedAt": "2019-06-23T16:23:00Z",
-          "content": "Sonntag, 23.06.2019  \r\n18:23 Uhr\r\nBei der Wiederholung der Bürgermeisterwahl in Istanbul liegt der Oppositionskandidat Ekrem Imamoglu von der CHP-Partei vorn. Laut CNN Türk entfallen 53,6 Prozent der Stimmen auf Imamoglu und nur 45,4 Prozent auf den ehemalige… [+2453 chars]"
+          "author": null,
+          "title": "Bayern: Traktor überrollt zwei Kinder (10, 13) - tot! Teenie am Steuer - Balderschwang | Bayern - merkur.de",
+          "description": "Zwei Kinder sind im Allgäu von einem Traktor überrollt und dabei getötet worden. Die beiden hatten am Samstagabend zusammen mit zwei weiteren Kindern eine Ausfahrt gemacht.",
+          "url": "https://www.merkur.de/bayern/bayern-traktor-ueberrollt-zwei-kinder-10-13-tot-teenie-am-steuer-balderschwang-12816863.html",
+          "urlToImage": "https://www.merkur.de/bilder/2019/07/14/12816863/1375094717-zwei-tote-kinder-nach-traktorunfall-im-allgaeu-iqByydJj18zqxhIhef.jpg",
+          "publishedAt": "2019-07-14T10:47:22Z",
+          "content": "Zwei Kinder sind im Allgäu von einem Traktor überrollt und dabei getötet worden. Die beiden hatten am Samstagabend zusammen mit zwei weiteren Kindern eine Ausfahrt gemacht.Update 14. Juli 2019, 12.30 Uhr: Wie die Kronen-Zeitung berichtet, stammen die getötete… [+2043 chars]"
       },
       {
           "source": {
               "id": null,
               "name": "T-online.de"
           },
-          "author": null,
-          "title": "U21-EM 2019: Österreich - Deutschland im Live-Ticker - t-online.de",
-          "description": "U21-EM im Live-Ticker bei t-online.de: Österreich - Deutschland live verfolgen und nichts verpassen.",
-          "url": "https://www.t-online.de/sport/live-ticker/fussball/u21-em/id_85864802/u21-em-2019-oesterreich-deutschland-im-live-ticker.html",
-          "urlToImage": "https://stats.t-online.de/b/85/47/86/68/id_85478668/tid_da/index.png",
-          "publishedAt": "2019-06-23T15:58:43Z",
-          "content": "Luca Waldschmidt gibt den Ton an: Der Freiburger führt mit vier Treffern aktuell die Torjägerliste der U21-EM an. (Quelle: )\r\nEr zeigt mit aktuell vier Treffern, wo es lang geht: Luca Waldschmidt vom SC Freiburg ragte in den bisherigen zwei Spielen aus einer … [+183 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Tagesschau.de"
-          },
-          "author": "tagesschau.de",
-          "title": "Massenproteste in Prag: Hunderttausende gegen Babis - tagesschau.de",
-          "description": "Eine so große Kundgebung gab es in Prag seit dem Sytemwechsel im Jahr 1989 nicht mehr: Mehrere Hunderttausend Tschechen haben für den Rücktritt von Regierungschef Babis demonstriert. Der zeigt sich unbeeindruckt.",
-          "url": "https://www.tagesschau.de/ausland/tschechien-demonstration-103.html",
-          "urlToImage": "https://www.tagesschau.de/multimedia/bilder/demo-prag-107~_v-videowebm.jpg",
-          "publishedAt": "2019-06-23T15:43:00Z",
-          "content": "Eine so große Kundgebung gab es in Prag seit dem Sytemwechsel im Jahr 1989 nicht mehr: Mehrere Hunderttausend Tschechen haben für den Rücktritt von Regierungschef Babis demonstriert. Der zeigt sich unbeeindruckt.\r\n Bei der größten Demonstration in Prag seit 3… [+1233 chars]"
+          "author": "Maria Holzhauer, t-online.de",
+          "title": "Herzogin Kate und Herzogin Meghan gemeinsam bei Wimbledon – Harmonie pur - t-online.de",
+          "description": "Immer wieder gibt es aktuell Gerüchte über Streitigkeiten zwischen den beiden Herzoginnen und ihren Männern. Beim Wimbledon-Finale der Damen gab es zwischen Kate und Meghan keine Spur von Uneinigkeiten.",
+          "url": "https://www.t-online.de/unterhaltung/stars/royals/id_86091488/herzogin-kate-und-herzogin-meghan-gemeinsam-bei-wimbledon-harmonie-pur-.html",
+          "urlToImage": "https://bilder.t-online.de/b/86/09/17/08/id_86091708/tid_da/herzogin-kate-und-herzogin-meghan-hat-nicht-den-anschein-als-waeren-zerstritten-wie-immer-wieder-behauptet-wird-.jpg",
+          "publishedAt": "2019-07-14T10:44:00Z",
+          "content": "Immer wieder gibt es Gerüchte über Streit zwischen den beiden Herzoginnen und ihren Männern. Beim Wimbledon-Finale der Damen gab es zwischen Kate und Meghan keine Spur von Zwist im Gegenteil.\r\nAm Mittwoch schauten sie ihren Männern gemeinsam mit ihren Kindern… [+2374 chars]"
       },
       {
           "source": {
@@ -99,155 +34,103 @@
               "name": "Web.de"
           },
           "author": null,
-          "title": "Wetter aktuell: Hitze kommt nach Deutschland - Sonne und Temperaturen bis 40 Grad - WEB.DE News",
-          "description": "Es könnte eine neue historische Hitzewelle bevorstehen: Hoch Ulla heizt in der kommenden Woche in Teilen Deutschlands ordentlich ein. Die Temperauten steigen jedem Tag weiter bis an die 40-Grad-Marke. Nur in wenigen Regionen bleibt es kühler.",
-          "url": "https://web.de/magazine/panorama/wetter/wetter-aktuell-hitze-deutschland-sonne-temperaturen-40-grad-33802558",
-          "urlToImage": "https://i0.web.de/image/564/33802564,pd=3,f=opengraph.jpg",
-          "publishedAt": "2019-06-23T15:41:00Z",
-          "content": "Deutschland könnte eine neue historische Hitzewelle bevorstehen: Hoch Ulla heizt in der kommenden Woche Teilen des Landes ordentlich ein. Die Temperauten steigen jeden Tag weiter bis an die 40-Grad-Marke. Nur in wenigen Regionen bleibt es kühler.\r\nMehr Inform… [+2989 chars]"
+          "title": "Schily kritisiert SPD-Vorbehalte gegen von der Leyen - WEB.DE News",
+          "description": "Mit der Nominierung von Ursula von der Leyen als EU-Kommissionspräsidentin ist die SPD - gelinde gesagt - unzufrieden. Die 16 Abgeordneten im Brüsseler Parlament lehnen es ab, die Bundesministerin am kommenden Dienstag zu wählen. Dafür werden die Genossen nun…",
+          "url": "https://web.de/magazine/politik/wahlen/europawahl/schily-kritisiert-spd-vorbehalte-leyen-33845008",
+          "urlToImage": "https://i0.web.de/image/314/33845314,pd=1,f=opengraph.jpg",
+          "publishedAt": "2019-07-14T09:11:00Z",
+          "content": "Mit der Nominierung von Ursula von der Leyen als EU-Kommissionspräsidentin ist die SPD - gelinde gesagt - unzufrieden. Die 16 Abgeordneten im Brüsseler Parlament lehnen es ab, die Bundesministerin am kommenden Dienstag zu wählen. Für ihre \"schäbige Kampagne\" … [+5359 chars]"
       },
       {
           "source": {
               "id": null,
-              "name": "N-tv.de"
-          },
-          "author": "n-tv NACHRICHTEN",
-          "title": "Abspaltung von William und Kate:Meghan plante schon lange eigene Stiftung - n-tv NACHRICHTEN",
-          "description": "Gibt es etwa Knatsch im britischen Königshaus? Die Meldung, dass Prinz Harry und Meghan aus der gemeinsamen royalen Stiftung mit Prinz William und Herzogin Kate aussteigen, bringt die Gerüchteküche zum Brodeln. Nun taucht ein möglicher Beweggrund der beiden a…",
-          "url": "https://www.n-tv.de/leute/Meghan-plante-schon-lange-eigene-Stiftung-article21103132.html",
-          "urlToImage": "https://bilder4.n-tv.de/img/incoming/crop21103135/594132427-cImg_16_9-w1200/fd94737ce6e4c95672382dee60601250.jpg",
-          "publishedAt": "2019-06-23T15:37:58Z",
-          "content": "Gibt es etwa Knatsch im britischen Königshaus? Die Meldung, dass Prinz Harry und Meghan aus der gemeinsamen royalen Stiftung mit Prinz William und Herzogin Kate aussteigen, bringt die Gerüchteküche zum Brodeln. Nun taucht ein möglicher Beweggrund der beiden a… [+1589 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "T-online.de"
+              "name": "Web.de"
           },
           "author": null,
-          "title": "Frauen-WM 2019: Das Achtelfinale England - Kamerun im Live-Ticker - t-online.de",
-          "description": "Frauen-WM im Live-Ticker bei t-online.de: England - Kamerun live verfolgen und nichts verpassen.",
-          "url": "https://www.t-online.de/sport/live-ticker/fussball/frauen-wm/id_85864764/frauen-wm-2019-das-achtelfinale-england-kamerun-im-live-ticker.html",
-          "urlToImage": "https://stats.t-online.de/b/85/47/86/68/id_85478668/tid_da/index.png",
-          "publishedAt": "2019-06-23T15:30:00Z",
-          "content": "Englische Jubeltraube: Ellen White (r.) ist mit drei Toren die Top-Torschützin der Engländerinnen. (Quelle: )\r\nEngland qualifizierte sich souverän mit drei Siegen für das WM-Achtelfinale. Die von Phil Neville trainierten Spielerinnen ließen in ihrer Gruppe Vi… [+199 chars]"
+          "title": "Emmanuel Macron will militärischen Weltraumkommando im All - WEB.DE News",
+          "description": "Frankreichs Präsident Emmanuel Macron hat den Aufbau eines militärischen Weltraumkommandos angekündigt. Der Weltraum sei ein \"neuer Bereich der Konfrontation\", den er \"aus dem Weltraum\" verteidigen wolle.",
+          "url": "https://web.de/magazine/politik/emmanuel-macron-militaerisches-weltraumkommando-all-33844756",
+          "urlToImage": "https://i0.web.de/image/046/33845046,pd=2,f=opengraph.jpg",
+          "publishedAt": "2019-07-14T09:00:00Z",
+          "content": "Frankreichs Präsident Emmanuel Macron hat den Aufbau eines militärischen Weltraumkommandos angekündigt. Der Weltraum sei ein \"neuer Bereich der Konfrontation\", den er \"aus dem Weltraum\" verteidigen wolle.\r\nMehr aktuelle News finden Sie hier\r\n\"Um die Entwicklu… [+1591 chars]"
       },
       {
           "source": {
-              "id": null,
-              "name": "Heilpraxisnet.de"
+              "id": "spiegel-online",
+              "name": "Spiegel Online"
           },
-          "author": "Alfred Domke",
-          "title": "Forschung: Neues Medikament kann Sterberisiko bei Diabetes-Erkrankungen minimieren - Heilpraxisnet.de",
-          "description": "Vor einiger Zeit stellten Gesundheitsexperten fest, dass Diabetes-Erkrankungen für wesentlich mehr Tote ursächlich sind, als bislang angenommen wurde. Wissenschaftler berichten nun über ein neues Medikament, dass das Risiko von Todesfällen bei Patienten mit T…",
-          "url": "https://www.heilpraxisnet.de/naturheilpraxis/forschung-neues-medikament-kann-sterberisiko-bei-diabetes-erkrankungen-minimieren-20190622457617",
-          "urlToImage": null,
-          "publishedAt": "2019-06-23T15:25:08Z",
-          "content": "Neues Arzneimittel senkt Sterberisiko bei Menschen mit Diabetes\r\nVor einiger Zeit stellten Gesundheitsexperten fest, dass Diabetes-Erkrankungen für wesentlich mehr Tote ursächlich sind, als bislang angenommen wurde. Wissenschaftler berichten nun über ein neue… [+4673 chars]"
+          "author": "SPIEGEL ONLINE",
+          "title": "Brand in Saunaklub: Männer nehmen Feuerwehr die Schläuche weg - SPIEGEL ONLINE",
+          "description": "Ein 64-Jähriger ist bei einem Brand in einem Saunaklub bei Wesel ums Leben gekommen. Die Löscharbeiten wurden von mehreren Männern gestört, die sich mit den Wasserschläuchen der Feuerwehr gegenseitig bespritzen wollten.",
+          "url": "https://www.spiegel.de/panorama/gesellschaft/brand-in-saunaclub-maenner-nehmen-feuerwehr-die-schlaeuche-weg-a-1277239.html",
+          "urlToImage": "https://cdn1.spiegel.de/images/image-1449049-860_poster_16x9-ptuw-1449049.jpg",
+          "publishedAt": "2019-07-14T08:48:00Z",
+          "content": "Sonntag, 14.07.2019  \r\n10:48 Uhr\r\nBei einem Brand in einem Saunaklub im niederrheinischen Hamminkeln bei Wesel ist ein Mann ums Leben gekommen. Mitarbeiter des Klubs hatten das Feuer bemerkt und die Feuerwehr alarmiert. Ein Gast wurde zunächst vermisst. Als d… [+529 chars]"
+      },
+      {
+          "source": {
+              "id": "bild",
+              "name": "Bild"
+          },
+          "author": "FRANK OCHSE",
+          "title": "Nicht alles ist heiß: Die vier Tops und Flops beim Prime Day von Amazon - BILD",
+          "description": "Am Montag beginnt der Prime Day 2019. Amazon haut jede Menge Angebote für Kunden mit Prime-Mitgliedschaft raus. Achtung, Blender-Angebote!",
+          "url": "https://www.bild.de/geld/wirtschaft/wirtschaft/nicht-alles-ist-heiss-die-vier-tops-und-flops-beim-prime-day-von-amazon-63279938.bild.html",
+          "urlToImage": "https://bilder.bild.de/fotos/nicht-alles-ist-heiss-die-vier-tops-und-flops-beim-prime-day-von-amazon-201182355-63280028/Bild/5.bild.jpg",
+          "publishedAt": "2019-07-14T08:42:56Z",
+          "content": "Am Montag beginnt der Prime Day 2019. Amazon haut jede Menge Angebote für Kunden mit Prime-Mitgliedschaft (69 Euro/Jahr) raus. Mit wenigen Ausnahmen macht Amazon ein Geheimnis aus den Schnäppchen  damit sich die Konkurrenz nicht drauf einstellen kann. Ich mei… [+5593 chars]"
       },
       {
           "source": {
               "id": null,
               "name": "Faz.net"
           },
-          "author": "Martin Gropp, Henning Peitsmeier",
-          "title": "BMW verschärft seine Elektrostrategie - FAZ - Frankfurter Allgemeine Zeitung",
-          "description": "Die Münchner wollen viel früher als geplant zwei Dutzend E-Autos anbieten – und damit beim Autogipfel in Berlin vorangehen.",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vor-autogipfel-verschaerft-bmw-seine-elektrostrategie-16250014.html",
-          "urlToImage": "https://media0.faz.net/ppmedia/aktuell/3932815842/1.6250016/facebook_teaser_fplus/bmw-mitarbeiter-arbeiten-in.jpg",
-          "publishedAt": "2019-06-23T15:24:00Z",
-          "content": "Erbg jbkao Ietecm eh biz Wgugkdvangmr Ujsej vl apolq gul dpy Pxzntqbpviod lle I-Kofnu yehnf, yvicb Zvfknbaekjz Lfdizagrtiylo dwlkfw bevkl heujcr ovd yyvkwqju Tyrlunjaqypfz gad sltpkjze IF2-Buhliovi ccb EW xsnfh orlurxev, fjqi ww. Arp vsh Xwmhtixbjyua fhf LNQ-… [+3271 chars]"
-      },
-      {
-          "source": {
-              "id": "spiegel-online",
-              "name": "Spiegel Online"
-          },
-          "author": "SPIEGEL ONLINE",
-          "title": "\"Wir verlieren Teile an die AfD\": Gegenwind für Merz nach Bundeswehr-Äußerung - SPIEGEL ONLINE",
-          "description": "Friedrich Merz warnt: Die Union verliere Polizisten und Soldaten an die AfD. Horst Seehofer und Ursula von der Leyen reagieren brüskiert.",
-          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-kritik-nach-aeusserung-zu-afd-und-bundeswehr-a-1273893.html",
-          "urlToImage": "https://cdn1.spiegel.de/images/image-1441463-860_poster_16x9-btst-1441463.jpg",
-          "publishedAt": "2019-06-23T15:19:00Z",
-          "content": "Sonntag, 23.06.2019  \r\n17:19 Uhr\r\nFriedrich Merz hat mit seiner Warnung, Polizisten und Soldaten könnten der AfD zu nahe stehen, für heftigen Streit innerhalb der Union gesorgt. \"Wir verlieren Teile der Bundeswehr und der Bundespolizei an die AfD\", sagte der … [+1867 chars]"
+          "author": "dpa",
+          "title": "Seenotrettung : Lindner will Schiffbrüchige nach Afrika zurückbringen - FAZ - Frankfurter Allgemeine Zeitung",
+          "description": "Der FDP-Vorsitzende fordert eine staatliche Seenotrettung im Mittelmeer und legale Fluchtwege nach Europa. Es dürfe aber keine Beihilfe zur Schlepperkriminalität geben.",
+          "url": "https://www.faz.net/aktuell/politik/ausland/lindner-will-schiffbruechige-nach-afrika-zurueckbringen-16283956.html",
+          "urlToImage": "https://media0.faz.net/ppmedia/aktuell/4073761189/1.6283960/facebook_teaser/fdp-chef-christian-lindner.jpg",
+          "publishedAt": "2019-07-14T08:38:00Z",
+          "content": "In der Debatte über die Seenotrettung im Mittelmeer hat sich der FDP-Vorsitzende Christian Lindner für die Schaffung legaler Fluchtwege nach Europa und menschenwürdiger Unterkunftsmöglichkeiten in Nordafrika ausgesprochen. Unterlassene Hilfeleistung ist nicht… [+1419 chars]"
       },
       {
           "source": {
               "id": null,
               "name": "T-online.de"
           },
-          "author": "dpa, rtr, Daniel Schreckenberg",
-          "title": "Brexit: So will Boris Johnson Großbritannien aus der EU führen - t-online.de",
-          "description": "Vor drei Jahren stimmten die Briten für den EU-Austritt.Nun will der einstige Brexit-Wortführer Boris Johnson sein Werk als Premierminister vollenden. Doch wie soll das gelingen?",
-          "url": "https://www.t-online.de/nachrichten/ausland/id_85975434/brexit-so-will-boris-johnson-grossbritannien-aus-der-eu-fuehren.html",
-          "urlToImage": "https://bilder.t-online.de/b/85/97/54/42/id_85975442/tid_da/boris-backt-seine-unterstuetzen-lieben-johnson-als-unterhalter-.jpg",
-          "publishedAt": "2019-06-23T15:14:00Z",
-          "content": "Vor drei Jahren stimmten die Briten für den EU-Austritt. Nun will der einstige Brexit-Wortführer Boris Johnson sein Werk als Premierminister vollenden. Doch wie soll das gelingen?\r\nFast genau drei Jahre nach dem knappen Votum der Briten zum EU-Austritt sieht … [+5529 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Sueddeutsche.de"
-          },
-          "author": "Süddeutsche.de GmbH, Munich, Germany",
-          "title": "Formel 1 - Vorneweg trotz defekter Sitzschale - Süddeutsche Zeitung",
-          "description": "Lewis Hamilton gewinnt in Frankreich das sechste von acht Formel-1-Rennen. Nie war seine Dominanz irrwitziger als diesmal.",
-          "url": "https://www.sueddeutsche.de/sport/formel-1-vorneweg-trotz-defekter-sitzschale-1.4495972",
-          "urlToImage": "https://media-cdn.sueddeutsche.de/image/sz.1.4496416/1200x675/gyi1157775812.jpg?v=1561302681",
-          "publishedAt": "2019-06-23T15:14:00Z",
-          "content": "In Frankreich gewinnt Lewis Hamilton das sechste von acht Formel-1-Rennen.\r\nSein Teamkollege Bottas und Ferrari-Pilot Vettel sind chancenlos.\r\nWas Lewis Hamilton wohl fühlte? Tangierte das Problem womöglich sein Gespür für die Kurven, für die Fliehkräfte in s… [+3579 chars]"
+          "author": "dpa",
+          "title": "USA – Louisiana: Sturm \"Barry\" setzt Südküste unter Wasser - t-online.de",
+          "description": "Tropensturm 'Barry' ist in Louisiana auf Land getroffen. Der Wind ist weniger heftig als befürchtet, der Region drohen allerdings schwere Überschwemmungen.",
+          "url": "https://www.t-online.de/nachrichten/panorama/katastrophen/id_86092522/usa-louisiana-sturm-barry-setzt-suedkueste-unter-wasser.html",
+          "urlToImage": "https://bilder.t-online.de/b/86/09/25/24/id_86092524/tid_da/-erste-auswirkungen-von-barry-personen-waten-in-mandeville-us-staat-louisiana-durch-eine-ueberschwemmte-strasse-.jpg",
+          "publishedAt": "2019-07-14T08:37:00Z",
+          "content": "Tropensturm \"Barry\" ist in Louisiana auf Land getroffen. Der Wind ist weniger heftig als befürchtet, der Region drohen allerdings schwere Überschwemmungen.\r\nDer Tropensturm \"Barry\" hat die Südküste der USA heimgesucht und unter Wasser gesetzt. Im Bundesstaat … [+3791 chars]"
       },
       {
           "source": {
               "id": null,
               "name": "T-online.de"
           },
-          "author": "dpa, rtr, AFP, t-online.de",
-          "title": "Iran-Konflikt: \"Ohne Vorbedingungen\" – Trump zu Gesprächen mit Iran bereit - t-online.de",
-          "description": "Der Ton zwischen dem Iran und den USA hat sich weiter verschärft. Der Iran warnte vor den Folgen eines möglichen Krieges. Auch aus den USA kommen Drohungen – und ein Dementi. Alle Informationen im Newsblog.",
-          "url": "https://www.t-online.de/nachrichten/ausland/krisen/id_85964482/iran-konflikt-ohne-vorbedingungen-trump-zu-gespraechen-mit-iran-bereit.html",
-          "urlToImage": "https://bilder.t-online.de/b/85/97/52/80/id_85975280/tid_da/us-praesident-donald-trump-in-einem-interview-widersprach-er-einem-medienbericht-.jpg",
-          "publishedAt": "2019-06-23T15:03:00Z",
-          "content": "Der Ton zwischen dem Iran und den USA hat sich weiter verschärft. Der Iran warnte vor den Folgen eines möglichen Krieges. Auch aus den USA kommen Drohungen und ein Dementi. Alle Informationen im Newsblog.\r\nNach dem Abschuss einer US-Aufklärungsdrohne durch de… [+22657 chars]"
+          "author": "t-online.de, sid",
+          "title": "Paris Saint-Germain: Neymar gießt schon wieder Öl ins Feuer - t-online.de",
+          "description": "Unentschuldigtes Fehlen, Strandfußball statt Training, Wechselwunsch. Neymar sorgt in Paris aktuell für mächtig Unruhe. Und er legt nun nach. Die Fans erfreut das gar nicht.",
+          "url": "https://www.t-online.de/sport/fussball/international/id_86093164/paris-saint-germain-neymar-giesst-schon-wieder-oel-ins-feuer.html",
+          "urlToImage": "https://bilder.t-online.de/b/86/09/31/66/id_86093166/tid_da/wird-allmaehlich-zum-enfant-terrible-neymar-.jpg",
+          "publishedAt": "2019-07-14T08:32:00Z",
+          "content": "Unentschuldigtes Fehlen, Strandfußball statt Training, Wechselwunsch. Neymar sorgt in Paris aktuell für mächtig Unruhe. Und er legt nun nach. Die Fans erfreut das gar nicht.\r\nInmitten der Spekulationen um seine Rückkehr von Paris St. Germain zum FC Barcelona … [+1823 chars]"
       },
       {
           "source": {
               "id": null,
-              "name": "T-online.de"
+              "name": "Www.vip.de"
           },
-          "author": "dpa, Liesa Wölm",
-          "title": "Unfall in Gundelfingen: Frau überrollt Kind, Junge stirbt in Krankenhaus - t-online.de",
-          "description": "Nachdem eine Rentnerin einen Jungen beim Ausparken übersehen hatte, ist der Einjährige nun in einer Klinik verstorben. Das Kind war zunächst schwer verletzt worden.",
-          "url": "https://www.t-online.de/nachrichten/panorama/id_85973612/unfall-in-gundelfingen-frau-ueberrollt-kind-junge-stirbt-in-krankenhaus.html",
-          "urlToImage": "https://bilder.t-online.de/b/85/97/37/24/id_85973724/tid_da/rettungsdienst-im-einsatz-ein-einjaehriges-kind-ist-bei-einem-unfall-schwer-verletzt-worden-symbolbild-.jpg",
-          "publishedAt": "2019-06-23T14:57:00Z",
-          "content": "Nachdem eine Rentnerin einen Jungen beim Ausparken übersehen hatte, ist der Einjährige nun in einer Klinik verstorben. Das Kind war zunächst schwer verletzt worden. \r\nEin Kleinkind ist in Schwaben vom Auto einer 78-Jährigen überrollt worden und an den Folgen … [+500 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Tagesschau.de"
-          },
-          "author": "tagesschau.de",
-          "title": "Protest gegen Kohleabbau: Polizei räumt Tagebau Garzweiler - tagesschau.de",
-          "description": "Die Polizei hat nach eigenen Angaben die Räumung des Braunkohletagebaus Garzweiler beendet. Die Demonstranten seien herausgetragen worden oder freiwillig gegangen. Protestierende hatten das Gebäude gestern gestürmt.",
-          "url": "https://www.tagesschau.de/regional/nordrheinwestfalen/demo-garzweiler-107.html",
-          "urlToImage": "https://www.tagesschau.de/multimedia/bilder/polizei-garzweiler-103~_v-videowebm.jpg",
-          "publishedAt": "2019-06-23T14:17:00Z",
-          "content": "Die Proteste der Klimaschützer im rheinischen Braunkohlerevier sind beendet. Die Blockaden der Aktivisten am Tagebau Garzweiler wurden aufgelöst.\r\n Tausende Menschen haben am Wochenende (22./23.06.2019) rund um den Tagebau Garzweiler gegen den Abriss der Dörf… [+1405 chars]"
-      },
-      {
-          "source": {
-              "id": "spiegel-online",
-              "name": "Spiegel Online"
-          },
-          "author": "SPIEGEL ONLINE",
-          "title": "Tory-Machtkampf: Boris Johnson wegen Streit mit Freundin in der Kritik - SPIEGEL ONLINE - Politik - SPIEGEL ONLINE",
-          "description": "Boris Johnson gilt als Favorit für das Amt des britischen Premiers. Doch während er um die Stimmen der Parteibasis wirbt, sorgt eine nächtliche Auseinandersetzung mit seiner Freundin für Unruhe.",
-          "url": "https://www.spiegel.de/politik/ausland/boris-johnson-streit-mit-freundin-sorgt-fuer-kritik-auch-bei-tories-a-1273872.html",
-          "urlToImage": "https://cdn1.spiegel.de/images/image-1441402-860_poster_16x9-cndp-1441402.jpg",
-          "publishedAt": "2019-06-23T13:37:04Z",
-          "content": "Sonntag, 23.06.2019  \r\n15:37 Uhr\r\nDer frühere britische Außenminister Boris Johnson hat schon häufiger mit seinem Benehmen Schlagzeilen produziert. Nun sorgt ein nächtlicher Streit zwischen ihm und seiner Freundin in Großbritannien für Aufsehen. Der Vorfall f… [+3926 chars]"
+          "author": "VIP.de, Star News",
+          "title": "Die Nase der Sängerin ist nun rot und aufgeschürft. Beatrice Egli ist gegen die Tür gelaufen - VIP.de, Star News",
+          "description": "Beatrice Egli hat eigentlich den perfekten Teint. Doch nun hat die Schlagersängerin eine rote, aufgeschürfte Nase.",
+          "url": "https://www.vip.de/cms/beatrice-egli-ist-gegen-die-tuer-gelaufen-4371259.html",
+          "urlToImage": "http://aisvip-a.akamaihd.net/masters/1216319/beatrice-egli-bei-der-lena-hoschek-fashion-show-im-rahmen-der-mbfw-auf-der-berlin-fashion-week-spri.jpg",
+          "publishedAt": "2019-07-14T08:24:40Z",
+          "content": null
       },
       {
           "source": {
@@ -255,12 +138,129 @@
               "name": "Heise.de"
           },
           "author": null,
-          "title": "Sicherheitsprobleme bei der NASA ermöglichten Hackerangriff - heise online",
-          "description": "Unvollständige Datenbanken, liegengelassene Tickets – ein Report über das IT-Zentrum der NASA zeigt gravierende Schwachstellen.",
-          "url": "https://www.heise.de/newsticker/meldung/Sicherheitsprobleme-bei-der-NASA-ermoeglichten-Hackerangriff-4453596.html",
-          "urlToImage": "https://heise.cloudimg.io/bound/1920x1920/q90.png-lossy-90.webp-lossy-90.foil1/_www-heise-de_/imgs/18/2/7/0/1/4/5/2/shutterstock_680076340-ef8e9ac8b6a728b5.jpeg",
-          "publishedAt": "2019-06-23T13:10:00Z",
-          "content": "Nach Sicherheitsproblemen im Jet Propulsion Laboratory (JPL), dem IT-Zentrum der NASA, hat eine Kommission die Sicherheitsvorkehrungen und Arbeitsabläufe geprüft. Die Untersuchungsergebnisse wurden in der vergangenen Woche in einem 43 Seiten starken Report ve… [+2985 chars]"
+          "title": "Amazon: Deutschlandweit mehr als 2.800 neue Arbeitsplätze - heise online",
+          "description": "Bis Ende 2019 will Amazon über 2.800 neue, unbefristete Stellen deutschlandweit schaffen. In Mönchengladbach soll dieses Jahr das 13. Logistikzentrum eröffnen.",
+          "url": "https://www.heise.de/newsticker/meldung/Amazon-Deutschlandweit-mehr-als-2-800-neue-Arbeitsplaetze-4469649.html",
+          "urlToImage": "https://www.heise.de/imgs/18/2/7/1/2/9/3/0/urn-newsml-dpa-com-20090101-171129-99-72692_large_4_3-d3729ab882a6d76b.jpeg",
+          "publishedAt": "2019-07-14T08:20:00Z",
+          "content": "Amazon will in seinen bundesweit über 35 Standorten in Deutschland bis Ende 2019 mehr als 2.800 neue, unbefristete Arbeitsplätze schaffen. Damit steige die Zahl der Mitarbeiter auf deutlich über 20.000, kündigte der amerikanische Online-Händler am Sonntag an.… [+1871 chars]"
+      },
+      {
+          "source": {
+              "id": "spiegel-online",
+              "name": "Spiegel Online"
+          },
+          "author": "Bastian Midasch",
+          "title": "Wimbledon-Finalist Novak Djokovic - der ungeliebte Champion - SPIEGEL ONLINE",
+          "description": "Titelverteidiger Novak Djokovic steht erneut im Finale von Wimbledon. Dort wird die Gunst des Publikums seinem Rivalen Roger Federer gehören. Warum sind die Sympathien so klar verteilt?",
+          "url": "https://www.spiegel.de/sport/sonst/wimbledon-finalist-novak-djokovic-der-ungeliebte-champion-a-1277196.html",
+          "urlToImage": "https://cdn1.spiegel.de/images/image-1448957-860_poster_16x9-bpsa-1448957.jpg",
+          "publishedAt": "2019-07-14T08:11:29Z",
+          "content": "Sonntag, 14.07.2019  \r\n10:11 Uhr\r\nNovak Djokovic musste nur kurz um seinen erneuten Einzug ins Wimbledon-Endspiel bangen. Im zweiten Satz des Halbfinals übernahm Roberto Bautista Agut die Kontrolle. Als der Spanier seinen ersten Satzball verwandelte, hatte er… [+3682 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Netzwelt.de"
+          },
+          "author": "Jessica Mrzik",
+          "title": "Galaxy Watch Active im Test: Ein schlanker Motivationsschub am Handgelenk - netzwelt.de",
+          "description": "Samsung gibt Sportlern eine neue Smartwatch mit auf Joggingstrecken und Schwimmbad-Bahnen. Die Galaxy Watch Active ist die Sport-Version der Galaxy Watch. Damit die Uhr beim Sport nicht stört, ist die Smartwatch deutlich kleiner, flacher und verzichtet auf di…",
+          "url": "https://www.netzwelt.de/samsung-galaxy-watch-active/testbericht-110864.html",
+          "urlToImage": "https://img.netzwelt.de/dw1600_dh900_sw3648_sh2052_sx0_sy342_sr16x9_nu0/picture/original/2019/07/galaxy-watch-active-1jpg-255387.jpg",
+          "publishedAt": "2019-07-14T08:00:00Z",
+          "content": "Samsung gibt Sportlern eine neue Smartwatch mit auf Joggingstrecken und Schwimmbad-Bahnen. Die Galaxy Watch Active ist die Sport-Version der Galaxy Watch. Damit die Uhr beim Sport nicht stört, ist die Smartwatch deutlich kleiner, flacher und verzichtet auf di… [+15481 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Sportschau.de"
+          },
+          "author": "Marco Schyns",
+          "title": "Wimbledon-Siegerin Halep - Eine der wenigen Konstanten - sportschau.de",
+          "description": "Auf der WTA-Tour gibt es viele \"One-Hit-Wonder\" und große Spielerinnen, die häufig enttäuschen. Simona Halep beweist mit ihrem Sieg in Wimbledon, dass sie eine der wenigen Konstanten in der Weltspitze ist.",
+          "url": "https://www.sportschau.de/weitere/tennis/simona-halep-erster-sieg-in-wimbledon100.html",
+          "urlToImage": "https://www.sportschau.de/weitere/tennis/simona-halep104~_v-gseagaleriexl.jpg",
+          "publishedAt": "2019-07-14T08:00:00Z",
+          "content": "\"Vor dem Turnier habe ich zu den Leuten in der Umkleide gesagt, dass ich hier eine lebenslage Mitgliedschaft bekomme, wenn ich gewinne. Das war extra Motivation\", sagte Simona Halep nach ihrem Triumph am Samstag (13.07.2019) im Wimbledon-Finale gegen Serena W… [+1646 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Tagesschau.de"
+          },
+          "author": "tagesschau.de",
+          "title": "Nationalfeiertag in Frankreich: Macron setzt auf europäische Verteidigung - tagesschau.de",
+          "description": "Zum Nationalfeiertag Frankreichs hat Präsident Macron mehrere europäische Partner geladen. Er will die militärische Zusammenarbeit stärken. Zu dem Anlass kündigte er auch ein Weltraumkommando seines Landes an.",
+          "url": "https://www.tagesschau.de/ausland/macron-weltraumkommando-105.html",
+          "urlToImage": "https://www.tagesschau.de/multimedia/bilder/paris-745~_v-videowebm.jpg",
+          "publishedAt": "2019-07-14T07:55:00Z",
+          "content": "Zum Nationalfeiertag Frankreichs hat Präsident Macron mehrere europäische Partner geladen. Er will die militärische Zusammenarbeit stärken. Zu dem Anlass kündigte er auch ein Weltraumkommando seines Landes an.\r\n Frankreichs Präsident Emmanuel Macron will bei … [+2707 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "N-tv.de"
+          },
+          "author": "n-tv NACHRICHTEN",
+          "title": "Kaum Interesse an Parteivorsitz:Gabriel moniert Haltungsproblem in der SPD - n-tv NACHRICHTEN",
+          "description": "Noch führt ein Interims-Trio die SPD. Und wer folgt danach? Sieben Wochen vor Bewerbungsschluss ist das Interesse an der Parteispitze überschaubar. Das ruft Sigmar Gabriel auf den Plan. Der Ex-Vorsitzende beklagt, dass der Posten \"fast wie ein infektiöses Kle…",
+          "url": "https://www.n-tv.de/politik/Gabriel-moniert-Haltungsproblem-in-der-SPD-article21143699.html",
+          "urlToImage": "https://bilder1.n-tv.de/img/incoming/crop21143744/8941326718-cImg_16_9-w1200/121765131.jpg",
+          "publishedAt": "2019-07-14T07:37:26Z",
+          "content": "Noch führt ein Interims-Trio die SPD. Und wer folgt danach? Sieben Wochen vor Bewerbungsschluss ist das Interesse an der Parteispitze überschaubar. Das ruft Sigmar Gabriel auf den Plan. Der Ex-Vorsitzende beklagt, dass der Posten \"fast wie ein infektiöses Kle… [+3237 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Welt.de"
+          },
+          "author": "WELT",
+          "title": "Vermisstenfall Orlandi: Knochen unter der Geheimtür auf dem deutschen Friedhof - WELT",
+          "description": "Neue Spuren bei der Suche nach den Knochen des Mädchens Emanuela Orlandi. Auf dem Deutschen Friedhof im Vatikan sind unter einer Falltür Kammern gefunden worden. Der Fund kam überraschend – und wirft Fragen auf.",
+          "url": "https://www.welt.de/vermischtes/article196811847/Vermisstenfall-Orlandi-Knochen-unter-der-Geheimtuer-auf-dem-deutschen-Friedhof.html",
+          "urlToImage": "https://www.welt.de/img/vermischtes/mobile196811849/8951354267-ci16x9-w1200/Graboeffnung-auf-dem-Pilgerfriedhof-Campo-Santo-Teutonico.jpg",
+          "publishedAt": "2019-07-14T07:27:00Z",
+          "content": "Auf der Suche nach den Überresten eines verschwundenen Mädchens und denen zweier Adeliger auf dem Deutschen Friedhof im Vatikan sind Räume zur Aufbewahrung von Gebeinen entdeckt worden. Die sogenannten Beinhäuser seien mit einer Falltür verschlossen gewesen. … [+1958 chars]"
+      },
+      {
+          "source": {
+              "id": "spiegel-online",
+              "name": "Spiegel Online"
+          },
+          "author": "Jörg Breithut",
+          "title": "HDMI 2.1: Für wen sich die neuen Turbo-TV-Kabel lohnen - SPIEGEL ONLINE",
+          "description": "Manche High-End-Fernseher kommen mit neuen Anschlussbuchsen vom Typ HDMI 2.1. Passende Kabel sind teuer. Wir erklären, was der neue Anschluss bringt.",
+          "url": "https://www.spiegel.de/netzwelt/games/hdmi-2-1-fuer-wen-sich-die-neuen-turbo-tv-kabel-lohnen-a-1275809.html",
+          "urlToImage": "https://cdn1.spiegel.de/images/image-1446033-860_poster_16x9-whir-1446033.jpg",
+          "publishedAt": "2019-07-14T07:24:31Z",
+          "content": "Sonntag, 14.07.2019  \r\n09:24 Uhr\r\nSeit fast 20 Jahren werden Videos von DVD- und Blu-ray-Playern, Spielkonsolen und anderen Geräten mit HDMI-Kabeln an Fernseher, Beamer und Computerbildschirme übertragen. Als dieser Standard 2002 eingeführt wurde boten die da… [+4633 chars]"
+      },
+      {
+          "source": {
+              "id": "spiegel-online",
+              "name": "Spiegel Online"
+          },
+          "author": "Patrick Heidmann",
+          "title": "Francis Ford Coppola über \"Apocalypse Now - Final Cut\": \"Jedes Bild wühlte wieder etwas auf\" - SPIEGEL ONLINE",
+          "description": "Zum 40. Jubiläum von \"Apocalypse Now\" hat Francis Ford Coppola eine neue Fassung seines Meisterwerks geschaffen. Warum dies seine Lieblingsversion ist - und welche Traumata vom Dreh bleiben.",
+          "url": "https://www.spiegel.de/kultur/kino/francis-ford-coppola-ueber-apocalypse-now-final-cut-a-1276731.html",
+          "urlToImage": "https://cdn1.spiegel.de/images/image-1446043-860_poster_16x9-doms-1446043.jpg",
+          "publishedAt": "2019-07-14T07:24:00Z",
+          "content": "Sonntag, 14.07.2019  \r\n09:24 Uhr\r\nSPIEGEL ONLINE: Mr Coppola, die Dreharbeiten zu \"Apocalypse Now\" waren unter anderem von Finanzierungsproblemen, Krankheitsfällen sowie Wetterkatastrophen geplagt. Das war bekanntlich nicht nur, aber auch für Sie persönlich z… [+9301 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Heilpraxisnet.de"
+          },
+          "author": "Alexander Stindt",
+          "title": "Milliarden Partikel in verschmutzter Luft belasten die Herzen von Stadtbewohnern - Heilpraxisnet.de",
+          "description": "Die immer weiter zunehmende Luftverschmutzung löst gesundheitliche Probleme und Krankheiten aus. Besonders schlimm scheinen die Auswirkungen in unseren Städten zu sein. Forschende fanden jetzt heraus, dass die Herzen junger Stadtbewohner Milliarden toxischer …",
+          "url": "https://www.heilpraxisnet.de/naturheilpraxis/milliarden-partikel-in-verschmutzter-luft-belasten-die-herzen-von-stadtbewohnern-20190713460281",
+          "urlToImage": null,
+          "publishedAt": "2019-07-14T07:19:16Z",
+          "content": "Auswirkungen der Luftverschmutzung auf das menschliche Herz\r\nDie immer weiter zunehmende Luftverschmutzung löst gesundheitliche Probleme und Krankheiten aus. Besonders schlimm scheinen die Auswirkungen in unseren Städten zu sein. Forschende fanden jetzt herau… [+4882 chars]"
       }
   ]
 }

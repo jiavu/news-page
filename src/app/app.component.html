@@ -1,12 +1,12 @@
 
 <header>
     <h1>NEWS</h1>
-    <app-update-data (dataReceived)="onDataReceived($event)"></app-update-data>
+    <app-update-data></app-update-data>
     <app-news-control></app-news-control>
 </header>
 
 <main>
   <!-- Results / Articles -->
   <!--          - Article  -->
-  <app-articles *ngIf="newsData" [data]="newsData"></app-articles>
+  <app-articles></app-articles>
 </main>

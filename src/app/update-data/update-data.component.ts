@@ -1,29 +1,23 @@
-import { Component, OnInit, Output, EventEmitter } from '@angular/core';
+import { Component } from '@angular/core';
 
-import { RequestService } from "../request.service";
+import { RequestService } from '../request.service';
 
 @Component({
   selector: 'app-update-data',
   templateUrl: './update-data.component.html',
   styleUrls: ['./update-data.component.scss']
 })
-export class UpdateDataComponent implements OnInit {
 
-  newData;
-
-  @Output() dataReceived = new EventEmitter<object>()
+export class UpdateDataComponent {
 
   constructor(
     private requestService: RequestService
   ) { }
 
-  ngOnInit() {
-  }
-
   updateData() {
-    this.requestService.getNewsData()
-      .subscribe( data => this.newData = data);
-    this.dataReceived.emit(this.newData);
-    /* console.log(this.newData); */
+    this.requestService.getNewsData();
+    /* Set a timeout for the button being
+    deactivated after request! 
+    Requests limited to 500 per day. */
   }
 }

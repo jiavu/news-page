@@ -1,266 +1,266 @@
 {
   "status": "ok",
-  "totalResults": 33,
+  "totalResults": 95,
   "articles": [
       {
           "source": {
-              "id": null,
-              "name": "Merkur.de"
+              "id": "focus",
+              "name": "Focus"
+          },
+          "author": "FOCUS Online",
+          "title": "Wetter ist zweigeteilt: Die Woche startet mit krassen Temperaturunterschieden",
+          "description": "In der neuen Woche ist das Wetter zunächst zweigeteilt: Während sich der Süden bereits über warme Temperaturen freuen kann, ist es im Norden eher ungewöhnlich kühl. Doch das wird sich ändern.",
+          "url": "https://www.focus.de/panorama/wetter-aktuell/wetter-am-montag-wetter-ist-zweigeteilt-die-woche-startet-mit-krassen-temperaturunterschieden_id_10925283.html",
+          "urlToImage": "https://p5.focus.de/img/fotos/crop10913425/8992717879-w1200-h627-o-q75-p5/sonne-wolken-twc.jpg",
+          "publishedAt": "2019-07-14T18:50:00Z",
+          "content": "In der neuen Woche ist das Wetter zunächst zweigeteilt: Während sich der Süden bereits über warme Temperaturen freuen kann, ist es im Norden eher ungewöhnlich kühl. Doch das wird sich ändern.In der neuen Woche setzt sich zunehmend Hochdruckwetter durch. Zunäc… [+1047 chars]"
+      },
+      {
+          "source": {
+              "id": "die-zeit",
+              "name": "Die Zeit"
+          },
+          "author": "Andreas Bummel, Jo Leinen",
+          "title": "Anacharsis Cloots: \"Lang lebe die Weltrepublik!\"",
+          "description": "Ein Europaparlament? Nein, eines, das die ganze Menschheit eint: Das forderte vor mehr als 200 Jahren Anacharsis Cloots. 1794 starb er unter der Guillotine, seine Ideen wirken bis heute fort.",
+          "url": "https://www.zeit.de/2019/29/anacharsis-cloots-weltrepublik-eu-franzoesische-revolution",
+          "urlToImage": "https://img.zeit.de/2019/29/anacharsis-cloots-weltrepublik/wide__1300x731",
+          "publishedAt": "2019-07-14T18:44:53+00:00",
+          "content": "Im Ringen um die Freiheit öffnete sich für kurze Zeit, nur für wenige\r\n Jahre, ein auch im Rückblick noch erstaunlich weiter Horizont. Was war nicht alles denkbar,\r\n was schien nicht alles möglich in jener frühen Phase der Französischen Revolution, als der\r\n … [+656 chars]"
+      },
+      {
+          "source": {
+              "id": "der-tagesspiegel",
+              "name": "Der Tagesspiegel"
+          },
+          "author": "Bernhard Schulz",
+          "title": "Eine Zumutung für die aufgeklärte Gesellschaft",
+          "description": "Den Nachfahren der Preußenkönige geht es mit ihren Forderungen nicht nur um Geld. Sie verlangen auch die Deutungshoheit über die Geschichte. Ein Kommentar.",
+          "url": "https://www.tagesspiegel.de/kultur/bizarre-forderungen-der-hohenzollern-eine-zumutung-fuer-die-aufgeklaerte-gesellschaft/24591532.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/kaiser-wilhelm-ii-und-kaiserin-auguste-viktoria/24591560/2-format530.jpg",
+          "publishedAt": "2019-07-14T18:43:12+00:00",
+          "content": "\"Der Preußische Finanzminister führte aus, dass die Preußische Staatsregierung den dringenden Wunsch hätten, zu einer annehmbaren Auseinandersetzung mit dem Hohenzollernhause zu kommen\", heißt es im Protokoll einer Reichstagssitzung vom April 1926. Wer hätte … [+2389 chars]"
+      },
+      {
+          "source": {
+              "id": "die-zeit",
+              "name": "Die Zeit"
+          },
+          "author": "Franziska  Tschinderle",
+          "title": "Frauenrechte in der Türkei: \"Meine liebe Hatice ...\"",
+          "description": "Meral und Hatice haben in der Türkei für Frauenrechte gekämpft. Die eine musste deshalb ins Gefängnis, die andere ins Exil. Die Geschichte einer Freundschaft",
+          "url": "https://www.zeit.de/campus/2019/04/frauenrechte-tuerkei-aktivismus-freundschaft-exil-gefaengnis",
+          "urlToImage": "https://img.zeit.de/campus/2019/04/tuerkei-frauenrechte-meral/wide__1300x731",
+          "publishedAt": "2019-07-14T18:42:24+00:00",
+          "content": "Meral und Hatice haben in der Türkei für Frauenrechte gekämpft. Die eine musste deshalb ins Gefängnis, die andere ins Exil. Die Geschichte einer Freundschaft\r\nMeine liebe Schwester Hatice,das ist mein erster Brief an dich ins Gefängnis. Ich hoffe, er erreicht… [+3344 chars]"
+      },
+      {
+          "source": {
+              "id": "die-zeit",
+              "name": "Die Zeit"
+          },
+          "author": "ZEIT ONLINE",
+          "title": "Wimbledon: Novak Đoković gewinnt Endspiel gegen Federer",
+          "description": "Der Serbe Novak Đoković hat das Tennisturnier von Wimbledon gewonnen. Im Finale in besiegte er den achtmaligen Sieger Roger Federer aus der Schweiz.",
+          "url": "https://www.zeit.de/sport/2019-07/wimbledon-finale-roger-federer-novak-dokovic-london",
+          "urlToImage": "https://img.zeit.de/sport/2019-07/wimbledon-finale-novak-dokovic/wide__1300x731",
+          "publishedAt": "2019-07-14T18:35:54+00:00",
+          "content": "Im längsten Finale der Wimbledon-Geschichte hat Novak Djokovic die \r\nHoffnungen von Roger Federer auf den nächsten grandiosen Tennis-Coup \r\nzerstört. Im Endspiel über fünf Sätze bezwang der \r\nserbische Weltranglisten-Erste den achtmaligen \r\nWimbledonsieger au… [+419 chars]"
+      },
+      {
+          "source": {
+              "id": "die-zeit",
+              "name": "Die Zeit"
+          },
+          "author": "Denis Gießler",
+          "title": "Stranger Things 3: Nix los in Hawkins",
+          "description": "Netflix will jetzt auch Geld mit Games verdienen und versucht es mit einem Spiel zur Serie \"Stranger Things\". Allerdings läuft da einiges falsch.",
+          "url": "https://www.zeit.de/digital/games/2019-07/stranger-things-3-videospiel-netflix-serie",
+          "urlToImage": "https://img.zeit.de/digital/games/2019-07/stranger-things-3-game-3/wide__1300x731",
+          "publishedAt": "2019-07-14T18:27:36+00:00",
+          "content": "Nach sieben Stunden ist es endlich vorbei. So lange dauert das neue Stranger-Things-Spiel, das Netflix gerade rausgebracht hat. Darin bewegen sich Spielerinnen und Spieler in der 16-Bit-Retro-Optik aus der Vogelperspektive allein oder mit einem Freund durch v… [+3739 chars]"
+      },
+      {
+          "source": {
+              "id": "der-tagesspiegel",
+              "name": "Der Tagesspiegel"
           },
           "author": null,
-          "title": "Bayern: Traktor überrollt zwei Kinder (10, 13) - tot! Teenie am Steuer - Balderschwang | Bayern - merkur.de",
-          "description": "Zwei Kinder sind im Allgäu von einem Traktor überrollt und dabei getötet worden. Die beiden hatten am Samstagabend zusammen mit zwei weiteren Kindern eine Ausfahrt gemacht.",
-          "url": "https://www.merkur.de/bayern/bayern-traktor-ueberrollt-zwei-kinder-10-13-tot-teenie-am-steuer-balderschwang-12816863.html",
-          "urlToImage": "https://www.merkur.de/bilder/2019/07/14/12816863/1375094717-zwei-tote-kinder-nach-traktorunfall-im-allgaeu-iqByydJj18zqxhIhef.jpg",
-          "publishedAt": "2019-07-14T10:47:22Z",
-          "content": "Zwei Kinder sind im Allgäu von einem Traktor überrollt und dabei getötet worden. Die beiden hatten am Samstagabend zusammen mit zwei weiteren Kindern eine Ausfahrt gemacht.Update 14. Juli 2019, 12.30 Uhr: Wie die Kronen-Zeitung berichtet, stammen die getötete… [+2043 chars]"
+          "title": "Und die Helikopter fliegen wieder",
+          "description": "Schon einmal gab es eine Neuauflage von „Apocalypse Now“, nun soll es wirklich die endgültige Fassung sein – inklusive Videobotschaft von Altmeister Coppola.",
+          "url": "https://www.tagesspiegel.de/kultur/apocalypse-now-final-cut-im-kino-und-die-helikopter-fliegen-wieder/24591822.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/heprodimagesfotos86120190715coppola_1073_1_20190714122749166-jpg/24591818/2-format530.jpg",
+          "publishedAt": "2019-07-14T18:25:35+00:00",
+          "content": "Wer am heutigen Montag ins Kino geht, um Apocalypse Now Final Cut zu sehen, wird erst mal nicht den legendären establishing shot des nicht minder legendären Films sehen: den Blick auf den Dschungel, zu dem sich die Geräusche der Rotorblätter von Helikoptern u… [+5706 chars]"
       },
       {
           "source": {
-              "id": null,
-              "name": "T-online.de"
+              "id": "focus",
+              "name": "Focus"
           },
-          "author": "Maria Holzhauer, t-online.de",
-          "title": "Herzogin Kate und Herzogin Meghan gemeinsam bei Wimbledon – Harmonie pur - t-online.de",
-          "description": "Immer wieder gibt es aktuell Gerüchte über Streitigkeiten zwischen den beiden Herzoginnen und ihren Männern. Beim Wimbledon-Finale der Damen gab es zwischen Kate und Meghan keine Spur von Uneinigkeiten.",
-          "url": "https://www.t-online.de/unterhaltung/stars/royals/id_86091488/herzogin-kate-und-herzogin-meghan-gemeinsam-bei-wimbledon-harmonie-pur-.html",
-          "urlToImage": "https://bilder.t-online.de/b/86/09/17/08/id_86091708/tid_da/herzogin-kate-und-herzogin-meghan-hat-nicht-den-anschein-als-waeren-zerstritten-wie-immer-wieder-behauptet-wird-.jpg",
-          "publishedAt": "2019-07-14T10:44:00Z",
-          "content": "Immer wieder gibt es Gerüchte über Streit zwischen den beiden Herzoginnen und ihren Männern. Beim Wimbledon-Finale der Damen gab es zwischen Kate und Meghan keine Spur von Zwist im Gegenteil.\r\nAm Mittwoch schauten sie ihren Männern gemeinsam mit ihren Kindern… [+2374 chars]"
+          "author": "FOCUS Online",
+          "title": "Offene Beziehung: Mit diesen Regeln hält die Liebe ohne Treue",
+          "description": "Kuscheln, küssen, Sex – in einer offenen Beziehung tut man das nicht nur mit seinem Partner, sondern mit mehreren Personen. Immer mehr Menschen können sich das vorstellen. Paartherapeutin Alexandra Hartmann erklärt, wie das Beziehungskonstrukt gelingen kann –…",
+          "url": "https://www.focus.de/familie/beziehung/paartherapeutin-erklaert-liebe-ohne-treue-mit-welchen-sex-regeln-eine-offene-beziehung-funktionieren-kann_id_10172191.html",
+          "urlToImage": "https://p5.focus.de/img/fotos/crop9957805/2182711405-w1200-h627-o-q75-p5/gettyimages-870541914.jpg",
+          "publishedAt": "2019-07-14T18:23:00Z",
+          "content": "Kuscheln, küssen, Sex in einer offenen Beziehung tut man das nicht nur mit seinem Partner, sondern mit mehreren Personen. Immer mehr Menschen können sich das vorstellen. Paartherapeutin Alexandra Hartmann erklärt, wie das Beziehungskonstrukt gelingen kann und… [+6565 chars]"
       },
       {
           "source": {
-              "id": null,
-              "name": "Web.de"
+              "id": "der-tagesspiegel",
+              "name": "Der Tagesspiegel"
           },
-          "author": null,
-          "title": "Schily kritisiert SPD-Vorbehalte gegen von der Leyen - WEB.DE News",
-          "description": "Mit der Nominierung von Ursula von der Leyen als EU-Kommissionspräsidentin ist die SPD - gelinde gesagt - unzufrieden. Die 16 Abgeordneten im Brüsseler Parlament lehnen es ab, die Bundesministerin am kommenden Dienstag zu wählen. Dafür werden die Genossen nun…",
-          "url": "https://web.de/magazine/politik/wahlen/europawahl/schily-kritisiert-spd-vorbehalte-leyen-33845008",
-          "urlToImage": "https://i0.web.de/image/314/33845314,pd=1,f=opengraph.jpg",
-          "publishedAt": "2019-07-14T09:11:00Z",
-          "content": "Mit der Nominierung von Ursula von der Leyen als EU-Kommissionspräsidentin ist die SPD - gelinde gesagt - unzufrieden. Die 16 Abgeordneten im Brüsseler Parlament lehnen es ab, die Bundesministerin am kommenden Dienstag zu wählen. Für ihre \"schäbige Kampagne\" … [+5359 chars]"
+          "author": "Jörg Leopold",
+          "title": "Djokovic gewinnt episches Finale gegen Federer",
+          "description": "Was für ein Finale! Fünf Stunden hauen sich Federer und Djokovic die Bälle um die Ohren - am Ende gewinnt der Serbe. Mehr im Blog.",
+          "url": "https://www.tagesspiegel.de/sport/wimbledon-2019-im-blog-djokovic-gewinnt-episches-finale-gegen-federer/24501820.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/joker/24592466/2-format530.jpg",
+          "publishedAt": "2019-07-14T18:10:54+00:00",
+          "content": "Was für ein Finale! Fünf Stunden hauen sich Federer und Djokovic die Bälle um die Ohren - am Ende gewinnt der Serbe. Mehr im Blog."
       },
       {
           "source": {
-              "id": null,
-              "name": "Web.de"
+              "id": "der-tagesspiegel",
+              "name": "Der Tagesspiegel"
           },
-          "author": null,
-          "title": "Emmanuel Macron will militärischen Weltraumkommando im All - WEB.DE News",
-          "description": "Frankreichs Präsident Emmanuel Macron hat den Aufbau eines militärischen Weltraumkommandos angekündigt. Der Weltraum sei ein \"neuer Bereich der Konfrontation\", den er \"aus dem Weltraum\" verteidigen wolle.",
-          "url": "https://web.de/magazine/politik/emmanuel-macron-militaerisches-weltraumkommando-all-33844756",
-          "urlToImage": "https://i0.web.de/image/046/33845046,pd=2,f=opengraph.jpg",
-          "publishedAt": "2019-07-14T09:00:00Z",
-          "content": "Frankreichs Präsident Emmanuel Macron hat den Aufbau eines militärischen Weltraumkommandos angekündigt. Der Weltraum sei ein \"neuer Bereich der Konfrontation\", den er \"aus dem Weltraum\" verteidigen wolle.\r\nMehr aktuelle News finden Sie hier\r\n\"Um die Entwicklu… [+1591 chars]"
+          "author": "Susanne Vieth-Entus",
+          "title": "So beliebt sind Gymnasien ab Klasse 5",
+          "description": "Unter Rot-Rot-Grün ist der frühe Wechsel auf die Oberschule nur gelitten. Entsprechend geknausert wird bei den Angeboten.",
+          "url": "https://www.tagesspiegel.de/berlin/starkes-bezirksunterschiede-bei-schulwahl-in-berlin-so-beliebt-sind-gymnasien-ab-klasse-5/24591940.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/heprodimagesfotos83120180830jugend_363_1_20180829164018484-jpg/22973248/3-format530.jpg",
+          "publishedAt": "2019-07-14T18:10:16+00:00",
+          "content": "Es gibt Daten, die würde Bildungssenatorin Sandra Scheeres (SPD) lieber für sich behalten. Dazu gehören die Anmeldezahlen für Berlins Gymnasien ab Klasse 5: Mehrere Monate lang weigerten sich ihre Sprecher, entsprechende Tagesspiegelanfragen zu beantworten: M… [+5661 chars]"
       },
       {
           "source": {
-              "id": "spiegel-online",
-              "name": "Spiegel Online"
+              "id": "handelsblatt",
+              "name": "Handelsblatt"
           },
-          "author": "SPIEGEL ONLINE",
-          "title": "Brand in Saunaklub: Männer nehmen Feuerwehr die Schläuche weg - SPIEGEL ONLINE",
-          "description": "Ein 64-Jähriger ist bei einem Brand in einem Saunaklub bei Wesel ums Leben gekommen. Die Löscharbeiten wurden von mehreren Männern gestört, die sich mit den Wasserschläuchen der Feuerwehr gegenseitig bespritzen wollten.",
-          "url": "https://www.spiegel.de/panorama/gesellschaft/brand-in-saunaclub-maenner-nehmen-feuerwehr-die-schlaeuche-weg-a-1277239.html",
-          "urlToImage": "https://cdn1.spiegel.de/images/image-1449049-860_poster_16x9-ptuw-1449049.jpg",
-          "publishedAt": "2019-07-14T08:48:00Z",
-          "content": "Sonntag, 14.07.2019  \r\n10:48 Uhr\r\nBei einem Brand in einem Saunaklub im niederrheinischen Hamminkeln bei Wesel ist ein Mann ums Leben gekommen. Mitarbeiter des Klubs hatten das Feuer bemerkt und die Feuerwehr alarmiert. Ein Gast wurde zunächst vermisst. Als d… [+529 chars]"
+          "author": "Reuters",
+          "title": "Leitzinsen in der Türkei sollen kräftig sinken",
+          "description": "Bis Jahresende soll die Inflation in der Türkei einstellig sein. Der neue Notenbankchef Uysal gilt als Befürworter einer lockeren Geldpolitik.",
+          "url": "https://www.handelsblatt.com/finanzen/geldpolitik/erdogan-leitzinsen-in-der-tuerkei-sollen-kraeftig-sinken-/24592464.html",
+          "urlToImage": "https://www.handelsblatt.com/images/recep-tayyip-erdogan/24592476/2-format2003.jpg",
+          "publishedAt": "2019-07-14T18:10:00+00:00",
+          "content": "IstanbulDie Leitzinsen in der Türkei werden nach Worten von Präsident Tayypip Recep Erdogan deutlich sinken. Das Land wolle die Inflation bis Ende des Jahres von über 15 Prozent auf einen prozentual einstelligen Wert reduzieren, zitierte der Sender Habertürk … [+1288 chars]"
+      },
+      {
+          "source": {
+              "id": "wirtschafts-woche",
+              "name": "Wirtschafts Woche"
+          },
+          "author": "Wirtschaftswoche",
+          "title": "Erdogan : Leitzinsen in der Türkei sollen kräftig sinken",
+          "description": "Bis Jahresende soll die Inflation in der Türkei einstellig sein. Der neue Notenbankchef Uysal gilt als Befürworter einer lockeren Geldpolitik.",
+          "url": "https://www.handelsblatt.com/finanzen/geldpolitik/erdogan-leitzinsen-in-der-tuerkei-sollen-kraeftig-sinken-/24592464.html",
+          "urlToImage": "https://www.wiwo.de/images/wiwo_logo/4516976/3-formatOriginal.jpg",
+          "publishedAt": "2019-07-14T18:10:00+00:00",
+          "content": "Für Nachrichtenseiten wie WirtschaftsWoche Online sind Anzeigen eine wichtige Einnahmequelle. Mit den Werbeerlösen können wir die Arbeit unserer Redaktion bezahlen und Qualitätsartikel kostenfrei veröffentlichen.\r\nLeider verweigern Sie uns diese Einnahmen. We… [+113 chars]"
       },
       {
           "source": {
               "id": "bild",
               "name": "Bild"
           },
-          "author": "FRANK OCHSE",
-          "title": "Nicht alles ist heiß: Die vier Tops und Flops beim Prime Day von Amazon - BILD",
-          "description": "Am Montag beginnt der Prime Day 2019. Amazon haut jede Menge Angebote für Kunden mit Prime-Mitgliedschaft raus. Achtung, Blender-Angebote!",
-          "url": "https://www.bild.de/geld/wirtschaft/wirtschaft/nicht-alles-ist-heiss-die-vier-tops-und-flops-beim-prime-day-von-amazon-63279938.bild.html",
-          "urlToImage": "https://bilder.bild.de/fotos/nicht-alles-ist-heiss-die-vier-tops-und-flops-beim-prime-day-von-amazon-201182355-63280028/Bild/5.bild.jpg",
-          "publishedAt": "2019-07-14T08:42:56Z",
-          "content": "Am Montag beginnt der Prime Day 2019. Amazon haut jede Menge Angebote für Kunden mit Prime-Mitgliedschaft (69 Euro/Jahr) raus. Mit wenigen Ausnahmen macht Amazon ein Geheimnis aus den Schnäppchen  damit sich die Konkurrenz nicht drauf einstellen kann. Ich mei… [+5593 chars]"
+          "author": null,
+          "title": "BILD erklärt die schräge Geheimsprache der Polizei",
+          "description": "Schon mal einem Polizisten im Einsatz zugehört? Und, alles verstanden?Die Beamten kürzen gern alles ab, auch um Zeit zu sparen. Denn es zählt jede Sekunde, auch im Büro. Da ruft der Chef schon mal „drei PMs müssen heute zur SuSi“ über den Flur.Lesen Sie mit B…",
+          "url": "http://www.bild.de/bild-plus/news/inland/news-inland/bild-erklaert-die-schraege-geheimsprache-der-polizei-63069804.bild.html",
+          "urlToImage": "https://bilder.bild.de/fotos/bild-erklaert-die-schraege-geheimsprache-der-polizei-201174148-63074276/Bild/5,club=bildplus.bild.jpg",
+          "publishedAt": "2019-07-14T18:09:17Z",
+          "content": "Schon mal einem Polizisten im Einsatz zugehört? Und, alles verstanden?\r\nDie Beamten kürzen gern alles ab, auch um Zeit zu sparen. Denn es zählt jede Sekunde, auch im Büro. Da ruft der Chef schon mal drei PMs müssen heute zur SuSi über den Flur.\r\nLesen Sie mit… [+126 chars]"
       },
       {
           "source": {
-              "id": null,
-              "name": "Faz.net"
-          },
-          "author": "dpa",
-          "title": "Seenotrettung : Lindner will Schiffbrüchige nach Afrika zurückbringen - FAZ - Frankfurter Allgemeine Zeitung",
-          "description": "Der FDP-Vorsitzende fordert eine staatliche Seenotrettung im Mittelmeer und legale Fluchtwege nach Europa. Es dürfe aber keine Beihilfe zur Schlepperkriminalität geben.",
-          "url": "https://www.faz.net/aktuell/politik/ausland/lindner-will-schiffbruechige-nach-afrika-zurueckbringen-16283956.html",
-          "urlToImage": "https://media0.faz.net/ppmedia/aktuell/4073761189/1.6283960/facebook_teaser/fdp-chef-christian-lindner.jpg",
-          "publishedAt": "2019-07-14T08:38:00Z",
-          "content": "In der Debatte über die Seenotrettung im Mittelmeer hat sich der FDP-Vorsitzende Christian Lindner für die Schaffung legaler Fluchtwege nach Europa und menschenwürdiger Unterkunftsmöglichkeiten in Nordafrika ausgesprochen. Unterlassene Hilfeleistung ist nicht… [+1419 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "T-online.de"
-          },
-          "author": "dpa",
-          "title": "USA – Louisiana: Sturm \"Barry\" setzt Südküste unter Wasser - t-online.de",
-          "description": "Tropensturm 'Barry' ist in Louisiana auf Land getroffen. Der Wind ist weniger heftig als befürchtet, der Region drohen allerdings schwere Überschwemmungen.",
-          "url": "https://www.t-online.de/nachrichten/panorama/katastrophen/id_86092522/usa-louisiana-sturm-barry-setzt-suedkueste-unter-wasser.html",
-          "urlToImage": "https://bilder.t-online.de/b/86/09/25/24/id_86092524/tid_da/-erste-auswirkungen-von-barry-personen-waten-in-mandeville-us-staat-louisiana-durch-eine-ueberschwemmte-strasse-.jpg",
-          "publishedAt": "2019-07-14T08:37:00Z",
-          "content": "Tropensturm \"Barry\" ist in Louisiana auf Land getroffen. Der Wind ist weniger heftig als befürchtet, der Region drohen allerdings schwere Überschwemmungen.\r\nDer Tropensturm \"Barry\" hat die Südküste der USA heimgesucht und unter Wasser gesetzt. Im Bundesstaat … [+3791 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "T-online.de"
-          },
-          "author": "t-online.de, sid",
-          "title": "Paris Saint-Germain: Neymar gießt schon wieder Öl ins Feuer - t-online.de",
-          "description": "Unentschuldigtes Fehlen, Strandfußball statt Training, Wechselwunsch. Neymar sorgt in Paris aktuell für mächtig Unruhe. Und er legt nun nach. Die Fans erfreut das gar nicht.",
-          "url": "https://www.t-online.de/sport/fussball/international/id_86093164/paris-saint-germain-neymar-giesst-schon-wieder-oel-ins-feuer.html",
-          "urlToImage": "https://bilder.t-online.de/b/86/09/31/66/id_86093166/tid_da/wird-allmaehlich-zum-enfant-terrible-neymar-.jpg",
-          "publishedAt": "2019-07-14T08:32:00Z",
-          "content": "Unentschuldigtes Fehlen, Strandfußball statt Training, Wechselwunsch. Neymar sorgt in Paris aktuell für mächtig Unruhe. Und er legt nun nach. Die Fans erfreut das gar nicht.\r\nInmitten der Spekulationen um seine Rückkehr von Paris St. Germain zum FC Barcelona … [+1823 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Www.vip.de"
-          },
-          "author": "VIP.de, Star News",
-          "title": "Die Nase der Sängerin ist nun rot und aufgeschürft. Beatrice Egli ist gegen die Tür gelaufen - VIP.de, Star News",
-          "description": "Beatrice Egli hat eigentlich den perfekten Teint. Doch nun hat die Schlagersängerin eine rote, aufgeschürfte Nase.",
-          "url": "https://www.vip.de/cms/beatrice-egli-ist-gegen-die-tuer-gelaufen-4371259.html",
-          "urlToImage": "http://aisvip-a.akamaihd.net/masters/1216319/beatrice-egli-bei-der-lena-hoschek-fashion-show-im-rahmen-der-mbfw-auf-der-berlin-fashion-week-spri.jpg",
-          "publishedAt": "2019-07-14T08:24:40Z",
-          "content": null
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Heise.de"
+              "id": "bild",
+              "name": "Bild"
           },
           "author": null,
-          "title": "Amazon: Deutschlandweit mehr als 2.800 neue Arbeitsplätze - heise online",
-          "description": "Bis Ende 2019 will Amazon über 2.800 neue, unbefristete Stellen deutschlandweit schaffen. In Mönchengladbach soll dieses Jahr das 13. Logistikzentrum eröffnen.",
-          "url": "https://www.heise.de/newsticker/meldung/Amazon-Deutschlandweit-mehr-als-2-800-neue-Arbeitsplaetze-4469649.html",
-          "urlToImage": "https://www.heise.de/imgs/18/2/7/1/2/9/3/0/urn-newsml-dpa-com-20090101-171129-99-72692_large_4_3-d3729ab882a6d76b.jpeg",
-          "publishedAt": "2019-07-14T08:20:00Z",
-          "content": "Amazon will in seinen bundesweit über 35 Standorten in Deutschland bis Ende 2019 mehr als 2.800 neue, unbefristete Arbeitsplätze schaffen. Damit steige die Zahl der Mitarbeiter auf deutlich über 20.000, kündigte der amerikanische Online-Händler am Sonntag an.… [+1871 chars]"
+          "title": "Todesurteil nach Mord an Thailand-Touristin: Mutter des Mörders spricht in BILD",
+          "description": "Ronnakorn Romruen (24) vergewaltigte und tötete im Drogenrausch die deutsche Touristin Miriam B. (27). Vor wenigen Tagen wurde der thailändische Müllsammler deswegen zum Tode verurteilt – für die Mutter des Täters ein Schock.BILD traf Nongluck Pohsaeng (43) n…",
+          "url": "http://www.bild.de/bild-plus/news/ausland/news-ausland/todesurteil-nach-mord-an-thailand-touristin-mutter-des-moerders-spricht-in-bild-63284064.bild.html",
+          "urlToImage": "https://bilder.bild.de/fotos/todesurteil-nach-mord-an-thailand-touristin-mutter-des-moerders-spricht-in-bild-201182630-63286494/Bild/7,club=bildplus.bild.jpg",
+          "publishedAt": "2019-07-14T18:04:08Z",
+          "content": "Ronnakorn Romruen (24) vergewaltigte und tötete im Drogenrausch die deutsche Touristin Miriam B. (27). Vor wenigen Tagen wurde der thailändische Müllsammler deswegen zum Tode verurteilt  für die Mutter des Täters ein Schock.\r\nBILD traf Nongluck Pohsaeng (43) … [+211 chars]"
       },
       {
           "source": {
-              "id": "spiegel-online",
-              "name": "Spiegel Online"
+              "id": "focus",
+              "name": "Focus"
           },
-          "author": "Bastian Midasch",
-          "title": "Wimbledon-Finalist Novak Djokovic - der ungeliebte Champion - SPIEGEL ONLINE",
-          "description": "Titelverteidiger Novak Djokovic steht erneut im Finale von Wimbledon. Dort wird die Gunst des Publikums seinem Rivalen Roger Federer gehören. Warum sind die Sympathien so klar verteilt?",
-          "url": "https://www.spiegel.de/sport/sonst/wimbledon-finalist-novak-djokovic-der-ungeliebte-champion-a-1277196.html",
-          "urlToImage": "https://cdn1.spiegel.de/images/image-1448957-860_poster_16x9-bpsa-1448957.jpg",
-          "publishedAt": "2019-07-14T08:11:29Z",
-          "content": "Sonntag, 14.07.2019  \r\n10:11 Uhr\r\nNovak Djokovic musste nur kurz um seinen erneuten Einzug ins Wimbledon-Endspiel bangen. Im zweiten Satz des Halbfinals übernahm Roberto Bautista Agut die Kontrolle. Als der Spanier seinen ersten Satzball verwandelte, hatte er… [+3682 chars]"
+          "author": "FOCUS Online",
+          "title": "Abrüstung für Russland: Nato und EU appellieren zu Vernunft",
+          "description": "Der Abrüstungsvertrag INF steht vor dem Ende. EU und Nato zeigen sich besorgt - doch die USA und Russland wollen nicht einlenken. Russland rüstet nach Ansicht der Amerikaner mit Raketen auf, deren Reichweite nicht unter die Vorgaben des Vertrags fallen sollen…",
+          "url": "https://www.focus.de/politik/ausland/nato-und-eu-appellieren-zu-vernunft-mit-reichweitenarmen-raketen-russland-ruestet-sich-fuer-europa-kriege_id_10925521.html",
+          "urlToImage": "https://p5.focus.de/img/fotos/crop10890914/2952718429-w1200-h627-o-q75-p5/wladimir-putin.jpg",
+          "publishedAt": "2019-07-14T17:51:27Z",
+          "content": "Der Abrüstungsvertrag INF steht vor dem Ende. EU und Nato zeigen sich besorgt - doch die USA und Russland wollen nicht einlenken. Russland rüstet nach Ansicht der Amerikaner mit Raketen auf, deren Reichweite nicht unter die Vorgaben des Vertrags fallen sollen… [+4175 chars]"
       },
       {
           "source": {
-              "id": null,
-              "name": "Netzwelt.de"
+              "id": "der-tagesspiegel",
+              "name": "Der Tagesspiegel"
           },
-          "author": "Jessica Mrzik",
-          "title": "Galaxy Watch Active im Test: Ein schlanker Motivationsschub am Handgelenk - netzwelt.de",
-          "description": "Samsung gibt Sportlern eine neue Smartwatch mit auf Joggingstrecken und Schwimmbad-Bahnen. Die Galaxy Watch Active ist die Sport-Version der Galaxy Watch. Damit die Uhr beim Sport nicht stört, ist die Smartwatch deutlich kleiner, flacher und verzichtet auf di…",
-          "url": "https://www.netzwelt.de/samsung-galaxy-watch-active/testbericht-110864.html",
-          "urlToImage": "https://img.netzwelt.de/dw1600_dh900_sw3648_sh2052_sx0_sy342_sr16x9_nu0/picture/original/2019/07/galaxy-watch-active-1jpg-255387.jpg",
-          "publishedAt": "2019-07-14T08:00:00Z",
-          "content": "Samsung gibt Sportlern eine neue Smartwatch mit auf Joggingstrecken und Schwimmbad-Bahnen. Die Galaxy Watch Active ist die Sport-Version der Galaxy Watch. Damit die Uhr beim Sport nicht stört, ist die Smartwatch deutlich kleiner, flacher und verzichtet auf di… [+15481 chars]"
+          "author": null,
+          "title": "Neun Tote bei Absturz von Touristenflugzeug in Schweden",
+          "description": "Kurz nach dem Start ist ein Kleinflugzeug in Nordschweden verunglückt. Es sollte Fallschirmspringer in Sprunghöhe bringen.",
+          "url": "https://www.tagesspiegel.de/gesellschaft/maschine-mit-fallschirmspringern-an-bord-neun-tote-bei-absturz-von-touristenflugzeug-in-schweden/24592378.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/flugzeugabsturz-in-schweden/24592418/1-format530.jpg",
+          "publishedAt": "2019-07-14T17:51:23+00:00",
+          "content": "Neun Menschen sind bei einem Flugzeugabsturz in Nordschweden gestorben. Alle Insassen seien bei dem Unglück ums Leben gekommen, sagte eine Sprecherin der Regionalverwaltung von Västerbotten. Zur Identität der Opfer machte sie keine Angaben. Nach schwedischen … [+1035 chars]"
       },
       {
           "source": {
-              "id": null,
-              "name": "Sportschau.de"
+              "id": "bild",
+              "name": "Bild"
           },
-          "author": "Marco Schyns",
-          "title": "Wimbledon-Siegerin Halep - Eine der wenigen Konstanten - sportschau.de",
-          "description": "Auf der WTA-Tour gibt es viele \"One-Hit-Wonder\" und große Spielerinnen, die häufig enttäuschen. Simona Halep beweist mit ihrem Sieg in Wimbledon, dass sie eine der wenigen Konstanten in der Weltspitze ist.",
-          "url": "https://www.sportschau.de/weitere/tennis/simona-halep-erster-sieg-in-wimbledon100.html",
-          "urlToImage": "https://www.sportschau.de/weitere/tennis/simona-halep104~_v-gseagaleriexl.jpg",
-          "publishedAt": "2019-07-14T08:00:00Z",
-          "content": "\"Vor dem Turnier habe ich zu den Leuten in der Umkleide gesagt, dass ich hier eine lebenslage Mitgliedschaft bekomme, wenn ich gewinne. Das war extra Motivation\", sagte Simona Halep nach ihrem Triumph am Samstag (13.07.2019) im Wimbledon-Finale gegen Serena W… [+1646 chars]"
+          "author": "MARC SIEKMANN",
+          "title": "Schalke: 2:2 in Wattenscheid – Aber bei Markus Schubert steht die Null",
+          "description": "Zwei Debüts, zwei Tore, zwei Abwehrböcke: Schalke trennt sich 2:2 von Viertligist Wattenscheid. Das Fazit: Eine Menge Arbeit wartet noch auf Schalke.",
+          "url": "http://www.bild.de/sport/fussball/fussball/schalke-2-2-in-wattenscheid-aber-bei-markus-schubert-steht-die-null-63293726.bild.html",
+          "urlToImage": "https://bilder.bild.de/fotos/schalke-22-in-wattenscheid--aber-bei-markus-schubert-steht-die-null-201182945-63293868/Bild/1.bild.jpg",
+          "publishedAt": "2019-07-14T17:48:32Z",
+          "content": "Das 2:2 in Wattenscheid dürfte Trainer David Wagner (47) deutlich mehr Anschauungsmaterial liefern als das 20:1 gegen Bottrops Stadtauswahl...\r\nDie 8009 Zuschauer sahen besonders in der zweiten Halbzeit einen wenig inspirierten Auftritt der Königsblauen. Nur … [+1099 chars]"
       },
       {
           "source": {
-              "id": null,
-              "name": "Tagesschau.de"
+              "id": "die-zeit",
+              "name": "Die Zeit"
           },
-          "author": "tagesschau.de",
-          "title": "Nationalfeiertag in Frankreich: Macron setzt auf europäische Verteidigung - tagesschau.de",
-          "description": "Zum Nationalfeiertag Frankreichs hat Präsident Macron mehrere europäische Partner geladen. Er will die militärische Zusammenarbeit stärken. Zu dem Anlass kündigte er auch ein Weltraumkommando seines Landes an.",
-          "url": "https://www.tagesschau.de/ausland/macron-weltraumkommando-105.html",
-          "urlToImage": "https://www.tagesschau.de/multimedia/bilder/paris-745~_v-videowebm.jpg",
-          "publishedAt": "2019-07-14T07:55:00Z",
-          "content": "Zum Nationalfeiertag Frankreichs hat Präsident Macron mehrere europäische Partner geladen. Er will die militärische Zusammenarbeit stärken. Zu dem Anlass kündigte er auch ein Weltraumkommando seines Landes an.\r\n Frankreichs Präsident Emmanuel Macron will bei … [+2707 chars]"
+          "author": "Daniel Gerhardt",
+          "title": "Die Kerzen: Pop und Pomp aus Meckpomm",
+          "description": "Kitsch und Empfindsamkeit: \"Die Kerzen\" sind die Band der Stunde.",
+          "url": "https://www.zeit.de/2019/29/die-kerzen-band-felix-keiler-saenger-mecklenburg-vorpommern",
+          "urlToImage": "https://img.zeit.de/2019/29/pop-die-kerzen_img-0/wide__1300x731",
+          "publishedAt": "2019-07-14T17:47:36+00:00",
+          "content": "Was war da bloß im April? Felix Keiler verrät es nicht. Der Sänger und\r\n Songwriter der Band Die Kerzen ist ein Andeutungsdichter. Er schreibt Liebeslieder über\r\n Bluejeans, Südostasien, die Solarien von Berlin und über Menschen, die er einmal für\r\n liebenswe… [+3370 chars]"
       },
       {
           "source": {
-              "id": null,
-              "name": "N-tv.de"
+              "id": "bild",
+              "name": "Bild"
           },
-          "author": "n-tv NACHRICHTEN",
-          "title": "Kaum Interesse an Parteivorsitz:Gabriel moniert Haltungsproblem in der SPD - n-tv NACHRICHTEN",
-          "description": "Noch führt ein Interims-Trio die SPD. Und wer folgt danach? Sieben Wochen vor Bewerbungsschluss ist das Interesse an der Parteispitze überschaubar. Das ruft Sigmar Gabriel auf den Plan. Der Ex-Vorsitzende beklagt, dass der Posten \"fast wie ein infektiöses Kle…",
-          "url": "https://www.n-tv.de/politik/Gabriel-moniert-Haltungsproblem-in-der-SPD-article21143699.html",
-          "urlToImage": "https://bilder1.n-tv.de/img/incoming/crop21143744/8941326718-cImg_16_9-w1200/121765131.jpg",
-          "publishedAt": "2019-07-14T07:37:26Z",
-          "content": "Noch führt ein Interims-Trio die SPD. Und wer folgt danach? Sieben Wochen vor Bewerbungsschluss ist das Interesse an der Parteispitze überschaubar. Das ruft Sigmar Gabriel auf den Plan. Der Ex-Vorsitzende beklagt, dass der Posten \"fast wie ein infektiöses Kle… [+3237 chars]"
+          "author": null,
+          "title": "Saarbrücken: 200 Gusswerke-Jobs weg?",
+          "description": "Ein Investor stieg ein, gründete die Gusswerke Saarbrücken. Im Mai folgte die Kurzarbeit. Jetzt steht dem Unternehmen offenbar ein Personalabbau bevor!",
+          "url": "http://www.bild.de/regional/saarland/saarland-news/saarbruecken-200-gusswerke-jobs-weg-63293798.bild.html",
+          "urlToImage": "https://bilder.bild.de/fotos/saarbruecken-200-gusswerke-jobs-weg--201182943-63293806/Bild/1.bild.jpg",
+          "publishedAt": "2019-07-14T17:41:14Z",
+          "content": "Saarbrücken Es läuft nicht rund bei den Gusswerken! \r\nNoch im Dezember schien der Traditionsbetrieb (derzeit 1200 Mitarbeiter) Neue Halberg-Guss gerettet! Ein Investor stieg ein, gründete die Gusswerke Saarbrücken. Im Mai folgte die Kurzarbeit.\r\nJetzt steht d… [+292 chars]"
       },
       {
           "source": {
-              "id": null,
-              "name": "Welt.de"
+              "id": "die-zeit",
+              "name": "Die Zeit"
           },
-          "author": "WELT",
-          "title": "Vermisstenfall Orlandi: Knochen unter der Geheimtür auf dem deutschen Friedhof - WELT",
-          "description": "Neue Spuren bei der Suche nach den Knochen des Mädchens Emanuela Orlandi. Auf dem Deutschen Friedhof im Vatikan sind unter einer Falltür Kammern gefunden worden. Der Fund kam überraschend – und wirft Fragen auf.",
-          "url": "https://www.welt.de/vermischtes/article196811847/Vermisstenfall-Orlandi-Knochen-unter-der-Geheimtuer-auf-dem-deutschen-Friedhof.html",
-          "urlToImage": "https://www.welt.de/img/vermischtes/mobile196811849/8951354267-ci16x9-w1200/Graboeffnung-auf-dem-Pilgerfriedhof-Campo-Santo-Teutonico.jpg",
-          "publishedAt": "2019-07-14T07:27:00Z",
-          "content": "Auf der Suche nach den Überresten eines verschwundenen Mädchens und denen zweier Adeliger auf dem Deutschen Friedhof im Vatikan sind Räume zur Aufbewahrung von Gebeinen entdeckt worden. Die sogenannten Beinhäuser seien mit einer Falltür verschlossen gewesen. … [+1958 chars]"
-      },
-      {
-          "source": {
-              "id": "spiegel-online",
-              "name": "Spiegel Online"
-          },
-          "author": "Jörg Breithut",
-          "title": "HDMI 2.1: Für wen sich die neuen Turbo-TV-Kabel lohnen - SPIEGEL ONLINE",
-          "description": "Manche High-End-Fernseher kommen mit neuen Anschlussbuchsen vom Typ HDMI 2.1. Passende Kabel sind teuer. Wir erklären, was der neue Anschluss bringt.",
-          "url": "https://www.spiegel.de/netzwelt/games/hdmi-2-1-fuer-wen-sich-die-neuen-turbo-tv-kabel-lohnen-a-1275809.html",
-          "urlToImage": "https://cdn1.spiegel.de/images/image-1446033-860_poster_16x9-whir-1446033.jpg",
-          "publishedAt": "2019-07-14T07:24:31Z",
-          "content": "Sonntag, 14.07.2019  \r\n09:24 Uhr\r\nSeit fast 20 Jahren werden Videos von DVD- und Blu-ray-Playern, Spielkonsolen und anderen Geräten mit HDMI-Kabeln an Fernseher, Beamer und Computerbildschirme übertragen. Als dieser Standard 2002 eingeführt wurde boten die da… [+4633 chars]"
-      },
-      {
-          "source": {
-              "id": "spiegel-online",
-              "name": "Spiegel Online"
-          },
-          "author": "Patrick Heidmann",
-          "title": "Francis Ford Coppola über \"Apocalypse Now - Final Cut\": \"Jedes Bild wühlte wieder etwas auf\" - SPIEGEL ONLINE",
-          "description": "Zum 40. Jubiläum von \"Apocalypse Now\" hat Francis Ford Coppola eine neue Fassung seines Meisterwerks geschaffen. Warum dies seine Lieblingsversion ist - und welche Traumata vom Dreh bleiben.",
-          "url": "https://www.spiegel.de/kultur/kino/francis-ford-coppola-ueber-apocalypse-now-final-cut-a-1276731.html",
-          "urlToImage": "https://cdn1.spiegel.de/images/image-1446043-860_poster_16x9-doms-1446043.jpg",
-          "publishedAt": "2019-07-14T07:24:00Z",
-          "content": "Sonntag, 14.07.2019  \r\n09:24 Uhr\r\nSPIEGEL ONLINE: Mr Coppola, die Dreharbeiten zu \"Apocalypse Now\" waren unter anderem von Finanzierungsproblemen, Krankheitsfällen sowie Wetterkatastrophen geplagt. Das war bekanntlich nicht nur, aber auch für Sie persönlich z… [+9301 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Heilpraxisnet.de"
-          },
-          "author": "Alexander Stindt",
-          "title": "Milliarden Partikel in verschmutzter Luft belasten die Herzen von Stadtbewohnern - Heilpraxisnet.de",
-          "description": "Die immer weiter zunehmende Luftverschmutzung löst gesundheitliche Probleme und Krankheiten aus. Besonders schlimm scheinen die Auswirkungen in unseren Städten zu sein. Forschende fanden jetzt heraus, dass die Herzen junger Stadtbewohner Milliarden toxischer …",
-          "url": "https://www.heilpraxisnet.de/naturheilpraxis/milliarden-partikel-in-verschmutzter-luft-belasten-die-herzen-von-stadtbewohnern-20190713460281",
-          "urlToImage": null,
-          "publishedAt": "2019-07-14T07:19:16Z",
-          "content": "Auswirkungen der Luftverschmutzung auf das menschliche Herz\r\nDie immer weiter zunehmende Luftverschmutzung löst gesundheitliche Probleme und Krankheiten aus. Besonders schlimm scheinen die Auswirkungen in unseren Städten zu sein. Forschende fanden jetzt herau… [+4882 chars]"
+          "author": "Alina Schadwinkel",
+          "title": "Chandrayaan-2: An einen Ort, den die Menschheit noch nie besucht hat",
+          "description": "Jetzt will es Indien wissen: Mondlandung? Könne man auch. Und noch dazu am Südpol. Dorthin hat es bislang niemand geschafft. Das ist heikel, aber nicht unmöglich.",
+          "url": "https://www.zeit.de/wissen/2019-07/chandrayaan-2-indien-mond-isro-vikram-pragyan",
+          "urlToImage": "https://img.zeit.de/wissen/2019-07/chandrayaan-2-mond-mission-orbiter-indien/wide__1300x731",
+          "publishedAt": "2019-07-14T17:39:05+00:00",
+          "content": "Juli 1969, Millionen Menschen sitzen vor Flimmerkisten und Neil \r\nArmstrong hüpft auf den Mond. Wie groß war dieser Schritt für die \r\nWissenschaft? Und müssen Menschen da wieder hin? Reisen Sie mit uns in \r\ndie Geschichte und Zukunft in unserem Schwerpunkt \"Z… [+4887 chars]"
       }
   ]
 }

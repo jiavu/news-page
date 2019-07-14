@@ -2,5 +2,5 @@
 
 .news-filter__container {
   background-color: lightgrey;
-  @include inline-flex(flex-start, flex-start);
+  @include inline-flex(row, flex-start, flex-start);
 }

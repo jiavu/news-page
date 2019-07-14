@@ -2,7 +2,7 @@
 @import '../../scss/mixins';
 
 .articles__container {
-  @include flex(center, stretch);
+  @include flex(row, center, stretch);
   flex-wrap: wrap;
   align-content: stretch;
   padding: $min-card-spacing-sides;

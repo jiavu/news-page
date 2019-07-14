@@ -1,6 +1,6 @@
-/* You can add global styles to this file, and also import other style files */
+/* This is the basic config / global styling! */
 
-@import './scss/basic-config';
+@import './scss/reset-config';
 @import './scss/variables';
 @import './scss/mixins';
 
@@ -10,9 +10,28 @@
   color: $primary-color;
   background-color: $bg-color;
 }
-body {
-  @include hyphens(); /* not working */
+html {
+  scroll-behavior: smooth;
+  min-height: 100%;
 }
+body {
+  @include hyphens(); /* not working in Chrome */
+  min-width: 320px;
+  height: 100%;
+}
+app-root {
+  @include flex(column, center, center);
+  height: 100%;
+
+  .push-footer-to-bottom {
+    flex: 1 0 auto;
+  }
+}
+
+/* ========= */
+/* Debugging */
+/* ========= */
+/* Development info. Delete after deployment. */
 
 #response-info {
   font-size: 0.8rem;
@@ -22,9 +41,14 @@ body {
   border: 1px dashed red;
 }
 
+
+/* =========== */
 /* responsive: */
+/* =========== */
+
 @media only screen and (max-width: 320px) {
 }
+
 
 /*===========*/
 /* Animation */

@@ -1,13 +1,15 @@
-@mixin flex($justify-content, $align-items) {
+@mixin flex($flex-direction, $justify-content, $align-items) {
   display: -webkit-flex;
   display: flex;
+  flex-direction: $flex-direction;
   justify-content: $justify-content;
   align-items: $align-items;
 }
 
-@mixin inline-flex($justify-content, $align-items) {
+@mixin inline-flex($flex-direction, $justify-content, $align-items) {
   display: -webkit-inline-flex;
   display: inline-flex;
+  flex-direction: $flex-direction;
   justify-content: $justify-content;
   align-items: $align-items;
 }

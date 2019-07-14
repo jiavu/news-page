@@ -19,7 +19,7 @@ export class ArticlesComponent implements OnInit {
   constructor(private requestService: RequestService) {
     this.requestService.dataChanged.subscribe(
       (data: object) => this.newsData = data
-    )
+    );
   }
 
   ngOnInit() {

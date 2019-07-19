@@ -14,12 +14,21 @@
   align-items: $align-items;
 }
 
-@mixin transform($prop) {
-  -webkit-transform: $prop;
-  -moz-transform: $prop;
-  -ms-transform: $prop;
-  -o-transform: $prop;
-  transform: $prop;
+@mixin transform($value) {
+  -webkit-transform: $value;
+  -moz-transform: $value;
+  -ms-transform: $value;
+  -o-transform: $value;
+  transform: $value;
+}
+@mixin transform-origin($value) {
+  -webkit-transform-origin: $value;
+  -ms-transform-origin: $value;
+  transform: $value;
+}
+
+@mixin animate($name, $dur ) {
+  animation: $name $dur;
 }
 
 @mixin hyphens() {

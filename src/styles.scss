@@ -10,8 +10,7 @@
 @import './scss/variables';
 @import './scss/mixins';
 
-$main-font: serif;
-
+$main-font: serif;  // move to file variables
 
 :root {
   font-size: 20px;
@@ -20,37 +19,44 @@ $main-font: serif;
 
   /* FONT: gut zu lesen? Ernst zu nehmen? */
 
-  /* special (maybe for headline) */
+  // Fav. / nur für head:
   /* font-family: 'Special Elite', cursive; */
-  /* font-family: 'Josefin Slab', serif; */
   /* font-family: 'Fredericka the Great', cursive; */
-  /* font-family: 'Alegreya SC', serif; */
-  /* font-family: 'Mate SC', serif; */
-
-  /* jung, verspielter, vital */
   /* font-family: 'IM Fell DW Pica', serif; */
+
+  //  Favorites> 
+  font-family: 'Gentium Basic', serif;
+  // font-family: 'Buenard', serif;
+  // font-family: 'Alegreya', serif;
   /* font-family: 'EB Garamond', serif; */
-  /* font-family: 'Kreon', serif; */
-  /* font-family: 'Alegreya', serif; */
+
+  /* font-family: 'Tinos', serif; */
+  
+  
+  /* special (maybe for headline) */
+  /* font-family: 'Josefin Slab', serif; */ // eher weg
+  /* font-family: 'Alegreya SC', serif; */ // eher weg
+  /* font-family: 'Mate SC', serif; */    // eher weg
+  
+  /* jung, verspielter, vital */
+  
   /* font-family: 'Rokkitt', serif; */
+  /* font-family: 'Kreon', serif; */
   /* font-family: 'Vollkorn', serif; */
   /* font-family: 'Eczar', serif; */
-
+  
   /* Zwischending */
-  /*!!*//* font-family: 'Lusitana', serif; */
-  /*!!*/font-family: 'Buenard', serif;
-  /*!!*//* font-family: 'Yrsa', serif; */
-  /*!!*//* font-family: 'Arapey', serif; */
-  /*!!*//* font-family: 'Crimson Text', serif; */
-  /*!!*//* font-family: 'Gentium Basic', serif; */
-  /*!*//* font-family: 'Antic Slab', serif; */
-  /*!*//* font-family: 'Gentium Book Basic', serif; */
-  /* font-family: 'Alike Angular', serif; */
+  /* font-family: 'Crimson Text', serif; */
+  /* font-family: 'Lusitana', serif; */
+  /* font-family: 'Gentium Book Basic', serif; */
   /* font-family: 'Zilla Slab', serif; */
   /* font-family: 'Cambo', serif; */
+  /* font-family: 'Alike Angular', serif; */
+  /* font-family: 'Yrsa', serif; */
+  /* font-family: 'Arapey', serif; */
+  /* font-family: 'Antic Slab', serif; */
 
   /* eher seriös, elegant, edel, erwachsen, stilvoll */
-  /* font-family: 'Tinos', serif; */
   /* font-family: 'Forum', cursive; */
   /* font-family: 'Cormorant Garamond', serif; */
 
@@ -79,6 +85,14 @@ app-root {
 /* ========= */
 /* Development info. Delete after deployment. */
 
+.hoverable {
+  transition: transform $trans-time-slow;
+}
+.hoverable:hover,
+.hoverable:focus {
+  @include transform(scale(1.035));
+}
+
 #response-info {
   font-size: 0.8rem;
   margin: 0.5rem;
@@ -86,6 +100,12 @@ app-root {
   color: red;
   border: 1px dashed red;
 }
+
+/*=============*/
+/* EXTRAS/MISC */
+/*=============*/
+
+
 
 
 /* =========== */

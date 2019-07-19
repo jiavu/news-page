@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 
-import { RequestService } from '../request.service';
+import { RequestService } from '../shared/request.service';
 
 @Component({
   selector: 'app-update-data',
@@ -17,7 +17,7 @@ export class UpdateDataComponent {
   updateData() {
     this.requestService.getNewsData();
     /* Set a timeout for the button being
-    deactivated after request! 
+    deactivated after request!
     Requests limited to 500 per day. */
   }
 }

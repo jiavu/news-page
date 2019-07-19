@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, OnChanges } from '@angular/core';
 
 @Component({
   selector: 'app-news-control',
@@ -6,6 +6,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./news-control.component.scss']
 })
 export class NewsControlComponent implements OnInit {
+
+  showOptions = false;
 
   constructor() { }
 

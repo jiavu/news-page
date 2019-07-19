@@ -10,6 +10,7 @@ import { NewsSearchComponent } from './news-control/news-search/news-search.comp
 import { NewsFilterComponent } from './news-control/news-filter/news-filter.component';
 import { UpdateDataComponent } from './update-data/update-data.component';
 import { FooterComponent } from './footer/footer.component';
+import { HideDirective } from './shared/hide.directive';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { FooterComponent } from './footer/footer.component';
     NewsSearchComponent,
     NewsFilterComponent,
     UpdateDataComponent,
-    FooterComponent
+    FooterComponent,
+    HideDirective
   ],
   imports: [
     BrowserModule,

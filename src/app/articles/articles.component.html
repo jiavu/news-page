@@ -6,9 +6,10 @@
 </div>
 
 <div *ngIf="newsData && newsData.status" class="articles__container">
-  <a *ngFor='let article of newsData.articles'
+  <a
+    *ngFor='let article of newsData.articles'
     href={{article.url}} target="_blank">
-    <div class="articles__card">
+    <div class="articles__card hoverable">
       <h3>{{article.title}}</h3>
       <img src={{article.urlToImage}} alt="img"
         class="articles__img">

@@ -1,6 +1,23 @@
 @import '../../../scss/mixins';
+@import '../../../scss/variables';
 
 .news-filter__container {
   background-color: lightgrey;
   @include inline-flex(row, flex-start, flex-start);
+  @include transform-origin(top);
+  @include animate(unfold, $trans-time-slow);
+}
+
+
+
+
+@keyframes unfold {
+  from {
+    @include transform(rotateX(-135deg));
+    opacity: 0;
+  }
+  to {
+    @include transform(rotateX(0));
+    opacity: 1;
+  }
 }

@@ -4,29 +4,42 @@
   "articles": [
       {
           "source": {
-              "id": "focus",
-              "name": "Focus"
-          },
-          "author": "Von FOCUS-Online-Redakteur Florian Reiter",
-          "title": "Verteilung von Flüchtlingen: Die EU verfolgt jetzt die einzig machbare Lösung",
-          "description": "Wieder einmal beraten sich die europäischen Innenminister bei ihrem Treffen in Helsinki über ein altes Streit-Thema: die Verteilung von Flüchtlingen, die aus Seenot gerettet wurden. Lösungsvorschläge gab es schon einige. Die Innenminister haben jetzt eine dav…",
-          "url": "https://www.focus.de/politik/ausland/koalition-der-aufnahmewilligen-verteilung-von-fluechtlingen-die-eu-verfolgt-jetzt-die-einzig-machbare-loesung_id_10939453.html",
-          "urlToImage": "https://p5.focus.de/img/fotos/crop10939454/6732713858-w1200-h627-o-q75-p5/seenotrettung-im-mit-62036818.jpg",
-          "publishedAt": "2019-07-19T19:14:00Z",
-          "content": "Wieder einmal beraten sich die europäischen Innenminister bei ihrem Treffen in Helsinki über ein altes Streit-Thema: die Verteilung von Flüchtlingen, die aus Seenot gerettet wurden. Lösungsvorschläge gab es schon einige. Die Innenminister haben jetzt eine dav… [+8392 chars]"
-      },
-      {
-          "source": {
               "id": "bild",
               "name": "Bild"
           },
           "author": null,
-          "title": "Irres Video aus Köln - Lkw fährt auf Autobahn rückwärts!",
-          "description": "Köln – Wahnsinn, was dieser Milchlaster auf der A3 getrieben hat!Am Freitag tauchte ein Video auf, das am Mittwoch von einer Fußgängerbrücke über dem Zubringer zur A4 aus gemacht wurde.Auf der",
-          "url": "http://www.bild.de/regional/koeln/koeln-aktuell/irres-video-aus-koeln-lkw-faehrt-auf-autobahn-rueckwaerts-63414550.bild.html",
-          "urlToImage": "https://bilder.bild.de/fotos/irres-video-aus-koeln-lkw-faehrt-auf-autobahn-rueckwaerts--201187496-63414686/Bild/1.bild.jpg",
-          "publishedAt": "2019-07-19T19:08:10Z",
-          "content": "Köln Wahnsinn, was dieser Milchlaster auf der A3 getrieben hat!\r\nAm Freitag tauchte ein Video auf, das am Mittwoch von einer Fußgängerbrücke über dem Zubringer zur A4 aus gemacht wurde.\r\nAuf der Sperrlinie steht ein Lkw. Das allein wäre schon krass, aber der … [+495 chars]"
+          "title": "Schrecklicher Unfall auf Rastplatz - Frau (23) von Laster überrollt - tot!",
+          "description": "Tragischer Unfall auf dem Rastplatz Weiskirchen-Nord! Am Freitagabend starb eine junge Frau (23), als ein Laster rückwärts rangierte und sie dabei erfasste.",
+          "url": "http://www.bild.de/regional/frankfurt/frankfurt-aktuell/schrecklicher-unfall-auf-rastplatz-frau-23-von-laster-ueberrollt-tot-63416926.bild.html",
+          "urlToImage": "https://bilder.bild.de/fotos/schrecklicher-unfall-auf-rastplatz-frau-23-von-laster-ueberrollt---tot--200952493-63417450/Bild/4.bild.jpg",
+          "publishedAt": "2019-07-20T08:35:02Z",
+          "content": "Rodgau Tragischer Unfall auf dem Rastplatz Weiskirchen-Nord! Am Freitagabend kam eine junge Frau (23) ums Leben, als ein Laster rückwärts rangierte und sie dabei erfasste.\r\nLaut Polizei ereignete sich der tödliche Unfall gegen 20.15 Uhr, als ein Rumäne (36) s… [+500 chars]"
+      },
+      {
+          "source": {
+              "id": "der-tagesspiegel",
+              "name": "Der Tagesspiegel"
+          },
+          "author": "Joachim Huber",
+          "title": "Morddrohung nach \"Tagesthemen\"-Kommentar zu AfD",
+          "description": "Morddrohung gegen \"Monitor\"-Chef Georg Restle wegen eines AfD-kritischen Kommentars. Der WDR stellte Strafanzeige",
+          "url": "https://www.tagesspiegel.de/gesellschaft/medien/wdr-stellt-strafanzeige-morddrohung-nach-tagesthemen-kommentar-zu-afd/24681434.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/restle/24681484/2-format530.jpg",
+          "publishedAt": "2019-07-20T08:33:02+00:00",
+          "content": "Wegen einer Morddrohung gegen einen Journalisten des Westdeutschen Rundfunks (WDR) hat der Sender Strafanzeige gestellt. Laut Angaben vom Freitag geht es um Beschimpfungen gegen den Leiter der WDR-Redaktion Monitor, Georg Restle. Restle hatte am 11. Juli dies… [+3112 chars]"
+      },
+      {
+          "source": {
+              "id": "der-tagesspiegel",
+              "name": "Der Tagesspiegel"
+          },
+          "author": "Teresa Roelcke",
+          "title": "Mit einer App an das Stauffenberg-Attentat erinnern",
+          "description": "Die „Berlin History“-App zeigt die Vergangenheit der Stadt. Zum 75. Jahrestag des Attentats auf Hitler wird der Widerstandskampf gegen die Nazis thematisiert.",
+          "url": "https://www.tagesspiegel.de/berlin/orte-des-widerstands-mit-einer-app-an-das-stauffenberg-attentat-erinnern/24676894.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/tagesspiegel/24678012/2-format530.jpg",
+          "publishedAt": "2019-07-20T08:31:12+00:00",
+          "content": "Ständige Ausstellung / Das NAZI-PARADIES / Krieg Hunger Lüge Gestapo / Wie lange noch? Zettel mit dieser Aufschrift klebten Mitglieder der Widerstandsgruppe Rote Kapelle am 17. Mai 1942 an Hauswände in mehreren Berliner Bezirken. Der Text spielte auf die nati… [+4952 chars]"
       },
       {
           "source": {
@@ -34,64 +47,77 @@
               "name": "Der Tagesspiegel"
           },
           "author": "Tom Mustroph",
-          "title": "Wenn der Berg ruft",
-          "description": "Seit mehr als 100 Jahren ziehen die Pyrenäen Fahrer wie Fans an. Über die Faszination des Col du Tourmalet.",
-          "url": "https://www.tagesspiegel.de/sport/die-tour-kommt-in-die-entscheidende-phase-wenn-der-berg-ruft/24681058.html",
-          "urlToImage": "https://www.tagesspiegel.de/images/heprodimagesfotos85120190720ulle2_362_1_20190719105941716-jpg/24681046/2-format530.jpg",
-          "publishedAt": "2019-07-19T19:06:00+00:00",
-          "content": "2115 Meter hoch erhebt sich der Col du Tourmalet. Daber ist eigentlich kein Berg, sondern ein Pass, genauer gesagt die höchstgelegene asphaltierte Passstraße auf der französischen Seite der Pyrenäen. Von der Passstraße aus kann man die gezackten Gipfel des Pi… [+4843 chars]"
+          "title": "„Ihr seid Mörder!“",
+          "description": "Zum 84. Mal befährt die Tour de France am Samnstag den Col du Tourmalet. Es ist ein Berg, an dem sich das Schicksal vieler Fahrer entschieden hat.",
+          "url": "https://www.tagesspiegel.de/sport/mythos-tourmalet-bei-der-tour-de-france-ihr-seid-moerder/24678980.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/tour-de-france-14-etappe-armstrong-und-ullrich/24679048/1-format530.jpg",
+          "publishedAt": "2019-07-20T08:20:15+00:00",
+          "content": "2115 Meter hoch erhebt sich der Col du Tourmalet. Er ist eigentlich kein Berg, sondern ein Pass, genauer gesagt die höchstgelegene asphaltierte Passstraße auf der französischen Seite der Pyrenäen. Von der Passstraße aus kann man die gezackten Gipfel des Pic d… [+4494 chars]"
+      },
+      {
+          "source": {
+              "id": "focus",
+              "name": "Focus"
+          },
+          "author": "FOCUS Online",
+          "title": "FC Bayern: Trainer Niko Kovac bestätigt Verbleib von Renato Sanches",
+          "description": "Der FC Bayern München wird den mit seinen Einsatzzeiten unzufriedenen Mittelfeldspieler Renato Sanches im Sommer nicht ziehen lassen. \"Renato Sanches bleibt\", erklärte Trainer Niko Kovac am Freitagabend in Houston, wo der deutsche Rekordmeister am Sonntag im …",
+          "url": "https://www.focus.de/sport/fussball/trotz-unzufriedenheit-fc-bayern-trainer-niko-kovac-bestaetigt-verbleib-von-renato-sanches_id_10943962.html",
+          "urlToImage": "https://p5.focus.de/img/fotos/crop10943956/9082712683-w1200-h627-o-q75-p5/imago40397754h.jpg",
+          "publishedAt": "2019-07-20T08:18:00Z",
+          "content": "Der FC Bayern München wird den mit seinen Einsatzzeiten unzufriedenen Mittelfeldspieler Renato Sanches im Sommer nicht ziehen lassen. \"Renato Sanches bleibt\", erklärte Trainer Niko Kovac am Freitagabend in Houston, wo der deutsche Rekordmeister am Sonntag im … [+1561 chars]"
       },
       {
           "source": {
               "id": "der-tagesspiegel",
               "name": "Der Tagesspiegel"
           },
+          "author": "Christian Böhme",
+          "title": "Länger im Amt als der Staatsgründer",
+          "description": "Benjamin Netanjahu ist jetzt Israels dienstältester Premier. Was treibt den Mann an, der länger amtiert als Staatsgründer David Ben Gurion?",
+          "url": "https://www.tagesspiegel.de/politik/netanjahus-rekord-amtszeit-laenger-im-amt-als-der-staatsgruender/24676408.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/israeli-prime-minister-benjamin-netanyahu-attends-the-weekly-cabinet-meeting-in-jerusalem/24676440/1-format530.jpg",
+          "publishedAt": "2019-07-20T08:13:41+00:00",
+          "content": "Auf diese Zahl hat Israels Premier Benjamin Netanjahu lange hingearbeitet: 4876 Tage wird er am Sonnabend im Amt sein und damit den legendären Staatsgründer David Ben Gurion als dienstältesten Ministerpräsidenten in der Geschichte des Landes überholen.\r\nNetan… [+8048 chars]"
+      },
+      {
+          "source": {
+              "id": "bild",
+              "name": "Bild"
+          },
           "author": null,
-          "title": "Haltung und Handlung",
-          "description": "Widerstand in der Diktatur und in der Demokratie – Zur Klärung eines Begriffes aus Anlass des 75. Jahrestags des Umsturzversuchs gegen Hitler.",
-          "url": "https://www.tagesspiegel.de/kultur/75-jahrestag-des-umsturzversuchs-haltung-und-handlung/24679844.html",
-          "urlToImage": "https://www.tagesspiegel.de/images/heprodimagesfotos810120190720julius_leber_440_1_20190717143126620-jpg/24679902/3-format530.jpg",
-          "publishedAt": "2019-07-19T19:05:42+00:00",
-          "content": "Sophie von Bechtolsheim hat Geschichte und Kommunikationswissenschaft studiert. Die Enkelin von Claus Graf Stauffenberg ist als Mediatorin tätig und engagiert sich im Kuratorium der Stiftung 20. Juli 1944. Im Juni 2019 erschien ihr Buch Stauffenberg, mein Gro… [+4712 chars]"
+          "title": "Schalke zieht Konsequenzen aus der letzten Schrott-Saison",
+          "description": "Schalke will aus der letzten Saison seine Lehren ziehen und diesmal nichts mit dem Abstieg zu tun haben.Lesen Sie mit BILDplus, welche Maßnahme der Revierklub ergreift, um wieder oben anzugreifen. *** BILDplus Inhalt ***",
+          "url": "http://www.bild.de/bild-plus/sport/fussball/fussball/schalke-zieht-konsequenzen-aus-der-letzten-schrott-saison-63415102.bild.html",
+          "urlToImage": "https://bilder.bild.de/fotos/schalke-zieht-konsequenzen-aus-der-letzten-schrott-saison-201187521-63415214/Bild/4,club=bildplus.bild.jpg",
+          "publishedAt": "2019-07-20T08:12:50Z",
+          "content": "Schalke will aus der letzten Saison seine Lehren ziehen und diesmal nichts mit dem Abstieg zu tun haben.\r\nLesen Sie mit BILDplus, welche Maßnahme der Revierklub ergreift, um wieder oben anzugreifen."
       },
       {
           "source": {
-              "id": "spiegel-online",
-              "name": "Spiegel Online"
+              "id": "der-tagesspiegel",
+              "name": "Der Tagesspiegel"
           },
-          "author": "Spiegel Online",
-          "title": "Gefälschte Dokumente für Flüchtlinge: Atteste, Diagnosen, Überweisungen",
-          "description": "Ein kriminelles Netzwerk hat Flüchtlinge auf der griechischen Insel Samos offenbar mit gefälschten Papieren ausgestattet. Chef des Rings soll ein Arzt sein. Nun griff die Polizei zu.",
-          "url": "http://www.spiegel.de/politik/ausland/griechenland-polizei-zerschlaegt-kriminelles-netzwerk-auf-samos-a-1278072.html",
-          "urlToImage": "https://cdn1.spiegel.de/images/image-1450942-860_poster_16x9-ajgi-1450942.jpg",
-          "publishedAt": "2019-07-19T19:03:01Z",
-          "content": "Freitag, 19.07.2019  \r\n21:03 Uhr\r\nDie griechische Polizei ist nach eigenen Angaben erfolgreich gegen einen Ring krimineller Flüchtlingshelfer auf Samos vorgegangen. Das Netzwerk habe Asylsuchenden gefälschte medizinische Unterlagen besorgt, damit sie die Inse… [+7007 chars]"
-      },
-      {
-          "source": {
-              "id": "spiegel-online",
-              "name": "Spiegel Online"
-          },
-          "author": "Spiegel Online",
-          "title": "Japans Roboterrevolution - Teil 2: Die Pflegemaschinen",
-          "description": "Das Altersheim Zenkoukai will bald ohne menschliche Pfleger auskommen. Die 85-jährige Nakajima Fumiko hält einen vielen der Roboter, die dort eingesetzt werden, manchmal für ihren Sohn.",
-          "url": "http://www.spiegel.de/gesundheit/diagnose/roboter-in-japan-die-pflegemaschinen-a-1277539.html",
-          "urlToImage": "https://cdn1.spiegel.de/images/image-1445778-860_poster_16x9-ihwh-1445778.jpg",
-          "publishedAt": "2019-07-19T18:59:55Z",
-          "content": "Als Sota zu sprechen beginnt, strahlt Nakajima Fumikos Gesicht. Sie klatscht in die fleckigen Hände und deutet mit zitterndem Zeigefinger auf die Schwarz-Weiß-Fotos, die der kleine Roboter gerade auf dem Fernseher zeigt. Dann fängt die 85-Jährige an zu erzähl… [+7621 chars]"
+          "author": "Tilmann Warnecke",
+          "title": "Die Berliner Unis wollen die Weltprobleme angehen",
+          "description": "\"Herausragendes Ökosystem der Forschung“: Die Berliner Unis wollen mit den Exzellenzmillionen die großen Probleme der Zeit erforschen. Eine Analyse des Antrags.",
+          "url": "https://www.tagesspiegel.de/wissen/was-im-exzellenz-antrag-steht-die-berliner-unis-wollen-die-weltprobleme-angehen/24679384.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/tagesspiegel/24588540/2-format530.jpg",
+          "publishedAt": "2019-07-20T08:08:47+00:00",
+          "content": "Hoch hinaus wollen FU, HU, TU und Charité mit ihrer Berlin University Alliance (BUA): So steht es wörtlich im bislang geheimen Antrag, den Berlin für die Exzellenzinitiative eingereicht hat und der dem Tagesspiegel vorliegt.\r\nBerlin soll zu einem herausragend… [+3430 chars]"
       },
       {
           "source": {
               "id": "die-zeit",
               "name": "Die Zeit"
           },
-          "author": null,
-          "title": "Griechenland: Verletzte durch Erdbeben",
-          "description": "In Griechenland hat die Erde gebebt. Die Erdstöße der Stärke 5,1 beschädigten Häuser, Menschen wurden verletzt.",
-          "url": "https://www.zeit.de/video/2019-07/6061674475001/griechenland-verletzte-durch-erdbeben",
-          "urlToImage": "https://img.zeit.de/video/2019-07/6061674475001/imagegroup/wide__1300x731",
-          "publishedAt": "2019-07-19T18:51:12+00:00",
-          "content": "In Griechenland hat die Erde gebebt. Die Erdstöße der Stärke 5,1 beschädigten Häuser, Menschen wurden verletzt."
+          "author": "Thomas Melzer",
+          "title": "Öffentliche Gerichtsverhandlungen: \"Wenn er ein paar Tage nicht kommt, machen wir uns Sorgen\"",
+          "description": "Nur noch ein einziger Mann beobachtet die Prozesse im Amtsgericht Bernau. Was es für ein Gericht bedeutet, wenn ihm die Öffentlichkeit verloren geht.",
+          "url": "https://www.zeit.de/2019/30/oeffentliche-gerichtsverhandlungen-besucher-aufmerksamkeit-generalpraevention",
+          "urlToImage": "https://img.zeit.de/2019/30/ru-30-meine-urteile-3_img-0/wide__1300x731",
+          "publishedAt": "2019-07-20T08:08:34+00:00",
+          "content": "Der alte Mann war nicht bis zum Ende geblieben. Nach den Plädoyers des\r\n Staatsanwalts, des Verteidigers und dem letzten Wort des Angeklagten, in dem dieser sich\r\n entschuldigt hatte, war er aufgestanden, nach Hause gegangen und zur Urteilsverkündung nicht\r\n … [+6291 chars]"
       },
       {
           "source": {
@@ -99,51 +125,12 @@
               "name": "Der Tagesspiegel"
           },
           "author": null,
-          "title": "Das blasse Vermächtnis",
-          "description": "Warum es in 15 Jahren wohl keine Stauffenberg-Kaserne mehr geben wird. Wie die Bundeswehr mit dem 20. Juli umgeht. Zum 75. Jahrestag des Umsturzversuchs.",
-          "url": "https://www.tagesspiegel.de/kultur/der-20-juli-und-die-bundeswehr-das-blasse-vermaechtnis/24680096.html",
-          "urlToImage": "https://www.tagesspiegel.de/images/heprodimagesfotos810120190720geloebnis_624_1_20190718171810526-jpg/24679888/9-format530.jpg",
-          "publishedAt": "2019-07-19T18:50:23+00:00",
-          "content": "Der Autor ist Professor für Militärgeschichte / Kulturgeschichte der Gewalt an der Universität Potsdam.\r\nDie Republik braucht eine Armee. Soviel war selbst dem eingefleischten Zivilisten Konrad Adenauer klar. Der Aufbau von Streitkräften war für ihn einer der… [+5332 chars]"
-      },
-      {
-          "source": {
-              "id": "der-tagesspiegel",
-              "name": "Der Tagesspiegel"
-          },
-          "author": "Sabine Beikler",
-          "title": "Neuköllner fühlen sich schutzlos im Kampf gegen Rechts",
-          "description": "Seit Mai demonstriert eine Initiative regelmäßig vor dem Landeskriminalamt. Offenbar mit Erfolg: Die Berliner Polizei plant Statistik über rechte Beamte.",
-          "url": "https://www.tagesspiegel.de/berlin/nach-anschlagsserie-im-sueden-berlins-neukoellner-fuehlen-sich-schutzlos-im-kampf-gegen-rechts/24681184.html",
-          "urlToImage": "https://www.tagesspiegel.de/images/opfer-rechter-gewalt-protestieren-vor-lka-fuer-die-aufklaerung-der-anschlagsserie-in-neukoelln/24681764/2-format530.jpg",
-          "publishedAt": "2019-07-19T18:48:27+00:00",
-          "content": "Seit Mai treffen sie sich jeden Donnerstagmorgen vor dem Berliner LKA: Menschen, die Opfer rechtsextremistischer Straftaten geworden sind, die wie Christiane Schott aus der Britzer Hufeisensiedlung seit 2011 sieben Anschläge auf unser Haus und eine Schmierere… [+3624 chars]"
-      },
-      {
-          "source": {
-              "id": "bild",
-              "name": "Bild"
-          },
-          "author": "ANDREAS WEGENER",
-          "title": "Medebach: Rumänen-Paar soll Rentner (67) mit Schere erstochen haben",
-          "description": "Mord aus Habgier: Das wirft die Staatsanwaltschaft zwei jungen Rumänen vor. Sie sollen einen Rentner in Medebach (NRW) getötet haben.",
-          "url": "http://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/medebach-rumaenen-paar-soll-rentner-67-mit-schere-erstochen-haben-63406394.bild.html",
-          "urlToImage": "https://bilder.bild.de/fotos/medebach-rumaenen-paar-soll-rentner-67-mit-schere-erstochen-haben-201187173-63407578/Bild/2.bild.jpg",
-          "publishedAt": "2019-07-19T18:44:37Z",
-          "content": "Dortmund/Medebach Zwei junge Rumänen sind wegen Mordes angeklagt worden: Florin M. (21) und seine Freundin Rebecca L. (21) sollen in Medebach den Rentner Alfred S. (67) getötet haben!\r\nWir gehen vom Mordmerkmal der Habgier aus, sagte Staatsanwalt Klaus Neulke… [+942 chars]"
-      },
-      {
-          "source": {
-              "id": "bild",
-              "name": "Bild"
-          },
-          "author": "STEFAN SCHLAGENHAUFER",
-          "title": "Frankfurt: Drohen der IAA Klima-Krawalle?",
-          "description": "In Frankfurt wird mit Aufklebern und in sozialen Medien zum „IAA lahmlegen“ aufgerufen. Hunderte Aktivisten werden am 15.9. erwartet.",
-          "url": "http://www.bild.de/regional/frankfurt/frankfurt-aktuell/frankfurt-drohen-der-iaa-klima-krawalle-63401318.bild.html",
-          "urlToImage": "https://bilder.bild.de/fotos/frankfurt-drohen-der-iaa-klima-krawalle--201186964-63401814/Bild/4.bild.jpg",
-          "publishedAt": "2019-07-19T18:44:21Z",
-          "content": "Frankfurt Klimaschützer, in weißen Anzügen, die das Gelände stürmen. Polizeiketten, Wasserwerfer, verletzte Aktivisten und Beamte. So vor drei Wochen geschehen bei Klimaprotesten am Kohletagebau Garzweiler. \r\nJetzt kündigen Umweltschützer an: Am 15.9. wird mi… [+1738 chars]"
+          "title": "„Es kommen wieder Talente nach“",
+          "description": "Im Interview spricht die Schwimmerin über den WM-Erfolg, die Chancen auf eine Einzelmedaille - und die Vereinbarkeit von Sport und Studium.",
+          "url": "https://www.tagesspiegel.de/sport/freiwasserstaffel-weltmeisterin-sarah-koehler-ist-zuversichtlich-es-kommen-wieder-talente-nach/24681056.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/heprodimagesfotos85120190720sarah_362_1_2019071911222956-jpg/24681052/2-format530.jpg",
+          "publishedAt": "2019-07-20T08:06:04+00:00",
+          "content": "Frau Köhler, die deutschen Schwimmer überraschen bei der WM gerade alle. Sie wurden mit der Staffel im Freiwasser Weltmeisterin, Ihr Partner Florian Wellbrock holte Gold, und andere Kollegen räumen auch eine Medaille nach der anderen ab.\r\nDas macht mich sehr … [+3738 chars]"
       },
       {
           "source": {
@@ -151,77 +138,38 @@
               "name": "Bild"
           },
           "author": null,
-          "title": "Eurojackpot 19.07.2019 - Gewinnzahlen der „Eurolotto“-Ziehung",
-          "description": "Haben Sie den Eurojackpot geknackt?Heute verrät Ihnen BILD die Gewinnzahlen der aktuellen Eurojackpot-Ziehung vom 19.07.2019.Den bislang höchsten Gewinn aus Helsinki holte ein Mann aus Tschechien: Er",
-          "url": "http://www.bild.de/news/inland/eurojackpot/eurojackpot-am-freitag-lottozahlen-63413392.bild.html",
-          "urlToImage": "https://bilder.bild.de/fotos/san-09-lottoneu02-jpg_200869461_mbqf-1532727676-56456986/Bild/1.bild.jpg",
-          "publishedAt": "2019-07-19T18:37:57Z",
-          "content": "Haben Sie den Eurojackpot geknackt?\r\nHeute verrät Ihnen BILD die Gewinnzahlen der aktuellen Eurojackpot-Ziehung vom 19.07.2019.\r\nDen bislang höchsten Gewinn aus Helsinki holte ein Mann aus Tschechien: Er gewann 90 Millionen Euro bei der Ziehung am 15. Mai 201… [+418 chars]"
-      },
-      {
-          "source": {
-              "id": "der-tagesspiegel",
-              "name": "Der Tagesspiegel"
-          },
-          "author": null,
-          "title": "Die bedeutsamste Waffe war das Wort",
-          "description": "Die wenigsten Deutschen entschieden sich für eine Gegnerschaft zum Regime. Und dann sah der Widerstand anders aus als in den besetzten Gebieten. Ein Gastbeitrag",
-          "url": "https://www.tagesspiegel.de/kultur/widerstand-gegen-den-nationalsozialismus-die-bedeutsamste-waffe-war-das-wort/24679812.html",
-          "urlToImage": "https://www.tagesspiegel.de/images/heprodimagesfotos810120190720edelweisspira_440_1_20190717143056247-jpg/24679760/3-format530.jpg",
-          "publishedAt": "2019-07-19T18:34:50+00:00",
-          "content": "Johannes Tuchel leitet die Gedenkstätte deutscher Widerstand und ist Professor für Politikwissenschaft an der Freien Universität Berlin.\r\nWenn in diesen Tagen mit einer Vielzahl von Veranstaltungen und Veröffentlichungen an den 75. Jahrestag des 20. Juli 1944… [+10893 chars]"
-      },
-      {
-          "source": {
-              "id": "bild",
-              "name": "Bild"
-          },
-          "author": "CHRISTIAN KITSCH",
-          "title": "Zimmermann-Warnung: Bloß nicht wieder 65 Gegentore für Fortuna!",
-          "description": "Matthias Zimmermann (27) ist in nur einem Jahr bei Fortuna zum absoluten Führungsspieler gereift! Jetzt schickt der Verteidiger eine deutliche Warnung an seine Kollegen.",
-          "url": "http://www.bild.de/sport/fussball/fussball/zimmermann-warnung-bloss-nicht-wieder-65-gegentore-fuer-fortuna-63414024.bild.html",
-          "urlToImage": "https://bilder.bild.de/fotos/zimmermann-warnung-bloss-nicht-wieder-65-gegentore-fuer-fortuna--201187456-63414056/Bild/2.bild.jpg",
-          "publishedAt": "2019-07-19T18:31:58Z",
-          "content": "Matthias Zimmermann (27) ist in nur einem Jahr bei Fortuna zum absoluten Führungsspieler gereift!\r\nVor der letzten Saison kam der Rechtsverteidiger ablösefrei aus Stuttgart, spielte alle 34 Spiele komplett durch. Seinen Marktwert hat er verfünffacht von 1 auf… [+1048 chars]"
+          "title": "Unfall in Berlin: Frau von Lkw beim Rückwärtsfahren überrollt – tot | Regional",
+          "description": "Horror-Unfall in Berlin! Am Samstagmorgen starb eine Frau in Prenzlauer-Berg, als ein Laster zurücksetzte und sie dabei erfasste.",
+          "url": "http://www.bild.de/regional/berlin/berlin-aktuell/unfall-in-berlin-frau-von-lkw-beim-rueckwaertsfahren-ueberrollt-tot-63416384.bild.html",
+          "urlToImage": "https://images.bild.de/5d32ad9df5d2ec000126077e/8dc1e3f6a757fd6b03c9c3750348cd38/1/6?w=1280",
+          "publishedAt": "2019-07-20T08:05:50Z",
+          "content": "Berlin Schrecklicher Unfall im Berliner Stadtteil Prenzlauer Berg! Am frühen Samstagmorgen starb eine Frau, als ein Laster zurücksetzte und sie dabei erfasste.\r\nDer tödliche Unfall ereignete sich gegen 2.15 Uhr in der Ostseestraße. Laut Berliner Polizei hatte… [+538 chars]"
       },
       {
           "source": {
               "id": "die-zeit",
               "name": "Die Zeit"
           },
-          "author": "ZEIT ONLINE",
-          "title": "Straße von Hormus: Iran stoppt Öltanker im Persischen Golf",
-          "description": "Die iranischen Revolutionsgarden halten einen unter britischer Flagge fahrenden Tanker in der Straße von Hormus fest. Er soll maritime Vorschriften missachtet haben.",
-          "url": "https://www.zeit.de/politik/ausland/2019-07/strasse-von-hormus-iran-britischer-tanker-usa",
-          "urlToImage": "https://img.zeit.de/politik/ausland/2019-07/iran-strasse-von-hormus-oeltanker/wide__1300x731",
-          "publishedAt": "2019-07-19T18:29:44+00:00",
-          "content": "Die iranischen Revolutionsgarden haben einen unter britischer Flagge fahrenden Tanker in der Straße von Hormus festgesetzt. Der Tanker Stena Impero habe gegen \"internationale maritime Regeln\" verstoßen, hieß es auf der Website der Revolutionsgarden. Daher sei… [+2099 chars]"
+          "author": "Klaus Brinkbäumer",
+          "title": "US-Präsidentschaftswahl 2020: Sie macht aus wüsten Kerlen hilflose Jungs",
+          "description": "Die US-Demokraten Joe Biden und Kamala Harris machen in den Swing States Wahlkampf. Wer ist für den Kampf gegen Donald Trump besser gerüstet?",
+          "url": "https://www.zeit.de/politik/ausland/2019-07/us-praesidentschaftswahl-2020-wahlkampf-kampagne-joe-biden-kamala-harris-donald-trump",
+          "urlToImage": "https://img.zeit.de/politik/ausland/2019-07/us-praesidentschaftswahl-2020-wahlkampf-kampagne-joe-biden-kamala-harris-donald-trump-duo/wide__1300x731",
+          "publishedAt": "2019-07-20T08:00:54+00:00",
+          "content": "Demokratie ist zweifellos etwas Kostbares, sie kann aber auch\r\nganz schön komisch sein. Mindestens seltsam. Und manchmal absurd. \r\nDa stehen nun also 100 oder 120 Menschen im Garten der\r\nFamilie Delfino in Atkinson herum, einem Dorf in New Hampshire, 6.900\r\nE… [+3005 chars]"
       },
       {
           "source": {
               "id": "der-tagesspiegel",
               "name": "Der Tagesspiegel"
           },
-          "author": "Robert Kiesel",
-          "title": "CDU wirft Senat Trickserei bei Volksbegehren vor",
-          "description": "Generalsekretär Evers kritisiert den Umgang mit der Video-Initiative. Er wollte Akten dazu einsehen, weite Teile seien aber „entnommen und geschwärzt“.",
-          "url": "https://www.tagesspiegel.de/berlin/berliner-volksbegehren-zur-videoueberwachung-cdu-wirft-senat-trickserei-bei-volksbegehren-vor/24681190.html",
-          "urlToImage": "https://www.tagesspiegel.de/images/stefan-evers-generalsekretr-der-cdu-berlin-foto-cdu-berlin/24681752/1-format530.jpg",
-          "publishedAt": "2019-07-19T18:29:15+00:00",
-          "content": "Unmittelbar nach der Einsichtnahme in Akten der Innenverwaltung zum Volksbegehren für Videoüberwachung hat CDU-Generalsekretär Stefan Evers diese scharf kritisiert. Die Innenverwaltung habe ganz offensichtlich zu keinem Zeitpunkt sauber zwischen der rechtlich… [+1133 chars]"
-      },
-      {
-          "source": {
-              "id": "der-tagesspiegel",
-              "name": "Der Tagesspiegel"
-          },
-          "author": null,
-          "title": "Iran stoppt britischen Öltanker",
-          "description": "Revolutionsgarden stoppen in der Straße von Hormus einen britischen Öltanker. Gestern schossen dort die USA laut Präsident Trump eine iranische Drohne ab.",
-          "url": "https://www.tagesspiegel.de/politik/erneuter-vorfall-im-persischen-golf-iran-stoppt-britischen-oeltanker/24681754.html",
-          "urlToImage": "https://www.tagesspiegel.de/images/iran-stoppt-auslaendischen-oeltanker-im-golf/24681766/2-format530.jpg",
-          "publishedAt": "2019-07-19T18:23:46+00:00",
-          "content": "Die iranischen Revolutionsgarden (IRGC) haben am Freitag einen britischen Öltanker in der Straße von Hormus am Persischen Golf gestoppt. Laut IRGC-Website hatte der Tanker die internationalen Vorschriften nicht beachtet.\r\nBei dem Schiff handelt es sich nach A… [+3149 chars]"
+          "author": "Bernhard Schulz",
+          "title": "Wunden können heilen",
+          "description": "Trotz Duma-Gesetz zur Verstaatlichung von Beutekunst: Der Deutsch-Russische Museumsdialog setzt heute wieder auf Kooperation.",
+          "url": "https://www.tagesspiegel.de/kultur/20-jahre-duma-gesetz-zur-beutekunst-wunden-koennen-heilen/24680626.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/heprodimagesfotos86120190720zaren_3_469_1_20190719150720848-jpg/24680660/3-format530.jpg",
+          "publishedAt": "2019-07-20T07:59:30+00:00",
+          "content": "Heute vor zwanzig Jahren, am 20. Juli 1999, bestätigte das Verfassungsgericht der Russischen Föderation das sogenannte Beutekunst-Gesetz, das die Duma, das Parlament, zweieinhalb Jahre zuvor beschlossen hatte, das aber wegen des hartnäckigen Widerstandes des … [+8102 chars]"
       },
       {
           "source": {
@@ -229,38 +177,90 @@
               "name": "Spiegel Online"
           },
           "author": "Spiegel Online",
-          "title": "Persischer Golf: Iran stoppt britischen Öltanker",
-          "description": "Die Lage im Persischen Golf spitzt sich dramatisch zu. Nach eigenen Angaben haben die iranischen Revolutionsgarden jetzt einen unter britischer Flagge fahrenden Öltanker angehalten.",
-          "url": "http://www.spiegel.de/politik/ausland/persischer-golf-iran-stoppt-britischen-oeltanker-a-1278212.html",
-          "urlToImage": "https://cdn1.spiegel.de/images/image-1441980-860_poster_16x9-deng-1441980.jpg",
-          "publishedAt": "2019-07-19T18:23:00Z",
-          "content": "Freitag, 19.07.2019  \r\n20:23 Uhr\r\nDie Iranischen Revolutionsgarden (IRGC) haben nach eigenen Angaben einen unter britischer Flagge fahrenden Öltanker in der Straße von Hormus gestoppt. Der Tanker habe internationale Vorschriften nicht beachtet, hieß es auf de… [+1783 chars]"
+          "title": "Nach Veröffentlichung neuer Fotos: Fahnder erhalten 50 neue Hinweise zu Ex-RAF-Terroristen",
+          "description": "Seit Jahrzehnten sind die Ex-RAF-Terroristen Staub, Klette und Garweg abgetaucht. Dank neuer Fahndungsfotos hat das Landeskriminalamt Niedersachsen nun neue Hinweise erhalten.",
+          "url": "http://www.spiegel.de/politik/deutschland/raf-fahnder-erhalten-50-neue-hinweise-zu-ex-terroristen-a-1278224.html",
+          "urlToImage": "https://cdn1.spiegel.de/images/image-1435593-860_poster_16x9-rnlz-1435593.jpg",
+          "publishedAt": "2019-07-20T07:54:03Z",
+          "content": "Samstag, 20.07.2019  \r\n09:54 Uhr\r\nBei der Fahndung nach drei früheren Mitgliedern der Roten Armee Fraktion (RAF) sind rund 50 neue Hinweise eingegangen. Das teilte das niedersächsische Landeskriminalamt mit. Die Behörde hatte Anfang Juni neue Fotos von Daniel… [+1499 chars]"
       },
       {
           "source": {
               "id": "bild",
               "name": "Bild"
           },
-          "author": "MARC SIEKMANN",
-          "title": "Schalke 04: Ralf Fährmann spielt nicht für Norwich gegen S04",
-          "description": "Das Wiedersehen mit Ralf Fährmann fand nur außerhalb des Rasens statt: Bei Schalkes 1:2-Pleite gegen Norwich saß der Torwart nur auf der Tribüne.",
-          "url": "http://www.bild.de/sport/fussball/fussball/schalke-04-ralf-faehrmann-spielt-nicht-fuer-norwich-gegen-s04-63413740.bild.html",
-          "urlToImage": "https://bilder.bild.de/fotos/schalke-04-ralf-faehrmann-spielt-nicht-fuer-norwich-gegen-s04-201187433-63413744/Bild/2.bild.jpg",
-          "publishedAt": "2019-07-19T18:22:27Z",
-          "content": "Das schnelle Wiedersehen mit Ralf Fährmann (30) fand überraschend nur außerhalb des Rasens statt.\r\nDer für ein Jahr an England-Klub Norwich City ausgeliehene Torhüter sah den Test in Lotte gegen seine alte Liebe Schalke nur von der Tribüne aus.\r\nOffizielle Be… [+1747 chars]"
+          "author": "Beate Krause",
+          "title": "Elefant wegen seiner Stoßzähne zerstückelt - Verfluchte Wilderer!",
+          "description": "Es ist eine Grausamkeit, die sprachlos macht: Ein Elefant liegt am Boden, sein mächtiger Schädel ist zerstückelt, nur noch eine klaffende Wunde.",
+          "url": "http://www.bild.de/news/ausland/news-ausland/elefant-wegen-seiner-stosszaehne-zerstueckelt-verfluchte-wilderer-63402022.bild.html",
+          "urlToImage": "https://bilder.bild.de/fotos/elefant-wegen-seiner-stosszaehne-zerstueckelt-verfluchte-wilderer--201186984-63404766/Bild/6.bild.jpg",
+          "publishedAt": "2019-07-20T07:53:59Z",
+          "content": "Es ist eine Grausamkeit, die sprachlos macht: Ein Elefant liegt am Boden, sein mächtiger Schädel ist zerstückelt, nur noch eine riesige Wunde. Der abgetrennte Rüssel des Tieres liegt vor ihm, wie weggeworfen. \r\nFür die Männer, die dieses Massaker angerichtet … [+1609 chars]"
       },
       {
           "source": {
-              "id": "bild",
-              "name": "Bild"
+              "id": "der-tagesspiegel",
+              "name": "Der Tagesspiegel"
           },
-          "author": "ANDREAS WEGENER",
-          "title": "Bergkamen: Pistolen-Mann missbraucht Mädchen an Gleisen – Festnahme",
-          "description": "Nach der Vergewaltigung eines Mädchens (15) in Bergkamen hat die Polizei am Freitag einen Verdächtigen festgenommen!",
-          "url": "http://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/bergkamen-pistolen-mann-missbraucht-maedchen-15-an-gleisen-63410242.bild.html",
-          "urlToImage": "https://bilder.bild.de/fotos/bergkamen-pistolen-mann-missbraucht-maedchen-an-gleisen--festnahme-201187453-63414072/Bild/2.bild.jpg",
-          "publishedAt": "2019-07-19T18:22:00Z",
-          "content": "Bergkamen (NRW) Der Handwerker (32) war gerade mit dem Familien-Mops Gassi gehen, als Polizisten ihn neben dem Mehrfamilienhaus in Bergkamen auf den Boden warfen: Festnahme nach der Vergewaltigung eines Mädchens (15) im Zechen-Städtchen Oberaden!\r\nDort war am… [+2705 chars]"
+          "author": null,
+          "title": "Lastwagen überrollt Frau auf Parkplatz",
+          "description": "Tödlicher Unfall in der Nacht zu Samstag: Eine 55-Jährige ist auf einem Supermarktplatz von einem Laster überfahren worden.",
+          "url": "https://www.tagesspiegel.de/berlin/polizei-justiz/toedlicher-unfall-in-pankow-lastwagen-ueberrollt-frau-auf-parkplatz/24682142.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/patrickpleuldpa/11779118/203-format530.jpg",
+          "publishedAt": "2019-07-20T07:53:49+00:00",
+          "content": "In der Nacht zu Samstag hat ein Lkw eine 55 Jahre alte Frau in Prenzlauer Berg überrollt. Die Frau starb an ihren Verletzungen, wie die Berliner Polizei mitteilte. \r\nDer Unfall soll sich gegen 2 Uhr in der Früh auf einem Supermarktparkplatz an der Ostseestraß… [+223 chars]"
+      },
+      {
+          "source": {
+              "id": "der-tagesspiegel",
+              "name": "Der Tagesspiegel"
+          },
+          "author": null,
+          "title": "Borussia Dortmund ist schon in Champions-League-Form",
+          "description": "Auf seiner USA-Tour präsentiert sich der BVB bislang gut. „Es ist sehr eindrucksvoll, was sie machen“, sagt Liverpools Trainer Jürgen Klopp.",
+          "url": "https://www.tagesspiegel.de/sport/3-2-sieg-gegen-den-fc-liverpool-borussia-dortmund-ist-schon-in-champions-league-form/24682168.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/borussia-dortmund-v-liverpool-pre-season-friendly/24682172/1-format530.jpg",
+          "publishedAt": "2019-07-20T07:52:07+00:00",
+          "content": "Axel Witsel war zufrieden. Ein guter Test für uns, twitterte der Mittelfeldspieler des Fußball-Bundesligisten Borussia Dortmund nach dem 3:2 (1:1)-Sieg am Freitag (Ortszeit) in South Bend im US-Bundesstaat Indiana gegen den FC Liverpool. Das war ein weiterer … [+1919 chars]"
+      },
+      {
+          "source": {
+              "id": "handelsblatt",
+              "name": "Handelsblatt"
+          },
+          "author": "Spotpress",
+          "title": "Wie ein Diesel ohne Diesel – das ist der Mazda3 Skyactiv-X",
+          "description": "Mazda baut den ersten Benzinmotor, der verbrennt wie ein Diesel. Das verspricht geringeren Verbrauch bei höherer Leistung. Ein Test im Mazda3.",
+          "url": "https://www.handelsblatt.com/auto/test-technik/neue-motorengeneration-wie-ein-diesel-ohne-diesel-das-ist-der-mazda3-skyactiv-x-/24675762.html",
+          "urlToImage": "https://www.handelsblatt.com/images/zuendende-idee/24675764/2-format2003.jpg",
+          "publishedAt": "2019-07-20T07:47:46+00:00",
+          "content": "Zündende IdeeDer Mazda3 Skyactiv-X lässt sich mitunter sportlich bewegen.\r\nKönigsteinEigentlich sollte man meinen, dass der vor weit über 100 Jahren erfundene Benzinmotor längst zu Ende entwickelt ist. Wenn da nicht die Tüftler von Mazda wären. Die Japaner br… [+5468 chars]"
+      },
+      {
+          "source": {
+              "id": "focus",
+              "name": "Focus"
+          },
+          "author": "Von FOCUS-Online-Autor Armin Fuhrer",
+          "title": "20. Juli 1944: Das geschah mit den Angehörigen der Hitler-Attentäter",
+          "description": "Nach dem misslungenen Attentat auf Adolf Hitler vom 20. Juli 1944 ließen der „Führer“ und SS-Chef Heinrich Himmler keine Gnade walten und schlugen mit sofortigen Hinrichtungen und Todesurteilen zurück. Auch die Sippenhaft für Familienmitglieder der in die Att…",
+          "url": "https://www.focus.de/wissen/mensch/geschichte/nationalsozialismus/in-hitlers-und-himmlers-sippenhaft-angehoerige-der-attentaeter-vom-20-juli-1944-in-hitlers-und-himmlers-sippenhaft_id_10193058.html",
+          "urlToImage": "https://p5.focus.de/img/fotos/crop10941996/1052717099-w1200-h627-o-q75-p5/75-jahre-attentat-au-61943069.jpg",
+          "publishedAt": "2019-07-20T07:46:00Z",
+          "content": "Nach dem misslungenen Attentat auf Adolf Hitler vom 20. Juli 1944 ließen der Führer und SS-Chef Heinrich Himmler keine Gnade walten und schlugen mit sofortigen Hinrichtungen und Todesurteilen zurück. Auch die Sippenhaft für Familienmitglieder der in die Atten… [+8970 chars]"
+      },
+      {
+          "source": {
+              "id": "spiegel-online",
+              "name": "Spiegel Online"
+          },
+          "author": "Spiegel Online",
+          "title": "Frankreichs Aufrüstung: Macrons militärische Muskelspiele",
+          "description": "Hier ein neues Weltraumkommando, dort ein neues Atom-U-Boot: Frankreich rüstet auf. Damit setzt Präsident Emmanuel Macron auch Deutschland unter Druck, mehr für die europäische Verteidigung zu tun.",
+          "url": "http://www.spiegel.de/politik/ausland/frankreich-emmanuel-macrons-militaerische-muskelspiele-a-1278137.html",
+          "urlToImage": "https://cdn1.spiegel.de/images/image-1451002-860_poster_16x9-ghmo-1451002.jpg",
+          "publishedAt": "2019-07-20T07:45:54Z",
+          "content": "Samstag, 20.07.2019  \r\n09:45 Uhr\r\nFrankreichs Präsident Emmanuel Macron legt in diesen Wochen eine Militärshow nach der anderen hin. Rund um den Nationalfeiertag am 14. Juli weihte er im Hafen von Cherbourg erst das neue atomgetriebene U-Boot \"Suffren\" ein. D… [+4725 chars]"
       }
   ]
 }

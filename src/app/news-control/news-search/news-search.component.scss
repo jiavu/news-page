@@ -1,0 +1,21 @@
+@import '../../../scss/variables';
+
+.search-container {
+  display: inline-block;
+  border: 1px solid green;
+  /* line-height: 2em;
+  height: 2em; */
+  white-space: nowrap;
+
+  > * {
+    padding: 0.5em;
+  }
+  
+  input[type="text"] {
+    border: none;
+  }
+
+  button {
+    color: $medium;
+  }
+}

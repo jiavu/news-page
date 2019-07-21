@@ -29,6 +29,8 @@ textarea {
   -moz-box-shadow: none;
   box-shadow: none;
 
+  font: inherit;
+
   &:focus {
     outline: 0;
   }

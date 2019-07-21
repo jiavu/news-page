@@ -49,8 +49,14 @@ $main-font: 'Gentium Basic', serif;
 $primary-color: #121212;
 $bg-color: #faf8fe;
 
+$dark: #222;
 $medium: #888;
 $light: #ccc;
+
+/* Shadows: */
+
+$box-shadow-hard: 0.03rem 0.08rem 0.05rem $dark;
+$box-shadow-pushed-btn: 0.015rem 0.04rem 0.025rem $dark;
 
 /*  Transitions: */
 $trans-time-fast: 0.2s;
@@ -69,3 +75,9 @@ $cards-border-width: 2px;
 $max-card-width: (1920px - ($max-cards-per-row + 1) *
   $min-card-spacing-sides) / ($max-cards-per-row) -
   2 * $max-cards-per-row;
+
+/* Borders: */
+
+$ctrl-border: 1px solid $medium;
+$ctrl-text-size: 1rem;
+$round-border: 0.5rem;

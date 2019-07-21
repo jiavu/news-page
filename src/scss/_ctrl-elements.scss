@@ -1,0 +1,14 @@
+@import '../scss/variables';
+
+button,
+select {
+  border: $ctrl-border;
+  font-size: $ctrl-text-size;
+  padding: 0.4rem 0.6rem;
+  border-radius: $round-border;
+  box-shadow: $box-shadow-hard;
+
+  &:active {
+    box-shadow: $box-shadow-pushed-btn;
+  }
+}

@@ -2,12 +2,12 @@
 @import '../../../scss/variables';
 
 .news-filter__container {
+  width: $minimum-screen-size - 2 * $min-card-spacing-sides;
   background-color: lightgrey;
   @include inline-flex(row, flex-start, flex-start);
   @include transform-origin(top);
   @include animate(unfold, $trans-time-slow);
 }
-
 
 
 

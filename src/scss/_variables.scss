@@ -58,7 +58,9 @@ $trans-time-medium: 0.4s;
 $trans-time-slow: 1s;
 
 
-/* Spacing: */
+/* Spacing and sizes: */
+
+$minimum-screen-size: 320px;
 
 $max-cards-per-row: 5;
 $min-card-spacing-sides: 5px;

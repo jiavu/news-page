@@ -1,5 +1,14 @@
 @import '../scss/mixins';
+@import '../scss/variables';
 
 header {
   text-align: center;
+  
+  .head__container {
+    @include flex(row, space-between, center);
+    flex-wrap: wrap;
+    > * {
+      padding: $min-card-spacing-sides;
+    }
+  }
 }

@@ -1,5 +1,7 @@
+@import '../../scss/variables';
 @import '../../scss/mixins';
 
-.head__container {
-  @include flex(row, center, center);
+.change-mode-container {
+  width: $minimum-screen-size - 2 * $min-card-spacing-sides;
+  @include flex(row, space-around, center);
 }

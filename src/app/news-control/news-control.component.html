@@ -1,20 +1,15 @@
-<!-- news-mode: -->
-<div class="head__container">
-  <div style="border: 1px solid lightgrey;">
-    <span>Headlines</span>
-    <button>switchB.</button>
-  </div>
+<div class="change-mode-container">
   <div>
-    <button (click)="showOptions=!showOptions">
-      Options
-      <span *ngIf="showOptions; else caretDown">&#x025B2;</span>
-      <ng-template #caretDown>
-        <span>&#x025BC;</span>
-      </ng-template>
-    </button>
+      <span>Headlines</span>
+      <button>switchB.</button>
   </div>
+  
+  <button (click)="showOptions=!showOptions">
+    Options
+    <span *ngIf="showOptions; else caretDown">&#x025B2;</span>
+    <ng-template #caretDown>
+      <span>&#x025BC;</span>
+    </ng-template>
+  </button>
 </div>
 <app-news-filter *ngIf="showOptions"></app-news-filter>
-
-<!-- Maybe an absolute positioning to left or right side -->
-<app-news-search></app-news-search>

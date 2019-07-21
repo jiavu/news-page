@@ -19,7 +19,7 @@ html {
 }
 body {
   @include hyphens(); /* not working in Chrome */
-  min-width: 320px;
+  min-width: $minimum-screen-size;
   height: 100%;
 }
 app-root {
@@ -61,7 +61,7 @@ app-root {
 /* responsive: */
 /* =========== */
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: $minimum-screen-size) {
 }
 
 

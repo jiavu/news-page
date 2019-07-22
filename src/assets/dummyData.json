@@ -4,94 +4,159 @@
   "articles": [
       {
           "source": {
-              "id": "die-zeit",
-              "name": "Die Zeit"
+              "id": "focus",
+              "name": "Focus"
           },
-          "author": null,
-          "title": "Straße von Hormus: Iran veröffentlicht Video der Kaperung der \"Stena Impero\"",
-          "description": "Der Iran hat ein Video der Beschlagnahmung des britischen Öltankers veröffentlicht. Nach Angaben des Chefs der zuständigen Hafenbehörde ist die Schiffsbesatzung wohlauf.",
-          "url": "https://www.zeit.de/video/2019-07/6062312436001/strasse-von-hormus-iran-veroeffentlicht-video-der-kaperung-der-stena-impero",
-          "urlToImage": "https://img.zeit.de/video/2019-07/6062312436001/imagegroup/wide__1300x731",
-          "publishedAt": "2019-07-21T10:49:03+00:00",
-          "content": "Der Iran hat ein Video der Beschlagnahmung des britischen Öltankers veröffentlicht. Nach Angaben des Chefs der zuständigen Hafenbehörde ist die Schiffsbesatzung wohlauf."
-      },
-      {
-          "source": {
-              "id": "der-tagesspiegel",
-              "name": "Der Tagesspiegel"
-          },
-          "author": "Christiane Peitz",
-          "title": "Logenplatz im Jenseits",
-          "description": "Berliner Mauern (4) In ihrem Schatten ruhen oft Wohlhabende: Friedhofsmauern trennen das Reich der Lebenden von dem der Toten.",
-          "url": "https://www.tagesspiegel.de/kultur/serie-berliner-mauern-logenplatz-im-jenseits/24682670.html",
-          "urlToImage": "https://www.tagesspiegel.de/images/heprodimagesfotos86120190720friedbild1_473_1_20190719163358425-jpg/24682678/2-format530.jpg",
-          "publishedAt": "2019-07-21T10:48:28+00:00",
-          "content": "Ein massives Bauwerk, das einhegen und schützen, aber auch trennen und begrenzen kann. Mura, Murus das Wort ist althochdeutschen und lateinischen Ursprungs. Den Steinbau haben die Germanen von den Römern übernommen. Keine Zivilisation ohne Mauern. Sie sind so… [+9328 chars]"
-      },
-      {
-          "source": {
-              "id": "bild",
-              "name": "Bild"
-          },
-          "author": "JÖRG LÖBKER",
-          "title": "Köln: Polizeichef soll Bürgermeister beleidigt haben",
-          "description": "Dem Kölner Polizeipräsidenten Uwe Jacob könnte Ärger drohen. Hat er den Mülheimer Bezirksbürgermeister Norbert Fuchs beleidigt?",
-          "url": "http://www.bild.de/regional/koeln/koeln-aktuell/koeln-polizeichef-soll-buergermeister-beleidigt-haben-63434122.bild.html",
-          "urlToImage": "https://bilder.bild.de/fotos/koeln-polizeichef-soll-buergermeister-beleidigt-haben-201188270-63434454/Bild/5.bild.jpg",
-          "publishedAt": "2019-07-21T10:43:39Z",
-          "content": "Köln/Düsseldorf Dem Kölner Polizeipräsidenten Uwe Jacob könnte Ärger drohen wegen einer angeblichen Beleidigung.\r\nDer ehemalige Kölner SPD-Fraktionschef und jetzige Landtagsabgeordnete Martin Börschel fragt in einer Kleinen Anfrage NRW-Innenminister Herbert R… [+1265 chars]"
+          "author": "FOCUS Online",
+          "title": "Cristiano Ronaldo: Keine Anklage nach Vergewaltigungsvorwürfen",
+          "description": "Die Staatsanwaltschaft von Clark County im US-Bundesstaat Nevada hat am Montag mitgeteilt, dass keine Anklage gegen Cristiano Ronaldo erhoben wird. Eine Frau hatte dem Fußball-Star vorgeworfen, sie vor zehn Jahren vergewaltigt zu haben.",
+          "url": "https://www.focus.de/sport/vergewaltigungsvorwuerfe-staatsanwaltschaft-erhebt-keine-anklage-gegen-cristiano-ronaldo_id_10950321.html",
+          "urlToImage": "https://p5.focus.de/img/fotos/crop10950327/6282712471-w1200-h627-o-q75-p5/imago40777029h.jpg",
+          "publishedAt": "2019-07-22T19:53:00Z",
+          "content": "Die Staatsanwaltschaft von Clark County im US-Bundesstaat Nevada hat am Montag mitgeteilt, dass keine Anklage gegen Cristiano Ronaldo erhoben wird. Eine Frau hatte dem Fußball-Star vorgeworfen, sie vor zehn Jahren vergewaltigt zu haben. Die Vorwürfe gegen Ron… [+1130 chars]"
       },
       {
           "source": {
               "id": "handelsblatt",
               "name": "Handelsblatt"
           },
-          "author": ", Reuters",
-          "title": "Tankerstreit: Iran sagt, man sei auf alle Szenarien vorbereitet",
-          "description": "Großbritannien droht mit Konsequenzen, weil Iran einen britischen Tanker festgesetzt hat. Der Iran warnt die britische Regierung vor einer Eskalation der Krise.",
-          "url": "https://www.handelsblatt.com/politik/international/iran-konflikt-tankerstreit-iran-sagt-man-sei-auf-alle-moeglichen-szenarien-vorbereitet/24683474.html",
-          "urlToImage": "https://www.handelsblatt.com/images/der-britische-oeltanker-stena-bulk/24683496/3-format2003.jpg",
-          "publishedAt": "2019-07-21T10:41:23+00:00",
-          "content": "Washington, Berlin, London, TeheranDer Iran hat die britische Regierung vor einer Eskalation der Krise um den beschlagnahmten Öltanker gewarnt. Es gebe politische Kreise in London, die Spannungen jenseits des Tankerstreits wollten, twitterte Botschafter Hamid… [+6806 chars]"
+          "author": "Philip Bleckmann",
+          "title": "Jungheinrich senkt Gewinnprognose für 2019",
+          "description": "Die weltweit schwächelnde Konjunktur hat Auswirkungen auf die Gewinnerwartung des Familienunternehmens. Jungheinrich ist der drittgrößte Gabelstapler-Hersteller der Welt.",
+          "url": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/gabelstapler-hersteller-jungheinrich-senkt-gewinnprognose-fuer-2019/24688738.html",
+          "urlToImage": "https://www.handelsblatt.com/images/jungheinrich/24688766/2-format2003.jpg",
+          "publishedAt": "2019-07-22T19:52:15+00:00",
+          "content": "JungheinrichDer Gabelstapler-Hersteller aus Hamburg beschäftigt rund 17.800 Mitarbeiter.\r\n(Foto: dpa)\r\nBerlin, New YorkDer drittgrößte Gabelstapler-Hersteller der Welt hat seine Gewinnerwartung für das Jahr 2019 gesenkt. Man rechne mit einem Gewinn zwischen 2… [+1309 chars]"
       },
       {
           "source": {
-              "id": "wirtschafts-woche",
-              "name": "Wirtschafts Woche"
+              "id": "der-tagesspiegel",
+              "name": "Der Tagesspiegel"
           },
-          "author": "Martin Rhonheimer",
-          "title": "Kirche und Kapitalismus: Das teuflische K-Wort",
-          "description": "Der Kapitalismus hat in den Kirchen kaum Fürsprecher. Das liegt auch an ihrer Einbindung in den deutschen Sozial- und Steuerstaat.",
-          "url": "https://www.wiwo.de/my/politik/konjunktur/denkfabrik-warum-ich-als-priester-den-kapitalismus-verteidige/24581898.html",
-          "urlToImage": "https://www.wiwo.de/images/ingodwetrust_imago/24594078/2-format11240.jpg",
-          "publishedAt": "2019-07-21T10:39:29+00:00",
-          "content": "Diese Mentalität ist, so kurios es sich anhören mag, das Produkt unseres Wohlstands. Viele Menschen verstehen die ökonomischen Mechanismen der Wertschöpfung nicht, obwohl sie persönlich davon profitieren. Sie erkennen nicht, dass die Stützpfeiler des Kapitali… [+204 chars]"
+          "author": null,
+          "title": "Macron: 14 EU-Staaten stimmen \"Prinzip\" der Umverteilung zu",
+          "description": "Nach Angaben des französischen Präsidenten stimmen 14 EU-Staaten dem \"Prinzip\" der Umverteilung von Flüchtlingen zu. Acht sichern eine \"aktive\" Beteiligung zu.",
+          "url": "https://www.tagesspiegel.de/politik/seenotrettung-von-fluechtlingen-macron-14-eu-staaten-stimmen-prinzip-der-umverteilung-zu/24688744.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/sos-mediterranee-nimmt-seenotrettung-wieder-auf/24688758/2-format530.jpg",
+          "publishedAt": "2019-07-22T19:48:22+00:00",
+          "content": "14 EU-Staaten haben nach Angaben von Frankreichs Präsident Emmanuel Macron in einen geplanten \"solidarischen Mechanismus\" zur Verteilung von aus Seenot geretteten Migranten eingewilligt. 14 Länder hätten \"dem Prinzip\" des deutsch-französischen Kompromissvorsc… [+883 chars]"
       },
       {
           "source": {
-              "id": "die-zeit",
-              "name": "Die Zeit"
+              "id": "bild",
+              "name": "Bild"
           },
-          "author": "Inga Pöting",
-          "title": "Softwareentwickler: \"Ich arbeite sieben Tage pro Woche\"",
-          "description": "Frederik verdient als Softwareentwickler 1.400 Euro netto. 16 Stunden in der Woche arbeitet er fest angestellt, in der restlichen Zeit gründet er seine eigene Firma.",
-          "url": "https://www.zeit.de/arbeit/2019-07/softwareentwickler-programmierer-it-gehalt-bezahlung-kontoauszug",
-          "urlToImage": "https://img.zeit.de/arbeit/2019-07/kontoauszug-frederik/wide__1300x731",
-          "publishedAt": "2019-07-21T10:36:38+00:00",
-          "content": "In\r\nder Serie \"Kontoauszug\" stellen wir regelmäßig Menschen\r\nvor, die erzählen, wie viel sie verdienen, wofür sie ihr Geld ausgeben und\r\nwie viel sie monatlich auf die Seite legen. Hier berichtet der 36-jährige Frederik\r\naus Berlin.\r\nZ+\r\nWählen Sie Ihren Zuga… [+81 chars]"
+          "author": "T. SCHLEGEL, O. KRAMER und P. FRANZ",
+          "title": "Nächster Youngster vor Profi-Debüt - Ehlers: »Ich fühle mich richtig gut",
+          "description": "Damit haben wohl nur die Wenigsten gerechnet: Kevin Ehlers (18) ist DER Gewinner von Dynamos Saisonvorbereitung. Und damit der nächste Youngster auf dem Sprung ins Profi-Team.Der Defensivmann könnte",
+          "url": "http://www.bild.de/sport/fussball/fussball/naechster-youngster-vor-profi-debuet-ehlers-ich-fuehle-mich-richtig-gut-63469334.bild.html",
+          "urlToImage": "https://bilder.bild.de/fotos/naechster-youngster-vor-profi-debuet-ehlers-ich-fuehle-mich-richtig-gut-201189748-63469346/Bild/1.bild.jpg",
+          "publishedAt": "2019-07-22T19:40:34Z",
+          "content": "Damit haben wohl nur die Wenigsten gerechnet: Kevin Ehlers (18) ist DER Gewinner von Dynamos Saisonvorbereitung. Und damit der nächste Youngster auf dem Sprung ins Profi-Team.\r\nDer Defensivmann könnte noch A-Junioren spielen, hat aber gute Chancen, am Samstag… [+1681 chars]"
       },
       {
           "source": {
-              "id": "spiegel-online",
-              "name": "Spiegel Online"
+              "id": "bild",
+              "name": "Bild"
           },
-          "author": "Spiegel Online",
-          "title": "Reversible Enteignungen: Lasst die Erben ihr Erbe verdienen",
-          "description": "Nehmt den Reichen, gebt den Armen. Klingt gut, schafft aber nicht mehr Wohlstand für alle. Ganz anders wäre es mit staatlichen Beteiligungen am Firmenerbe - die sich zurückkaufen ließen.",
-          "url": "http://www.spiegel.de/politik/deutschland/enteignung-die-spd-sollte-neue-konzepte-fuer-erbschaft-entwickeln-a-1277072.html",
-          "urlToImage": "https://cdn1.spiegel.de/images/image-1448857-860_poster_16x9-snij-1448857.jpg",
-          "publishedAt": "2019-07-21T10:36:10Z",
-          "content": "Sonntag, 21.07.2019  \r\n12:36 Uhr\r\nRatschläge bekommt die SPD genug, was sie alles falsch gemacht hat: Aufs falsche Pferd der Kultur- und Identitätspolitik hätte sie gesetzt, statt zeitgemäße Antworten auf die alte Kernfrage zu geben, wie sich \"Arbeit\" gegen \"… [+8360 chars]"
+          "author": null,
+          "title": "Saarbrücken: Natalie (damals 14) verschwand 1996 spurlos: 23 Jahre Schmerz",
+          "description": "Es ist der Albtraum jeder Mutter: Die eigene Tochter verschwindet spurlos. Evelin Hemmer (55) hat diesen Albtraum erlebt. Seit 23 Jahren fehlt von ihrer Natalie (damals 14) jede Spur!Am Mittwoch befasst sich die TV-Sendung „Aktenzeichen XY-spezial“ mit dem Fa…",
+          "url": "http://www.bild.de/bild-plus/regional/saarland/saarland-news/saarbruecken-natalie-damals-14-verschwand-1996-spurlos-23-jahre-schmerz-63468970.bild.html",
+          "urlToImage": "https://bilder.bild.de/fotos/saarbruecken-natalie-damals-14-verschwand-1996-spurlos-23-jahre-schmerz-201189734-63469136/Bild/1,club=bildplus.bild.jpg",
+          "publishedAt": "2019-07-22T19:31:50Z",
+          "content": "Es ist der Albtraum jeder Mutter: Die eigene Tochter verschwindet spurlos. Evelin Hemmer (55) hat diesen Albtraum erlebt. Seit 23 Jahren fehlt von ihrer Natalie (damals 14) jede Spur!\r\nAm Mittwoch befasst sich die TV-Sendung Aktenzeichen XY-spezial mit dem Fa… [+175 chars]"
+      },
+      {
+          "source": {
+              "id": "focus",
+              "name": "Focus"
+          },
+          "author": "FOCUS Online",
+          "title": "Arbeitet für einen Hungerlohn: Mann schildert sein Leben auf dem Arbeiterstrich",
+          "description": "Die Männer vom Arbeiterstrich – Tausende Rumänen schuften täglich auf Baustellen in Italien, oft illegal und für einen Hungerlohn. Sie nutzen die EU-weite Freizügigkeit auf der Suche nach Arbeit, weil sie zu Hause keine Perspektive auf einen Job haben. Zurück…",
+          "url": "https://www.focus.de/finanzen/wir-sind-sklaven-italiens-arbeiterstrich-hier-schuften-handwerker-fuer-hungerloehne_id_10938208.html",
+          "urlToImage": "https://p5.focus.de/img/fotos/crop10947916/0362717403-w1200-h627-o-q75-p5/arbeiterstrich.jpg",
+          "publishedAt": "2019-07-22T19:30:00Z",
+          "content": "Vielen Dank! Ihr Kommentar wurde\r\nabgeschickt.\r\nHier können Sie selbst Artikel verfassen: Bericht schreiben\r\nIm Interesse unserer User behalten wir uns vor, jeden Beitrag\r\nvor der Veröffentlichung zu prüfen. Als registrierter Nutzer werden\r\nSie automatisch pe… [+65 chars]"
+      },
+      {
+          "source": {
+              "id": "der-tagesspiegel",
+              "name": "Der Tagesspiegel"
+          },
+          "author": null,
+          "title": "Gewerkschaft fordert Bezahlung nach Tarif",
+          "description": "Viele Radboten der Lebensmittellieferdienste fahren unter extrem hohem Druck. Einige kommen nur wegen der Trinkgelder auf einen akzeptablen Stundenlohn.",
+          "url": "https://www.tagesspiegel.de/berlin/kritik-an-essenslieferdiensten-gewerkschaft-fordert-bezahlung-nach-tarif/24687714.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/heprodimagesfotos83420190723lieferando_514_1_20190722152444615-jpg/24687706/5-format530.jpg",
+          "publishedAt": "2019-07-22T19:27:17+00:00",
+          "content": "Ihre orangefarbenen Jacken und eckigen Thermorucksäcke gehören inzwischen fest zum Stadtbild. Im Auftrag von Lieferando transportieren die Rider genannten Fahrradkuriere alles, was die Restaurants der Hauptstadt anbieten: von Pizza und Sushi über Burger bis z… [+5867 chars]"
+      },
+      {
+          "source": {
+              "id": "der-tagesspiegel",
+              "name": "Der Tagesspiegel"
+          },
+          "author": "Jonas Bickelmann",
+          "title": "Warum der Streit um eine Berliner Privatschule eskaliert",
+          "description": "Die Berliner Privatschule \"New School\" wollte Bildung revolutionieren. Nun steht sie vor dem Aus, Leitung und Eltern sind im Konflikt.",
+          "url": "https://www.tagesspiegel.de/berlin/start-up-nahe-einrichtung-warum-der-streit-um-eine-berliner-privatschule-eskaliert/24688372.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/das-digitale-klassenzimmer/24688724/2-format530.jpg",
+          "publishedAt": "2019-07-22T19:24:14+00:00",
+          "content": "Das Konzept klingt vielversprechend: An der New School sollen Kinder, die es an anderen Schulen schwer haben, frei lernen dürfen. Die Privatschule mit Sitz im Alt-Treptower Standort der \"Factory\" - einem ehemaligen Fabrikgebäude mit mehreren Start-ups nahe de… [+3830 chars]"
+      },
+      {
+          "source": {
+              "id": "handelsblatt",
+              "name": "Handelsblatt"
+          },
+          "author": "Reuters, ",
+          "title": "Autokrise schlägt durch: Continental veröffentlicht Gewinnwarnung",
+          "description": "Der Autozulieferer und Reifenhersteller bekommt die Krise in der Autoindustrie zu spüren. Ein Faktor sind die schwelenden Handelskonflikte.",
+          "url": "https://www.handelsblatt.com/unternehmen/industrie/gewinnwarnung-autokrise-schlaegt-durch-zulieferer-continental-kassiert-umsatz-und-ergebnisziel/24688730.html",
+          "urlToImage": "https://www.handelsblatt.com/images/continental-reifen/24688742/2-format2003.jpg",
+          "publishedAt": "2019-07-22T19:17:00+00:00",
+          "content": "HannoverDer Zulieferer Continental hat seinen Ausblick für das Geschäftsjahr 2019 gesenkt. Weil die weltweite Produktion von Pkw und leichten Nutzfahrzeugen in diesem Jahr wohl um fünf Prozent sinken dürfte, werde nun nur noch ein Umsatz von 44 bis 45 Milliar… [+338 chars]"
+      },
+      {
+          "source": {
+              "id": "bild",
+              "name": "Bild"
+          },
+          "author": null,
+          "title": "Waldbrände in Portugal - 1800 Feuerwehrleute kämpfen gegen das Inferno",
+          "description": "Neben den 1800 Feuerwehrleuten kämpfen mutige Anwohner gegen die Flammenhölle in Portugal. Insgesamt 32 Menschen starben bereits.",
+          "url": "http://www.bild.de/news/ausland/news-ausland/waldbraende-in-portugal-1800-feuerwehrleute-kaempfen-gegen-das-inferno-63466130.bild.html",
+          "urlToImage": "https://bilder.bild.de/fotos/waldbraende-in-portugal-1800-feuerwehrleute-kaempfen-gegen-das-inferno-201189617-63467324/Bild/1.bild.jpg",
+          "publishedAt": "2019-07-22T19:13:26Z",
+          "content": "Lissabon Es ist ein Bild der Verzweiflung. Und des heldenhaften Kampfes gegen das Feuer! Nur mit einem Gartenschlauch bewaffnet stellt sich die Rentnerin Carmita (68) in Roda (Portugal) gegen die Flammen, die eine ganze Region bedrohen!\r\nDabei ist es laut dem… [+1331 chars]"
+      },
+      {
+          "source": {
+              "id": "focus",
+              "name": "Focus"
+          },
+          "author": "Von FOCUS-Online-Autor Ulrich Reitz",
+          "title": "Merkel, von der Leyen und AKK widerlegen Mär von sanfter Frauenpolitik",
+          "description": "Die ARD wundert sich, dass Deutschland jetzt von einem Matriarchat regiert wird. Die „FAZ“ attestiert Kanzlerin Angela Merkel, diese schreibe „weibliche Machtgeschichte“.",
+          "url": "https://www.focus.de/politik/deutschland/angespitzt/angespitzt-kolumne-von-ulrich-reitz-sanfte-frauenpolitik-so-brutal-widerlegen-merkel-von-der-leyen-und-akk-dieses-maerchen_id_10946967.html",
+          "urlToImage": "https://p5.focus.de/img/fotos/crop10934123/8812711516-w1200-h627-o-q75-p5/urn-newsml-dpa-com-20090101-190717-99-91222-large-4-3.jpg",
+          "publishedAt": "2019-07-22T19:13:00Z",
+          "content": "Die ARD wundert sich, dass Deutschland jetzt von einem Matriarchat regiert wird. Die FAZ attestiert Kanzlerin Angela Merkel, diese schreibe weibliche Machtgeschichte.Die linke Taz schreibt über die drei politischen Führungsgrazien Merkel, Ursula von der Leyen… [+6054 chars]"
+      },
+      {
+          "source": {
+              "id": "focus",
+              "name": "Focus"
+          },
+          "author": "Von Focus Money-Redakteur Werner Müller",
+          "title": "Gesetzlich oder privat? Wann es sich lohnt, in die Rentenkasse nachzuzahlen",
+          "description": "Vorgezogener Ruhestand, für viele ein Traum. Aber lohnt es sich, anstatt privat für das Alter vorzusorgen, zusätzliches Geld in die gesetzliche Rentenkasse zu stecken? Selbst bei einem konservativen Szenario kann es sich lohnen, aber einige Dinge müssen beach…",
+          "url": "https://www.focus.de/finanzen/altersvorsorge/ertragsvergleich-gesetzlich-oder-privat_id_10926376.html",
+          "urlToImage": "https://p5.focus.de/img/fotos/crop6414432/8652715630-w1200-h627-o-q75-p5/urn-newsml-dpa-com-20090101-161220-99-610479-large-4-3.jpg",
+          "publishedAt": "2019-07-22T19:12:00Z",
+          "content": "Seit 1. Juli 2017 können Versicherte bereits ab dem vollendeten 50. Lebensjahr (zuvor ab 55 Jahren) zusätzliche Beiträge in die Rentenkasse einzahlen, um damit die Abschläge auszugleichen, die ein vorzeitiger Rentenbezug mit sich bringt. Die Rentenversicherun… [+3902 chars]"
       },
       {
           "source": {
@@ -99,77 +164,12 @@
               "name": "Die Zeit"
           },
           "author": "ZEIT ONLINE",
-          "title": "Kunstrasenplätze: Tausenden Sportplätzen droht die Schließung",
-          "description": "Das geplante EU-Verbot von Mikroplastik betrifft auch Kunstrasenplätze. Bundesinnenminister Horst Seehofer will eine Übergangsfrist erreichen.",
-          "url": "https://www.zeit.de/sport/2019-07/kunstrasenplaetze-eu-verbot-mikroplastik-moegliche-schliessungen",
-          "urlToImage": "https://img.zeit.de/politik/deutschland/2019-07/kunstrasen-mikroplastik/wide__1300x731",
-          "publishedAt": "2019-07-21T10:34:11+00:00",
-          "content": "Das von der Europäischen Union geplante Verbot von Mikroplastik gefährdet den Fortbestand von Kunstrasenplätzen tausender Amateurvereine. \"Als Sportminister werbe ich für einen vernünftigen Ausgleich zwischen Umweltschutz und den berechtigten Interessen des S… [+1501 chars]"
-      },
-      {
-          "source": {
-              "id": "der-tagesspiegel",
-              "name": "Der Tagesspiegel"
-          },
-          "author": "Julia Schoon",
-          "title": "Mit Röstkaffee und Räucherfisch",
-          "description": "Mit frisch aufgebrühtem Kaffee starten. Fahren, bis der Magen knurrt, und dann rechtzeitig den Fischereihof erreichen. Zum Abschluss Bier und eine Moorleiche.",
-          "url": "https://www.tagesspiegel.de/berlin/so-geniesst-man-die-gegend-um-den-scharmuetzelsee-mit-roestkaffee-und-raeucherfisch/24682642.html",
-          "urlToImage": "https://www.tagesspiegel.de/images/tagesspiegel/24682802/1-format530.jpg",
-          "publishedAt": "2019-07-21T10:29:43+00:00",
-          "content": "Bad Saarow begrüßt uns mit Sonnenschein und Bäderarchitektur, als wir aus dem Kurzzug der Niederbarnimer Eisenbahn steigen. Wir, das sind eine Seniorengruppe mit E-Bikes, ein Pärchen mit teuren Trekkingrädern und ich mit meinem Hollandfahrrad, das einen entsc… [+11586 chars]"
-      },
-      {
-          "source": {
-              "id": "spiegel-online",
-              "name": "Spiegel Online"
-          },
-          "author": "Spiegel Online",
-          "title": "Ministerrücktritte in Großbritannien: Wer geht, wenn Boris Johnson kommt?",
-          "description": "Im Kabinett von Premier Boris Johnson arbeiten? Das können sich Justizminister Gauke und Finanzminister Hammond, nicht vorstellen. Sie sind wohl nicht die einzigen, die ihr Amt niederlegen werden.",
-          "url": "http://www.spiegel.de/politik/ausland/boris-johnson-welche-minister-treten-zurueck-wenn-er-premier-wird-a-1278302.html",
-          "urlToImage": "https://cdn1.spiegel.de/images/image-1451257-860_poster_16x9-otpu-1451257.jpg",
-          "publishedAt": "2019-07-21T10:28:00Z",
-          "content": "Sonntag, 21.07.2019  \r\n12:28 Uhr\r\nDie konservativen Tories wählen in Großbritannien einen neuen Parteivorsitzenden - der auch an der Spitze der Regierung auf Theresa May folgen wird. Als Favorit gilt der ehemalige Außenminister und Brexit-Hardliner Boris John… [+1948 chars]"
-      },
-      {
-          "source": {
-              "id": "bild",
-              "name": "Bild"
-          },
-          "author": null,
-          "title": "Rostock: Mann sticht auf Säugling ein und stürzt von Balkon",
-          "description": "Nachdem ein Mann ein Baby mit einem Messer schwer verletzte, wollten Polizisten ihn stoppen. Der Angreifer ging auf den Balkon, stürzte ab, starb.",
-          "url": "http://www.bild.de/news/2019/news/rostock-mann-sticht-auf-saeugling-ein-und-stuerzt-von-balkon-63430646.bild.html",
-          "urlToImage": "https://bilder.bild.de/fotos/rostock-mann-sticht-auf-saeugling-ein-und-stuerzt-von-balkon-201188161-63434352/Bild/3.bild.jpg",
-          "publishedAt": "2019-07-21T10:26:03Z",
-          "content": "Ein Mann hängt kopfüber an einer Balkonbrüstung. Jemand versucht, ihn an den Beinen zu halten. Doch er rutscht ab und fällt in die Tiefe. \r\nRostock Es ist gegen Mitternacht. In einer Wohnung im fünften Geschoss eines Mehrfamilienhauses in Rostock gibt es heft… [+1568 chars]"
-      },
-      {
-          "source": {
-              "id": "bild",
-              "name": "Bild"
-          },
-          "author": null,
-          "title": "Münster: Polizei-Unfall bei Verfolgung von geklautem Wagen",
-          "description": "Auf einer Verfolgungsjagd ist ein Polizeiwagen am Samstagnachmittag in Münster an einer Kreuzung mit einem Mercedes kollidiert.",
-          "url": "http://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/muenster-polizei-unfall-bei-verfolgung-von-geklautem-wagen-63434744.bild.html",
-          "urlToImage": "https://bilder.bild.de/fotos/muenster-polizei-unfall-bei-verfolgung-von-geklautem-wagen-201188284-63434842/Bild/5.bild.jpg",
-          "publishedAt": "2019-07-21T10:25:00Z",
-          "content": "Münster Auf einer Verfolgungsjagd ist ein Polizeiwagen am Samstagnachmittag in Münster an einer Kreuzung mit einem Mercedes kollidiert. Der Beifahrer des Polizeiwagens und der Fahrer des Daimlers wurden leicht verletzt.\r\nDie Polizisten beobachteten einen verd… [+892 chars]"
-      },
-      {
-          "source": {
-              "id": "bild",
-              "name": "Bild"
-          },
-          "author": null,
-          "title": "Chemnitz: Einbrecher will Frau missbrauchen",
-          "description": "Die Mieterin einer Erdgeschosswohnung war gegen 5 Uhr wachgeworden, weil ein 25-jähriger Unbekannter über ein gekipptes Fenster bei ihr eingestiegen war.",
-          "url": "http://www.bild.de/regional/chemnitz/chemnitz-news/chemnitz-mann-steigt-durch-fenster-und-will-frau-missbrauchen-63433738.bild.html",
-          "urlToImage": "https://bilder.bild.de/fotos/chemnitz-einbrecher-will-frau-missbrauchen-201148034-63434062/Bild/7.bild.jpg",
-          "publishedAt": "2019-07-21T10:23:00Z",
-          "content": "Chemnitz Dramatischer Einsatz am frühen Sonntagmorgen im Chemnitzer Ortsteil Sonnenberg.\r\nDie Mieterin einer Erdgeschosswohnung war gegen 5 Uhr wachgeworden, weil ein 25-jähriger Unbekannter über ein gekipptes Fenster bei ihr eingestiegen war. Der Mann soll s… [+529 chars]"
+          "title": "Ricardo Rosselló: Großdemonstrationen gegen Gouverneur in Puerto Rico",
+          "description": "Seit Tagen gehen in Puerto Ricos Hauptstadt San Juan Tausende gegen Ricardo Rosselló auf die Straße. Die Protestierenden fordern den Rücktritt des Gouverneurs.",
+          "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2019-07/ricardo-rosello-puerto-rico-grossdemonstrationen",
+          "urlToImage": "https://img.zeit.de/politik/ausland/2019-07/puerto-rico-usa-proteste-gouverneur/wide__1300x731",
+          "publishedAt": "2019-07-22T19:07:31+00:00",
+          "content": "Die Großdemonstrationen gegen die Regierung halten in Puerto Rico bereits seit mehr als einer Woche an. Nach der Veröffentlichung zahlreicher Chatverläufe fordern Hunderttausende den Rücktritt von Gouverneur Ricardo Rosselló. Unterstützt werden die Proteste v… [+2947 chars]"
       },
       {
           "source": {
@@ -177,51 +177,38 @@
               "name": "Der Tagesspiegel"
           },
           "author": null,
-          "title": "Zehntausende demonstrieren gegen Hongkongs Regierung",
-          "description": "In Hongkong sind wieder Zehntausende auf die Straße gegangen. Zuvor hatte die Polizei ein Waffenlager entdeckt und mehrere Personen festgesetzt.",
-          "url": "https://www.tagesspiegel.de/politik/rueckzug-des-auslieferungsgesetzes-gefordert-zehntausende-demonstrieren-gegen-hongkongs-regierung/24683526.html",
-          "urlToImage": "https://www.tagesspiegel.de/images/demonstrationen-in-hongkong/24683846/2-format530.jpg",
-          "publishedAt": "2019-07-21T10:22:41+00:00",
-          "content": "Bei einem neuen Massenprotest in Hongkong haben wieder Zehntausende gegen die Regierung demonstriert. Der Protestmarsch war begleitet von massiven Sicherheitsvorkehrungen. Die Demonstranten forderten einen förmlichen Rückzug des umstrittenen Auslieferungsgese… [+3684 chars]"
+          "title": "Rudi Molleker überrascht am Rothenbaum",
+          "description": "Der 18-Jährige aus Oranienburg schlägt den zweimaligen Turniersieger Leonardo Meyer in zwei Sätzen - am Dienstag greift Alexander Zverev ein.",
+          "url": "https://www.tagesspiegel.de/sport/tennisturnier-in-hamburg-rudi-molleker-ueberrascht-am-rothenbaum/24688706.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/rudi/24688710/2-format530.jpg",
+          "publishedAt": "2019-07-22T19:07:13+00:00",
+          "content": "Am Tag vor der Hamburg-Rückkehr des Titelfavoriten Alexander Zverev hat Teenager Rudi Molleker für die erste Überraschung am Rothenbaum gesorgt. Der 18 Jahre alte Tennisprofi aus Oranienburg bei Berlin setzte sich am Montag gegen den zweimaligen Turniersieger… [+2271 chars]"
       },
       {
           "source": {
               "id": "handelsblatt",
               "name": "Handelsblatt"
           },
-          "author": "Christoph Schlautmann",
-          "title": "Tesla, BASF, Bahn, Boeing: Die Top-Firmenereignisse der Woche",
-          "description": "Boeing, Bahn, BASF, Tesla und weitere Konzerne legen in den nächsten Tagen Zahlen vor. Vor den Berichten bangen Investoren und Kunden.",
-          "url": "https://www.handelsblatt.com/unternehmen/management/vorschau-marsraketen-und-urlaubssteuer-die-top-firmenereignisse-der-woche/24677372.html",
-          "urlToImage": "https://www.handelsblatt.com/images/elon-musk/24678670/2-format2003.jpg",
-          "publishedAt": "2019-07-21T10:19:27+00:00",
-          "content": "DüsseldorfDer Kalender für die kommende Woche ist prall gefüllt mit Halbjahresberichten mächtiger Konzerne. Voraussichtlich werden nicht alle die Anleger begeistern.Für den Flugzeugbauer Boeing aus Seattle naht am Mittwoch die Stunde der Offenbarung. Es geht … [+5432 chars]"
+          "author": "Anis Mičijević",
+          "title": "„Wenn ein CDO zu tief positioniert ist, wird er nicht viel bewegen“",
+          "description": "Jörg Kasten ist Chairman der internationalen Personalberatung Boyden. Er erklärt, warum CDOs auf dem Arbeitsmarkt derzeit so gefragt sind und was Unternehmen beachten müssen.",
+          "url": "https://www.handelsblatt.com/unternehmen/management/headhunter-joerg-kasten-wenn-ein-cdo-zu-tief-positioniert-ist-wird-er-nicht-viel-bewegen/24667340.html",
+          "urlToImage": "https://www.handelsblatt.com/images/joerg-kasten/24676144/3-format2003.jpg",
+          "publishedAt": "2019-07-22T19:02:38+00:00",
+          "content": "Herr Kasten, Sie vermitteln Chief Digital Officers (CDOs) an Unternehmen. Was ist das Profil eines CDOs? Was sind seine Aufgaben?CDOs übernehmen strategische Aufgaben, die eher langfristig ausgerichtet sind. Ein CDO soll das Unternehmen zukunftstauglich mache… [+7564 chars]"
       },
       {
           "source": {
               "id": "der-tagesspiegel",
               "name": "Der Tagesspiegel"
           },
-          "author": "Sandra Dassler",
-          "title": "Feuerwehr ruft kurzzeitig den Ausnahmezustand aus",
-          "description": "In der Nacht zu Sonntag sind schwere Gewitter über die Region hinweggezogen. In Berlin wurde am Abend das Lesbisch-schwule Stadtfest abgebrochen.",
-          "url": "https://www.tagesspiegel.de/berlin/schwere-gewitter-in-berlin-und-brandenburg-feuerwehr-ruft-kurzzeitig-den-ausnahmezustand-aus/24683446.html",
-          "urlToImage": "https://www.tagesspiegel.de/images/gewitter-in-sachsen/24683454/1-format530.jpg",
-          "publishedAt": "2019-07-21T10:17:15+00:00",
-          "content": "Starkregen, Gewitter und Windböen - in der Nacht zu Sonntag wurden Berlin und Brandenburg von einem schweren Unwetter getroffen. \"Wir haben zwar den Ausnahmezustand ausgerufen, aber nur, weil zwischen 22 Uhr und 0.30 Uhr einige Einsätze parallel stattfanden\",… [+2966 chars]"
-      },
-      {
-          "source": {
-              "id": "der-tagesspiegel",
-              "name": "Der Tagesspiegel"
-          },
-          "author": "Anna Sauerbrey",
-          "title": "Wie die Demokraten zur ethnischen Spaltung der USA beitragen",
-          "description": "Die Hautfarbe spielt im US-Präsidentschaftswahlkampf eine große Rolle, auch bei den Demokraten. Warum das so ist und warum es gefährlich ist. Ein Essay.",
-          "url": "https://www.tagesspiegel.de/politik/us-wahlkampf-wie-die-demokraten-zur-ethnischen-spaltung-der-usa-beitragen/24683218.html",
-          "urlToImage": "https://www.tagesspiegel.de/images/file-photo-candidates-debate-during-the-second-night-of-the-first-u-s-2020-presidential-election-democratic-candidates-debate-in-miami-florida-u-s-/24683220/1-format530.jpg",
-          "publishedAt": "2019-07-21T10:16:51+00:00",
-          "content": "Der Präsidentschaftswahlkampf in den USA wird nicht nur schmutzig, er wird auch rassistisch. Das steht seit dieser Woche fest, seit Donald Trump vier demokratische Kongressabgeordnete aufgefordert hat zurück in ihre Länder zu gehen, vier Amerikanerinnen, von … [+10097 chars]"
+          "author": "Rainer W. During",
+          "title": "Auszeichnung für Air-Berlin-Gründer Kim Lundgren",
+          "description": "40 Jahre nach der Gründung - und zwei Jahre nach der Pleite - von Air Berlin hat die Luftfahrtbranche deren Gründer mit einem Preis geehrt.",
+          "url": "https://www.tagesspiegel.de/berlin/gala-mit-schauspieler-john-travolta-auszeichnung-fuer-air-berlin-gruender-kim-lundgren/24687712.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/kim-und-shane-lundgren-shane-war-seinerzeit-der-juengste-flugkapitaen-der-welt-lundgren-air-berlin/24687756/2-format530.jpg",
+          "publishedAt": "2019-07-22T19:01:53+00:00",
+          "content": "Kim Lundgren, der Gründer der ursprünglich amerikanischen, speziell für den Westberliner Ferienflugverkehr geschaffenen Air Berlin, ist am Wochenende in den Kreis der Lebenden Legenden der Luftfahrt aufgenommen worden. Gemeinsam mit anderen Persönlichkeiten e… [+2548 chars]"
       },
       {
           "source": {
@@ -229,38 +216,51 @@
               "name": "Bild"
           },
           "author": null,
-          "title": "Aus dem dritten Stock gefallen - Mann (57) stirbt beim Fensterputzen",
-          "description": "Nürnberg - Tod beim Fensterputzen!Bei der Reinigung ist ein Mann (57) in Nürnberg in den Tod gestürzt. Er fiel aus dem dritten Stock und starb noch am Ort an seinen schweren Verletzungen, wie die",
-          "url": "http://www.bild.de/regional/nuernberg/nuernberg-news/aus-dem-dritten-stock-gefallen-mann-57-stirbt-beim-fensterputzen-63434606.bild.html",
-          "urlToImage": "https://bilder.bild.de/fotos/aus-dem-dritten-stock-gefallen-mann-57-stirbt-beim-fensterputzen-201159379-63434616/Bild/1.bild.jpg",
-          "publishedAt": "2019-07-21T10:14:50Z",
-          "content": "Nürnberg - Tod beim Fensterputzen!\r\nBei der Reinigung ist ein Mann (57) in Nürnberg in den Tod gestürzt. Er fiel aus dem dritten Stock und starb noch am Ort an seinen schweren Verletzungen, wie die Polizei am Sonntag mitteilte.\r\nAnwohner hatten ihn vor dem Ha… [+106 chars]"
-      },
-      {
-          "source": {
-              "id": "der-tagesspiegel",
-              "name": "Der Tagesspiegel"
-          },
-          "author": null,
-          "title": "Lufthansa fliegt wieder",
-          "description": "Wegen Sicherheitsbedenken hat British Airways alle Flüge nach Kairo für eine Woche gestoppt. Auch die Lufthansa-Flüge nach Kairo blieben am Samstag am Boden.",
-          "url": "https://www.tagesspiegel.de/wirtschaft/british-airways-setzt-fluege-nach-kairo-aus-lufthansa-fliegt-wieder/24683382.html",
-          "urlToImage": "https://www.tagesspiegel.de/images/british-airways/24683388/1-format530.jpg",
-          "publishedAt": "2019-07-21T10:14:19+00:00",
-          "content": "Die Fluggesellschaft British Airways setzt vorerst alle Flüge nach Kairo wegen Sicherheitsbedenken für mindestens sieben Tage aus. Zur Begründung teilte die Fluggesellschaft in London am Samstagabend lediglich mit, die Sicherheit der Passagiere und der Crew-M… [+1427 chars]"
+          "title": "Hattingen: Fahndung nach Mann, der eigenen Vater mit Messer verletzte",
+          "description": "Die Polizei fahndet in Hattingen (Ennepe-Ruhr-Kreise) nach Sead Sabanovic. Er soll am Freitag seinen Vater (66) mit einem Messer attackiert haben.",
+          "url": "http://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/hattingen-fahndung-nach-mann-der-eigenen-vater-mit-messer-verletzte-63468364.bild.html",
+          "urlToImage": "https://bilder.bild.de/fotos/hattingen-fahndung-nach-mann-der-eigenen-vater-mit-messer-verletzte-201189701-63468704/Bild/2.bild.jpg",
+          "publishedAt": "2019-07-22T19:01:16Z",
+          "content": "Hattingen (NRW) Wer den Mann auf dem Fahndungsfoto sieht, soll ihn keinesfalls ansprechen, sondern sofort den Polizei-Notruf 110 wählen!\r\nDie Polizei fahndet in Hattingen (Ennepe-Ruhr-Kreise) nach Sead Sabanovic. Er soll am Freitag seinen Vater (66) mit einem… [+544 chars]"
       },
       {
           "source": {
               "id": "bild",
               "name": "Bild"
           },
-          "author": "BENJAMIN SACK",
-          "title": "Viersen: Feuerwehr zieht Hund „Bruno“ aus Kanalrohr",
-          "description": "Neugierig kroch Hund „Bruno” in ein Abwasserrohr und steckte dann plötzlich fest. Ein Feuerwehrmann kroch hinterher und befreite ihn.",
-          "url": "http://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/viersen-feuerwehr-zieht-hund-bruno-aus-kanalrohr-63433070.bild.html",
-          "urlToImage": "https://bilder.bild.de/fotos/viersen-feuerwehr-zieht-hund-bruno-aus-kanalrohr-201188226-63433266/Bild/3.bild.jpg",
-          "publishedAt": "2019-07-21T09:59:34Z",
-          "content": "Viersen Beim Gassigehen witterte Hund Bruno etwas Unwiderstehliches und steckte kurz darauf in einem Abwasserrohr fest.\r\nDie Feuerwehr Viersen wurde deswegen um 16.58 Uhr alarmiert, rückte mit fünf Einsatzkräften zum Rader Weg nach Viersen-Süchteln aus. Bruno… [+334 chars]"
+          "author": "Katja hinrichs",
+          "title": "Krankheit statt Kreuzfahrt: Dank BILD bekamen wir 10 400 Euro zurück",
+          "description": "Die Südsee-Reise war ihr Traum, doch Helga wurde krank. Die Reiserücktritt-Versicherung zahlte trotz mehrerer Nachfragen nicht – bis BILD sich einschaltete.",
+          "url": "http://www.bild.de/news/bild-kaempft/bild-kaempft-fuer-sie/krankheit-statt-kreuzfahrt-dank-bild-bekamen-wir-10400-euro-zurueck-63458366.bild.html",
+          "urlToImage": "https://bilder.bild.de/fotos/krankheit-statt-kreuzfahrt-dank-bild-bekamen-wir-10400-euro-zurueck-201189412-63460698/Bild/2.bild.jpg",
+          "publishedAt": "2019-07-22T19:00:04Z",
+          "content": "Neumünster Sydney, Neuseeland, Bora Bora, Tahiti, Mexiko sechs Wochen lang: Helga Licht und Reinhard Wiesner (beide 80) aus Neumünster (Schleswig-Holstein) freuten sich auf ihre Südsee-Kreuzfahrt.\r\n18930 Euro hat sich das Paar den Urlaub auf der MS Amadea, de… [+811 chars]"
+      },
+      {
+          "source": {
+              "id": "der-tagesspiegel",
+              "name": "Der Tagesspiegel"
+          },
+          "author": "Kevin P. Hoffmann",
+          "title": "Berliner holen auf, Berlinerinnen weniger",
+          "description": "Arbeitnehmer in Berlin verdienen fast so viel wie sonst in Deutschland üblich. Allerdings erhalten Männer 100 Euro mehr als Frauen, anders als in Brandenburg.",
+          "url": "https://www.tagesspiegel.de/berlin/lohnniveau-in-der-hauptstadt-berliner-holen-auf-berlinerinnen-weniger/24687710.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/ein-arbeiter-schaerft-mit-einer-grossen-schleifmaschine-frisch-verlegte-strassenbahnschienen-in-frei/24688054/1-format530.jpg",
+          "publishedAt": "2019-07-22T18:59:47+00:00",
+          "content": "Viele Arbeitnehmerinnen und Arbeitnehmer haben im vergangenen Jahr mehr verdient als noch 2017. Insgesamt stieg das Lohnniveau in Berlin weiter an und erreichte damit fast das bundesweite Niveau. In Brandenburg ist der Nachholbedarf größer. Das geht aus einer… [+2810 chars]"
+      },
+      {
+          "source": {
+              "id": "der-tagesspiegel",
+              "name": "Der Tagesspiegel"
+          },
+          "author": "Silvia Perdoni",
+          "title": "Wie ihre Tochter um die Erinnerung an die DDR-Künstlerin kämpft",
+          "description": "Vor 30 Jahren starb die Malerin und DDR-Regimekritikerin Annemirl Bauer. Ihre Tochter kämpft seitdem dafür, dass sie nicht in Vergessenheit gerät.",
+          "url": "https://www.tagesspiegel.de/berlin/annemirl-bauer-wie-ihre-tochter-um-die-erinnerung-an-die-ddr-kuenstlerin-kaempft/24687820.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/amrei-baueram-annemirl-bauer-platzin-berlin-friedrichshainder-platz-ist-ihrer-mutter-gewidmet-die-eine-grosse-kuenstlerin-war-sie-kaempft-fuer-ein-andeken-auf-diesem-platz-foto-doris-spiekermann-klaas/24688394/1-format530.jpg",
+          "publishedAt": "2019-07-22T18:59:40+00:00",
+          "content": "Amrei Bauer fühlte sich betrogen. Ich dachte, die wollen mich verarschen, sagt sie. Neun Jahre liegt der Anruf beim Amt, der so vieles in Bewegung setzte, zurück. Amrei Bauer klingt trotzdem noch wütend, wenn sie davon erzählt. Wütend, wie auch ihre Mutter kl… [+7793 chars]"
       }
   ]
 }

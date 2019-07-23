@@ -5,7 +5,7 @@
   <p>totalResults: {{newsData.totalResults}}</p>
 </div>
 
-<div *ngIf="newsData && newsData.status" class="articles__container">
+<div *ngIf="newsData && newsData.status === 'ok'" class="articles__container">
   <a
     *ngFor='let article of newsData.articles'
     href={{article.url}} target="_blank">

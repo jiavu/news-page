@@ -31,8 +31,7 @@ export class RequestService {
   ) {}
 
   getNewsData() {
-    const query = this.paramsService.getQuery();
-    console.log(query);
+    const query = this.paramsService.fetchQuery();
     if (query) {
       this.http.get(this.url).subscribe(
         (data: object) => {

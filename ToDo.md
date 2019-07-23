@@ -1,4 +1,4 @@
 - reduce Font-import when finished selecting main font(s)
 - Same heights for article cards
 - outline für inputs und buttons,
-- und für jedes andere fokussierte Element (z. B. article)
+- and for every other focused element (e. g. article)

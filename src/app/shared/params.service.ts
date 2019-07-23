@@ -1,9 +1,11 @@
-import { Injectable } from '@angular/core';
+import { Injectable, Output, EventEmitter } from '@angular/core';
 
 @Injectable({
   providedIn: 'root'
 })
 export class ParamsService {
+
+  @Output() paramsChanged = new EventEmitter<object>();
 
   /* Der ParamsService soll den localStorage lesen und die Parameter
   hier setzen. Wenn keine vorhanden sind, soll country bzw. language
@@ -11,7 +13,6 @@ export class ParamsService {
   (bzw. über das location api abgefragt werden). */
 
   mode = 'top-headlines';
-
   params = {
     'top-headlines': {
       /* one of them 5 required: */
@@ -35,18 +36,33 @@ export class ParamsService {
     }
   };
 
+  changeMode(mode: string) {
+    this.mode = mode;
+    this.emitParams();
+  }
   /**
    * Sets properties of this.params
    * @param mode - 'top-headlines' or 'everything'
    * @param params - object containing param(s)
    */
-  setParams(mode: string, params: {}) {
+  changeParams(mode: string, params: {}) {
     Object.assign(this.params[mode], params);
     this.mode = mode;
-    console.log(this.params[mode]);
+    this.emitParams();
   }
 
-  getQuery() {
+  emitParams() {
+    this.paramsChanged.emit( {
+      mode: this.mode,
+      params: Object.assign({}, this.params[this.mode])
+    });
+  }
+
+  fetchQuery() {
+
+    // To Do: in 'top-headlines'-mode kann sources nicht mit country
+    // und category zusammen gesendet werden.
+
     if ( this.isValidQuery() ) {
       let query = '';
       const keys = Object.keys(this.params[this.mode]);

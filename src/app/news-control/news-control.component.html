@@ -1,7 +1,10 @@
 <div class="change-mode-container">
-  <div>
-      <span>Headlines</span>
-      <button>switchB.</button>
+  <div *ngIf="mode">
+      <ng-container [ngSwitch]="mode">
+        <span *ngSwitchCase="'top-headlines'">Headlines</span>
+        <span *ngSwitchCase="'everything'">Everything</span>
+      </ng-container>
+      <button (click)=onChangeMode()>switchB.</button>
   </div>
   
   <button (click)="showOptions=!showOptions">
@@ -12,4 +15,4 @@
     </ng-template>
   </button>
 </div>
-<app-news-filter *ngIf="showOptions"></app-news-filter>
+<app-news-params *ngIf="showOptions"></app-news-params>

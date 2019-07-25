@@ -4,29 +4,107 @@
   "articles": [
       {
           "source": {
-              "id": "focus",
-              "name": "Focus"
+              "id": "die-zeit",
+              "name": "Die Zeit"
           },
-          "author": "Von FOCUS-Online-Autorin Kristina Kreisel",
-          "title": "IQ sinkt seit Jahren: Forscher erklärt, warum - werden wir immer dümmer?",
-          "description": "Unser IQ kannte in den vergangenen Jahrzehnten nur eine Richtung: steil nach oben. Um 30 Punkte ist die gemessene Durchschnittsintelligenz in 100 Jahren gestiegen. Seit geraumer Zeit allerdings sinkt der IQ der Deutschen. Wiener Forscher haben nun erstmals un…",
-          "url": "https://www.focus.de/wissen/mensch/werden-wir-immer-duemmer-intelligenzforscher-erklaert-warum-unser-iq-seit-jahren-sinkt_id_10943200.html",
-          "urlToImage": "https://p5.focus.de/img/fotos/crop10948614/8542715509-w1200-h627-o-q75-p5/imago83657507h.jpg",
-          "publishedAt": "2019-07-23T19:12:00Z",
-          "content": "Unser IQ kannte in den vergangenen Jahrzehnten nur eine Richtung: steil nach oben. Um 30 Punkte ist die gemessene Durchschnittsintelligenz in 100 Jahren gestiegen. Seit geraumer Zeit allerdings sinkt der IQ der Deutschen. Wiener Forscher haben nun erstmals un… [+8376 chars]"
+          "author": "Julia Macher",
+          "title": "Spanien: Lieber streiten als regieren",
+          "description": "In Spanien wollte Pedro Sánchez eine linke Koalition bilden. Doch die alte Rivalität mit der Linkspartei Podemos war zu groß. Es droht ein Machtvakuum.",
+          "url": "https://www.zeit.de/politik/ausland/2019-07/spanien-koalitionsverhandlungen-pedro-sanchez-parlament",
+          "urlToImage": "https://img.zeit.de/politik/ausland/2019-07/pedro-sanchez/wide__1300x731",
+          "publishedAt": "2019-07-25T19:03:29+00:00",
+          "content": "Vermutlich hätte Pedro Sánchez das spanische Parlament heute gerne mit dem europäischen Parkett eingetauscht. In Brüssel und den europäischen Nachbarländern gilt der Wirtschaftswissenschaftler mit dem fotogenen Lächeln als Hoffnungsträger der spanischen Sozia… [+4368 chars]"
+      },
+      {
+          "source": {
+              "id": "bild",
+              "name": "Bild"
+          },
+          "author": null,
+          "title": "Sachsen-AfD: Kandidatenliste wird vorläufig mit 30 Plätzen zugelassen",
+          "description": "Leipzig/Dresden – Teilerfolg für die sächsische AfD! Per einstweiliger Anordnung legte das Landesverfassungsgericht am Donnerstagabend in Leipzig fest, dass die Partei nunmehr mit 30 Bewerbern zur",
+          "url": "http://www.bild.de/regional/leipzig/leipzig-news/sachsen-afd-kandidatenliste-wird-vorlaeufig-mit-30-plaetzen-zugelassen-63546392.bild.html",
+          "urlToImage": "https://bilder.bild.de/fotos/sachsen-afd-kandidatenliste-wird-vorlaeufig-mit-30-plaetzen-zugelassen-201193007-63546396/Bild/6.bild.jpg",
+          "publishedAt": "2019-07-25T18:58:51Z",
+          "content": "Leipzig/Dresden Teilerfolg für die sächsische AfD! Per einstweiliger Anordnung legte das Landesverfassungsgericht am Donnerstagabend in Leipzig fest, dass die Partei nunmehr mit 30 Bewerbern zur Landtagswahl am 1. September antreten darf.\r\nDer Landeswahlaussc… [+380 chars]"
+      },
+      {
+          "source": {
+              "id": "der-tagesspiegel",
+              "name": "Der Tagesspiegel"
+          },
+          "author": null,
+          "title": "Warum hat Saraya Gomis aufgehört?",
+          "description": "Saraya Gomis war angetreten, um gegen Diskriminierung an Berlins Schulen vorzugehen. Dann wurde sie Ziel rassistischer Angriffe. Nun hört sie auf.",
+          "url": "https://www.tagesspiegel.de/berlin/antidiskriminierungsbeauftragte-der-schulen-warum-hat-saraya-gomis-aufgehoert/24698798.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/saraya-gomis/24702342/1-format530.jpg",
+          "publishedAt": "2019-07-25T18:55:27+00:00",
+          "content": "[Dieser Text erschien zuerst auf zeit.de.]\r\nEs war eine kleine Revolution, die deutschlandweit für Aufmerksamkeit sorgte. Berlin führt eine Antidiskriminierungsbeauftragte für Schulen ein. Das Land traut sich, zu sagen: Wir haben ein Problem mit Rassismus an … [+6024 chars]"
+      },
+      {
+          "source": {
+              "id": "der-tagesspiegel",
+              "name": "Der Tagesspiegel"
+          },
+          "author": "Birgit Rieger",
+          "title": "Hier gibt es Kultur und Abkühlung zugleich",
+          "description": "Draußen über 30 Grad, aber Kirchen, Kinos und Bibliotheken versprechen Abkühlung. Unsere Autoren wissen, wo man dem Sommer entflieht.",
+          "url": "https://www.tagesspiegel.de/kultur/wetter-in-berlin-hier-gibt-es-kultur-und-abkuehlung-zugleich/24698714.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/humboldthain-kitty/24698838/3-format530.jpg",
+          "publishedAt": "2019-07-25T18:50:10+00:00",
+          "content": "In Berlin werden Temperaturen jenseits der 30-Grad-Marke erwartet, der Deutsche Wetterdienst hat eine amtliche Hitzewarnung herausgegeben. Kein Grund, um zu schwitzen: Es gibt sie, die kühlen Refugien in der Großstadt, die zudem Kultur und Unterhaltung verspr… [+10680 chars]"
+      },
+      {
+          "source": {
+              "id": "der-tagesspiegel",
+              "name": "Der Tagesspiegel"
+          },
+          "author": null,
+          "title": "Prozess um Anti-Nazi-Demonstrantin hat begonnen",
+          "description": "Das \"Berliner Bündnis gegen Rechts\" erhebt Vorwürfe in einer Verhandlung um den Rudolf-Heß-Marsch 2018. Gab es übermäßige Gewalt durch Polizisten?",
+          "url": "https://www.tagesspiegel.de/berlin/verhandlung-um-rudolf-hess-marsch-2018-prozess-um-anti-nazi-demonstrantin-hat-begonnen/24701616.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/demonstrationen-zum-31-todestag-von-rudolf-hess/24702334/1-format530.jpg",
+          "publishedAt": "2019-07-25T18:48:34+00:00",
+          "content": "Am Donnerstag stand sie erstmals vor Gericht: Eine junge Frau, die vor knapp einem Jahr bei einer Gegendemonstration zum Neonazi-Aufmarsch anlässlich der Wiederkehr des Todestages von Rudolf Heß festgenommen worden war. Sie war von der Staatsanwaltschaft wege… [+2703 chars]"
+      },
+      {
+          "source": {
+              "id": "bild",
+              "name": "Bild"
+          },
+          "author": "D. MÜLLER, T. KINDEL und A. SCHMOLKA",
+          "title": "Cranger Kirmes in Herne: Schausteller suchen mit Jobcenter Helfer",
+          "description": "Mittwoch beginnt der Rummel auf Crange. Losverkäufer, Bierzapfer und Geisterbahn-Schreck: 84 Jobs sind noch nicht vergeben! Und die Zeit wird knapp.",
+          "url": "http://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/cranger-kirmes-in-herne-schausteller-suchen-mit-jobcenter-helfer-63542406.bild.html",
+          "urlToImage": "https://bilder.bild.de/fotos/cranger-kirmes-in-herne-schausteller-suchen-mit-jobcenter-helfer-201192851-63542474/Bild/2.bild.jpg",
+          "publishedAt": "2019-07-25T18:35:51Z",
+          "content": "Herne Gewinne, Gewinne, Gewinne! Einsteigen, abfahren, dabei sein...\r\nMittwoch beginnt wieder der Rummel auf Crange. Heiße Phase für den Stellenmarkt auf dem Jahrmarkt. Losverkäufer, Bierzapfer und Geisterbahn-Schreck: 84 Jobs sind noch nicht vergeben! Und di… [+1553 chars]"
       },
       {
           "source": {
               "id": "die-zeit",
               "name": "Die Zeit"
           },
-          "author": "ZEIT ONLINE",
-          "title": "Konjunktur: IWF senkt Wachstumsvorhersage für Deutschland erneut",
-          "description": "Im laufenden Jahr könnte die deutsche Wirtschaft um nur noch 0,7 Prozent wachsen. Auch für die Weltwirtschaft erwartet der Internationale Währungsfonds kein großes Plus.",
-          "url": "https://www.zeit.de/wirtschaft/2019-07/internationaler-waehrungsfond-weltwirtschaft-konjunktur-deutschland",
-          "urlToImage": "https://img.zeit.de/wirtschaft/2019-07/konjunktur-deutschland-auto-industrie/wide__1300x731",
-          "publishedAt": "2019-07-23T19:08:16+00:00",
-          "content": "Angesichts des Handelskonflikts zwischen den USA und China hat der\r\nInternationale Währungsfonds (IWF) vor einem \"prekären\" Wirtschaftsjahr 2020\r\ngewarnt. Der IWF hatte seine Wachstumsprognose für die Weltwirtschaft um 0,1\r\nProzent nach unten korrigiert. Auch… [+1593 chars]"
+          "author": "Fritz Habekuß",
+          "title": "Klimaziele: Die Zeit wird knapp",
+          "description": "Die Nationale Akademie der Wissenschaften zeigt, wie Deutschland seine Klimaziele erreichen kann.",
+          "url": "https://www.zeit.de/2019/31/klimaziele-klimawandel-klimapolitik-leopoldina-studie",
+          "urlToImage": "https://img.zeit.de/wirtschaft/2019-07/limaziele-klimawandel-klimapolitik-leopoldina-studie-mauna-loa-keeling-kurve/wide__1300x731",
+          "publishedAt": "2019-07-25T18:34:25+00:00",
+          "content": "Es gibt ein Schaubild, das die drohende Klimakatastrophe und das Versagen\r\n der Menschheit in einem einzigen Bild zusammenfasst, Keeling-Kurve heißt es. Sie stellt die\r\n Konzentration von CO in der Luft dar, seit 1958. Damals lag die Konzentration bei unter 3… [+5358 chars]"
+      },
+      {
+          "source": {
+              "id": "der-tagesspiegel",
+              "name": "Der Tagesspiegel"
+          },
+          "author": null,
+          "title": "AfD darf zur Sachsen-Wahl mehr Kandidaten haben - vorläufig",
+          "description": "Der sächsische Verfassungsgerichtshof erlaubt der AfD 30 Kandidaten für die Landtagswahl. Ein endgültiges Urteil aber steht noch aus.",
+          "url": "https://www.tagesspiegel.de/politik/teilerfolg-im-leistenstreit-afd-darf-zur-sachsen-wahl-mehr-kandidaten-haben-vorlaeufig/24702274.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/sonder-landesparteitag-der-afd-bayern/24702276/2-format530.jpg",
+          "publishedAt": "2019-07-25T18:31:15+00:00",
+          "content": "Im Streit um ihre Kandidatenliste zur Landtagswahl in Sachsen hat die AfD vor dem sächsischen Verfassungsgerichtshof einen Teilerfolg erzielt. Die Partei darf bei der Wahl am 1. September mit 30 statt nur 18 Kandidaten auf der Liste antreten. Das haben die Le… [+2452 chars]"
       },
       {
           "source": {
@@ -34,155 +112,25 @@
               "name": "Spiegel Online"
           },
           "author": "Spiegel Online",
-          "title": "Kinderehen in Afrika: \"Ich habe noch nie eine glückliche Kinderbraut getroffen\"",
-          "description": "Viele Mädchen in Afrika werden minderjährig verheiratet. Die Expertin Nena Thundu erklärt, wie das die Kinder traumatisiert - und warum Emanzipation und eine liberalere Gesellschaft sogar neue Probleme schaffen.",
-          "url": "http://www.spiegel.de/politik/ausland/kinderehe-in-afrika-ich-habe-noch-nie-eine-glueckliche-kinderbraut-getroffen-a-1276048.html",
-          "urlToImage": "https://cdn1.spiegel.de/images/image-1445524-860_poster_16x9-jeji-1445524.jpg",
-          "publishedAt": "2019-07-23T18:59:44Z",
-          "content": "Dienstag, 23.07.2019  \r\n20:59 Uhr\r\nSPIEGEL ONLINE: Frau Thundu, laut Unicef heiraten jedes Jahr weltweit zwölf Millionen Mädchen vor ihrem 18. Geburtstag. In Afrika ist die Praxis besonders verbreitet. Warum?\r\nNena Thundu: Ein großer Grund ist die Armut. Elte… [+6854 chars]"
+          "title": "Sächsisches Verfassungsgericht: AfD darf Landeswahlliste erweitern",
+          "description": "Teilerfolg für die AfD: Der Sächsische Verfassungsgerichtshof hat der Partei erlaubt, vorläufig 30 Kandidaten auf ihre Landeswahlliste zu schreiben - statt der bisher vorgesehenen 18.",
+          "url": "http://www.spiegel.de/politik/deutschland/afd-sachsen-darf-landeswahlliste-laut-verfassungsgericht-erweitern-a-1279043.html",
+          "urlToImage": "https://cdn1.spiegel.de/images/image-1452731-860_poster_16x9-lukb-1452731.jpg",
+          "publishedAt": "2019-07-25T18:30:00Z",
+          "content": "Donnerstag, 25.07.2019  \r\n20:30 Uhr\r\nDas Sächsische Verfassungsgericht hat der AfD eine Erweiterung der Wahlliste zur Landtagswahl genehmigt. Nach einer Entscheidung der Leipziger Richter vom Donnerstag darf die Partei bei dem Urnengang am 1. September mit 30… [+774 chars]"
       },
       {
           "source": {
-              "id": "bild",
-              "name": "Bild"
+              "id": "spiegel-online",
+              "name": "Spiegel Online"
           },
-          "author": "MARC SIEKMANN",
-          "title": "Schalke 04: 1:1 im Testspiel gegen Twente Enschede",
-          "description": "Schalke stottert weiter durch die Vorbereitung!Auch beim 1:1 (0:0) bei Twente Enschede vor 19000 Zuschauern überzeugte die Mannschaft von Neu-Trainer David Wagner (47) nicht. Im Offensivspiel kam man",
-          "url": "http://www.bild.de/sport/fussball/fussball/schalke-04-1-1-im-testspiel-gegen-twente-enschede-63491546.bild.html",
-          "urlToImage": "https://bilder.bild.de/fotos/schalke-04-11-im-testspiel-gegen-twente-enschede-201190676-63492522/Bild/3.bild.jpg",
-          "publishedAt": "2019-07-23T18:57:51Z",
-          "content": "Schalke stottert weiter durch die Vorbereitung!\r\nAuch beim 1:1 (0:0) bei Twente Enschede vor 19000 Zuschauern überzeugte die Mannschaft von Neu-Trainer David Wagner (47) nicht. Im Offensivspiel kam man bis kurz vor Schluss nicht über Ansätze nhinaus, kreierte… [+1352 chars]"
-      },
-      {
-          "source": {
-              "id": "der-tagesspiegel",
-              "name": "Der Tagesspiegel"
-          },
-          "author": "Fabian Löhe",
-          "title": "„Die Hinterlassenschaft von Frau von der Leyen ist skandalös“",
-          "description": "Die Ausgaben der Regierung schnellen in die Höhe. Die Affäre im Verteidigungsressort droht die neue Ministerin zu belasten.",
-          "url": "https://www.tagesspiegel.de/wirtschaft/so-viel-rat-ist-teuer-die-hinterlassenschaft-von-frau-von-der-leyen-ist-skandaloes/24692276.html",
-          "urlToImage": "https://www.tagesspiegel.de/images/775375013/24692888/1-format530.jpg",
-          "publishedAt": "2019-07-23T18:53:17+00:00",
-          "content": "Für das Thema Berater müsste das Bundesverteidigungsministerium eigentlich sensibilisiert sein der Bundesrechnungshof prüft aktuell nahezu jeden Euro, der aus dem Bendlerblock für die Hilfe von außen geflossen ist. Erste vorläufige Erkenntnis: Das Ministerium… [+3746 chars]"
-      },
-      {
-          "source": {
-              "id": "der-tagesspiegel",
-              "name": "Der Tagesspiegel"
-          },
-          "author": null,
-          "title": "Deutschland verurteilt Zerstörung palästinensischer Häuser",
-          "description": "Die israelische Armee hat mehrere palästinensische Häuser in Ost-Jerusalem abgerissen. Deutschland ist darüber in einer Erklärung \"tief besorgt\".",
-          "url": "https://www.tagesspiegel.de/politik/nach-abriss-durch-israelische-armee-deutschland-verurteilt-zerstoerung-palaestinensischer-haeuser/24692856.html",
-          "urlToImage": "https://www.tagesspiegel.de/images/a-palestinian-building-is-blown-up-by-israeli-forces-in-the-village-of-sur-baher-which-sits-on-either-side-of-the-israeli-barrier-in-east-jerusalem-and-the-israeli-occupied-west-bank/24692876/3-format530.jpg",
-          "publishedAt": "2019-07-23T18:47:47+00:00",
-          "content": "Deutschland und weitere EU-Länder haben die Zerstörung palästinensischer Häuser in Ost-Jerusalem durch die israelische Armee verurteilt. Wir sind nach wie vor tief besorgt über die fortdauernden Abrisse palästinensischer Gebäude durch israelische Behörden, hi… [+1521 chars]"
-      },
-      {
-          "source": {
-              "id": "bild",
-              "name": "Bild"
-          },
-          "author": null,
-          "title": "Saarbrücken: Messer-Angriff: 25-Jähriger sticht auf Rentner ein",
-          "description": "Schreckliche Bluttat am Dienstagabend in der Richardstraße im Stadtteil Altenkessel!",
-          "url": "http://www.bild.de/regional/saarland/saarland-news/saarbruecken-messer-angriff-25-jaehriger-sticht-auf-rentner-ein-63492344.bild.html",
-          "urlToImage": "https://bilder.bild.de/fotos/saarbruecken-messer-angriff-25-jaehriger-sticht-auf-rentner-ein-201190722-63492392/Bild/1.bild.jpg",
-          "publishedAt": "2019-07-23T18:45:18Z",
-          "content": "Saarbrücken - Schreckliche Bluttat am Dienstagabend in der Richardstraße im Stadtteil Altenkessel! Gegen 18.30 Uhr stürmt eine Frau auf die Straße, schreit: \"Ruft die Polizei! Der bringt ihn um!\" Nachbarn wählen den Notruf, andere laufen in den Hinterhof eine… [+1590 chars]"
-      },
-      {
-          "source": {
-              "id": "der-tagesspiegel",
-              "name": "Der Tagesspiegel"
-          },
-          "author": "Christiane Peitz",
-          "title": "„Leid und Herrlichkeit“ ist das Altersmeisterwerk von Pedro Almodóvar",
-          "description": "Auf der Suche nach dem versäumten Leben: In Pedro Almodóvar großartigem Melodram „Leid und Herrlichkeit“ spielt Antonio Banderas die Rolle des Regisseurs.",
-          "url": "https://www.tagesspiegel.de/kultur/mit-antonio-banderas-leid-und-herrlichkeit-ist-das-altersmeisterwerk-von-pedro-almodvar/24691768.html",
-          "urlToImage": "https://www.tagesspiegel.de/images/heprodimagesfotos86120190724almodovar_470_1_20190723103448965-jpg/24691804/3-format530.jpg",
-          "publishedAt": "2019-07-23T18:42:27+00:00",
-          "content": "Der Junge kippt einfach um, er fällt vom Stuhl, mit fiebriger Stirn. Eigentlich hatte Salvador mit seinen neun Jahren bloß dagesessen, mit einem Buch in der Hand. Die Sonne scheint durch das Oberlicht der Höhlenwohnung auf den Stuhl und die Blumenkübel, und E… [+8705 chars]"
-      },
-      {
-          "source": {
-              "id": "focus",
-              "name": "Focus"
-          },
-          "author": "Von FOCUS-Online-Reporter Axel Spilcker",
-          "title": "Bahnsteig-Mord in Voerde: Jackson B. tyrannisierte ein Jahr lang die Stadt",
-          "description": "Er brüllte, spuckte, drohte mit Prügel und Totschlag, betrog und klaute – beinahe ein Jahr lang rief der mutmaßliche Mörder Jackson B. mit seinem Bruder im niederrheinischen Hamminkeln immer wieder die Polizei auf den Plan. Doch die Warnungen der Bewohner bli…",
-          "url": "https://www.focus.de/politik/deutschland/bahnsteig-mord-in-voerde-bahnsteig-mord-in-voerde_id_10953754.html",
-          "urlToImage": "https://p5.focus.de/img/fotos/crop10953774/4632713531-w1200-h627-o-q75-p5/5f9dec002d885fa5.jpg",
-          "publishedAt": "2019-07-23T18:41:13Z",
-          "content": "Er brüllte, spuckte, drohte mit Prügel und Totschlag, betrog und klaute beinahe ein Jahr lang rief der mutmaßliche Mörder Jackson B. mit seinem Bruder im niederrheinischen Hamminkeln immer wieder die Polizei auf den Plan. Doch die Warnungen der Bewohner blieb… [+6476 chars]"
-      },
-      {
-          "source": {
-              "id": "bild",
-              "name": "Bild"
-          },
-          "author": "Timo Lokoschat",
-          "title": "Debatte über Schweinefleisch in Kitas - Kniefall vor den Falschen!",
-          "description": "Keine Gummibärchen, kein Schnitzel, kein Ostercafé – will das die Mehrheit der Muslime wirklich?",
-          "url": "http://www.bild.de/news/inland/news-inland/debatte-ueber-schweinefleisch-in-kitas-kniefall-vor-den-falschen-63490776.bild.html",
-          "urlToImage": "https://bilder.bild.de/fotos/debatte-ueber-schweinefleisch-in-kitas-kniefall-vor-den-falschen--201190654-63490864/Bild/9.bild.jpg",
-          "publishedAt": "2019-07-23T18:40:39Z",
-          "content": "Vielleicht kenne ich die falschen Muslime oder gerade die richtigen. Denn ALLE, die ich kenne und mit denen ich heute gesprochen habe, haben überhaupt kein Problem damit, dass es im Kindergarten Gummibärchen gibt und Weihnachten gefeiert wird.\r\nAuch ein Schni… [+2317 chars]"
-      },
-      {
-          "source": {
-              "id": "der-tagesspiegel",
-              "name": "Der Tagesspiegel"
-          },
-          "author": "Christoph Stollowsky",
-          "title": "RBB-Reporter mit Orangen beworfen – Auto beschmiert",
-          "description": "Ein RBB-Team führte mit dem CDU-Fraktionsvorsitzenden Burkhard Dregger in der Rigaer Straße ein Interview. Dabei griffen wurden sie von Vermummten angegriffen.",
-          "url": "https://www.tagesspiegel.de/berlin/polizei-justiz/bei-interview-mit-cdu-fraktionschef-in-rigaer-strasse-rbb-reporter-mit-orangen-beworfen-auto-beschmiert/24692860.html",
-          "urlToImage": "https://www.tagesspiegel.de/images/rigaer-strasse/24692878/1-format530.jpg",
-          "publishedAt": "2019-07-23T18:38:14+00:00",
-          "content": "Attacke auf ein Reporterteam der RBB-Abendschau am Dienstag: Während eines Interviews mit dem CDU-Fraktionschef im Abgeordnetenhaus Burkard Dregger in der Rigaer Straße in Friedrichshain wurden die Journalisten und ihr Gesprächspartner um 14.30 Uhr von Unbeka… [+345 chars]"
-      },
-      {
-          "source": {
-              "id": "die-zeit",
-              "name": "Die Zeit"
-          },
-          "author": "ZEIT ONLINE",
-          "title": "Wächtersbach: Mutmaßlicher Täter war Sportschütze",
-          "description": "Der Mann, der im hessischen Wächtersbach einen Eritreer angeschossen hat, soll einem Schützenverein angehört haben. Die Ermittler gehen von einem rassistischen Motiv aus.",
-          "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2019-07/waechtersbach-taeter-mitglied-schuetzenverein-rassismus",
-          "urlToImage": "https://img.zeit.de/gesellschaft/zeitgeschehen/2019-07/waechtersbach-taeter-mitglied-schuetzenverein/wide__1300x731",
-          "publishedAt": "2019-07-23T18:35:25+00:00",
-          "content": "Wächtersbach - Polizei geht nach Schüssen von rassistischem Motiv ausEin 55-Jähriger hatte einen Eritreer schwer verletzt und sich danach selbst getötet. Das Opfer suchte er sich laut Polizei vermutlich aufgrund dessen Hautfarbe aus.© Foto: Moritz Pappert/Ost… [+2162 chars]"
-      },
-      {
-          "source": {
-              "id": "bild",
-              "name": "Bild"
-          },
-          "author": "SIMONE WINDHOFF",
-          "title": "Wächtersbach: Angeschossener Eritreer seit 2012 in Deutschland",
-          "description": "Wer ist das Opfer des rechtsextremen Schützen Roland K. (✝︎55)? Der junge Mann aus Eritrea (26) lebt mit Frau und Kind in Wächtersbach.",
-          "url": "http://www.bild.de/regional/frankfurt/frankfurt-aktuell/waechtersbach-eritreer-seit-fuenf-jahren-in-deutschland-63484356.bild.html",
-          "urlToImage": "https://bilder.bild.de/fotos/waechtersbach-angeschossener-eritreer-seit-2012-in-deutschland-201190410-63484860/Bild/8.bild.jpg",
-          "publishedAt": "2019-07-23T18:34:38Z",
-          "content": "Wächtersbach  Wer ist das Opfer des rechtsextremen Schützen Roland K. (55)?\r\nDer junge Mann aus Eritrea (26) lebt seit fast genau sieben Jahren im hessischen Wächtersbach*. Er kam 2012 in die kleine Stadt (12 400 Einwohner) im Main-Kinzig-Kreis.\r\nSpäter kam a… [+1435 chars]"
-      },
-      {
-          "source": {
-              "id": "die-zeit",
-              "name": "Die Zeit"
-          },
-          "author": "Herbert Lackner",
-          "title": "Österreich: Geheimoperation Reisswolf",
-          "description": "Österreichs Ex-Bundeskanzler Sebastian Kurz ließ wohl fünf Festplatten schreddern. Was darauf war, ist unbekannt, aber womöglich enthielten sie Material zur Ibiza-Affäre.",
-          "url": "https://www.zeit.de/politik/ausland/2019-07/oesterreich-sebastian-kurz-festplatten-vernichtung-daten-archivgesetz",
-          "urlToImage": "https://img.zeit.de/politik/ausland/2019-07/oesterreich-sebastian-kurz-festplatten-vernichtung-daten/wide__1300x731",
-          "publishedAt": "2019-07-23T18:31:58+00:00",
-          "content": "Arno M. ist verschwunden. Jedenfalls\r\naus allen Social-Media-Kanälen, auf denen er bisher unterwegs war. Seit fünf Tagen findet man ihn weder auf Facebook noch auf\r\nTwitter oder Instagram. Sein Abtauchen verwundert nicht, denn\r\nArno M., ein enger Mitarbeiter … [+3274 chars]"
+          "author": "Spiegel Online",
+          "title": "Repressalien vor Moskau-Wahl: Blockieren, schikanieren, drangsalieren",
+          "description": "Der Kreml trickst bei der Wahl zum Moskauer Stadtparlament, aber seine Gegner geben einfach nicht auf. Russlands Metropole erlebt eine politische Krise, die sich die Führung selbst eingebrockt hat.",
+          "url": "http://www.spiegel.de/politik/ausland/russland-repressalien-vor-moskau-wahl-blockieren-schikanieren-drangsalieren-a-1278906.html",
+          "urlToImage": "https://cdn1.spiegel.de/images/image-1452450-860_poster_16x9-cltc-1452450.jpg",
+          "publishedAt": "2019-07-25T18:25:34Z",
+          "content": "Donnerstag, 25.07.2019  \r\n20:25 Uhr\r\nDer \"Moskowskij Komsomolez\" wusste es bereits vorab: 20 Tage Haft meldete die kremlnahe Zeitung für den Oppositionspolitiker Alexej Nawalny, als der noch im Gerichtssaal auf sein Urteil wartete. Am Ende bekam er sogar 30 T… [+6394 chars]"
       },
       {
           "source": {
@@ -190,77 +138,129 @@
               "name": "Focus"
           },
           "author": "FOCUS Online",
-          "title": "Freiburg: Video zeigt, wie Mann aus dem Nichts auf Jüdin losgeht",
-          "description": "In der Israelitischen Gemeinde Freiburg sorgt ein neuer antisemitischer Vorfall für Entsetzen. Ein Überwachungsvideo vom 13. Juli zeigt, wie ein Mann am helllichten Tag auf die Gemeindevorsitzende Irina Katz losgeht und sie beschimpft.",
-          "url": "https://www.focus.de/politik/deutschland/antisemitischer-vorfall-in-freiburg-ueberwachungsvideo-aus-synagoge-zeigt-wie-mann-aus-dem-nichts-auf-juedin-losgeht_id_10953773.html",
-          "urlToImage": "https://p5.focus.de/img/fotos/crop10953783/7022711362-w1200-h627-o-q75-p5/attacke-antisemitische.jpg",
-          "publishedAt": "2019-07-23T18:28:37Z",
-          "content": "In der Israelitischen Gemeinde Freiburg sorgt ein neuer antisemitischer Vorfall für Entsetzen. Ein Überwachungsvideo vom 13. Juli zeigt, wie ein Mann am helllichten Tag auf die Gemeindevorsitzende Irina Katz losgeht und sie beschimpft.Dabei hält er einen Gege… [+1498 chars]"
+          "title": "Streit vor Landtagswahl: Teilerfolg für sächsische AfD - Richter genehmigen 30 Listenplätze",
+          "description": "Im Streit um ihre Kandidatenliste zur Landtagswahl in Sachsen hat die AfD vor dem sächsischen Verfassungsgerichtshof einen Teilerfolg erzielt. Nach einer Entscheidung der Leipziger Richter vom Donnerstag darf die Partei bei dem Urnengang am 1. September mit 3…",
+          "url": "https://www.focus.de/politik/deutschland/streit-vor-landtagswahl-teilerfolg-fuer-saechsische-afd-richter-genehmigen-30-listenplaetze_id_10963501.html",
+          "urlToImage": "https://p5.focus.de/img/fotos/crop10963507/0252718078-w1200-h627-o-q75-p5/5f9df200fc43af3a.jpg",
+          "publishedAt": "2019-07-25T18:23:33Z",
+          "content": "Im Streit um ihre Kandidatenliste zur Landtagswahl in Sachsen hat die AfD vor dem sächsischen Verfassungsgerichtshof einen Teilerfolg erzielt. Nach einer Entscheidung der Leipziger Richter vom Donnerstag darf die Partei bei dem Urnengang am 1. September mit 3… [+1769 chars]"
+      },
+      {
+          "source": {
+              "id": "bild",
+              "name": "Bild"
+          },
+          "author": "LISA GOEDERT und ANDREAS ARNOLD (FOTOS)",
+          "title": "Hitzewelle in Deutschland - So heiß sind Frankfurts Nächte",
+          "description": "Bei Temperaturen von 25 Grad nach Mitternacht treibt es viele Frankfurter ins Freie. BILD hat die Hot-Spots besucht!",
+          "url": "http://www.bild.de/regional/frankfurt/frankfurt-aktuell/hitzewelle-in-deutschland-so-heiss-sind-frankfurts-naechte-63541524.bild.html",
+          "urlToImage": "https://bilder.bild.de/fotos/hitzewelle-in-deutschland-so-heiss-sind-frankfurts-naechte-201192751-63542724/Bild/5.bild.jpg",
+          "publishedAt": "2019-07-25T18:22:29Z",
+          "content": "Frankfurt Die Tage sind heiß, nicht Nächte heißer! Bei Temperaturen von mehr als 25 Grad treibt es viele Frankfurter nach Mitternacht ins Freie: Zum Feiern, Chillen oder sogar zum Angeln! BILD hat die Hot-Spots besucht.\r\nBritney Spears dröhnt aus einer Blueto… [+1649 chars]"
+      },
+      {
+          "source": {
+              "id": "die-zeit",
+              "name": "Die Zeit"
+          },
+          "author": "Andrea Böhm",
+          "title": "Sudan: Warum protestieren die Sudanesen immer noch?",
+          "description": "Die Sudanesen haben die Herrschaft von Diktator Omar al-Baschir beendet. Doch es droht neue Gefahr vom Chef der Generäle.",
+          "url": "https://www.zeit.de/2019/31/sudan-demonstrationen-uebergangsabkommen-militaer-demokratiebuendnis",
+          "urlToImage": "https://img.zeit.de/2019/31/analyse-sudan_img-0/wide__1300x731",
+          "publishedAt": "2019-07-25T18:21:19+00:00",
+          "content": "Rund drei Monate ist es her, da brachte die Demokratiebewegung im Sudanden Diktator Omar al-Baschir zu Fall. Rund drei Wochen ist es her, da vereinbarten Führer der\r\n Massenproteste ein Übergangsabkommen mit dem Militärrat, der nach Baschirs Sturz die Macht\r\n… [+3374 chars]"
       },
       {
           "source": {
               "id": "der-tagesspiegel",
               "name": "Der Tagesspiegel"
           },
-          "author": "Markus Lücker",
-          "title": "Der Klimawandel ist für viele Tierarten zu rasant",
-          "description": "Vögel können sich mit steigenden Temperaturen arrangieren, indem sie etwa den Winterschlaf vorverlegen. Doch mit dem Klimawandel kommen viele nicht mehr mit.",
-          "url": "https://www.tagesspiegel.de/wissen/zu-wenig-zeit-zur-anpassung-der-klimawandel-ist-fuer-viele-tierarten-zu-rasant/24691878.html",
-          "urlToImage": "https://www.tagesspiegel.de/images/kohlmeise/24691942/1-format530.jpg",
-          "publishedAt": "2019-07-23T18:28:16+00:00",
-          "content": "Die durch den Klimawandel bedingten Temperaturanstiege in den kommenden Jahrzehnten könnten viele Tierarten an die Grenzen ihrer Anpassungsfähigkeit bringen. Bislang reagierten viele Spezies auf Wärmeschwankungen, indem sie ihre Paarungszeiten oder ihren Wint… [+3136 chars]"
+          "author": null,
+          "title": "Ukraine hält russischen Tanker in Donauhafen fest",
+          "description": "Die „Nika Spirit“ soll an einer Blockade ukrainischer Boote beteiligt gewesen sein. Nun stoppen Behörden das Schiff, um es zu durchsuchen. Russland ist empört.",
+          "url": "https://www.tagesspiegel.de/politik/zwischenfall-im-schwarzen-meer-ukraine-haelt-russischen-tanker-in-donauhafen-fest/24699978.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/a-view-shows-the-russian-tanker-nika-spirit-detained-by-ukraines-security-service-in-izmail/24699988/3-format530.jpg",
+          "publishedAt": "2019-07-25T18:20:11+00:00",
+          "content": "Die Ukraine hat nach eigenen Angaben einen russischen Tanker in einem Donauhafen festgesetzt und durchsucht. Die Nika Spirit solle im vergangenen Jahr an der Blockade von drei ukrainischen Militärbooten vor der durch Russland annektierten Schwarzmeerhalbinsel… [+2965 chars]"
+      },
+      {
+          "source": {
+              "id": "focus",
+              "name": "Focus"
+          },
+          "author": "FOCUS Online",
+          "title": "Einsteins Relativitätstheorie besteht ihren bislang härtesten Test",
+          "description": "Albert Einsteins Allgemeine Relativitätstheorie hat den nach Forscherangaben bislang umfassendsten Härtetest bestanden: Selbst unter den extremen Bedingungen im Umfeld eines supermassereichen Schwarzen Lochs behält die Theorie ihre volle Gültigkeit, wie ein U…",
+          "url": "https://www.focus.de/wissen/weltraum/showdown-am-schwarzen-loch-einsteins-relativitaetstheorie-besteht-ihren-bislang-haertesten-test_id_10963478.html",
+          "urlToImage": "https://p5.focus.de/img/fotos/crop10963467/2042717114-w1200-h627-o-q75-p5/5f9df20027cbb8ba.jpg",
+          "publishedAt": "2019-07-25T18:04:39Z",
+          "content": "Albert Einsteins Allgemeine Relativitätstheorie hat den nach Forscherangaben bislang umfassendsten Härtetest bestanden: Selbst unter den extremen Bedingungen im Umfeld eines supermassereichen Schwarzen Lochs behält die Theorie ihre volle Gültigkeit, wie ein U… [+2247 chars]"
+      },
+      {
+          "source": {
+              "id": "der-tagesspiegel",
+              "name": "Der Tagesspiegel"
+          },
+          "author": null,
+          "title": "Trump tritt vor gefälschtem Präsidentenwappen auf",
+          "description": "US-Präsident Trump wird bei einem Auftritt vor Konservativen umjubelt. Erst später fällt auf, dass ihm wohl ein Spötter ein falsches Bild untergejubelt hat.",
+          "url": "https://www.tagesspiegel.de/politik/doppelkoepfiger-adler-geldscheine-und-golfschlaeger-trump-tritt-vor-gefaelschtem-praesidentenwappen-auf/24702138.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/heads-spin-in-washington-at-two-headed-presidential-seal/24702142/1-format530.jpg",
+          "publishedAt": "2019-07-25T18:04:17+00:00",
+          "content": "US-Präsident Donald Trump ist bei einer Rede vor der konservativen Gruppe Turning Points am Dienstag in Washington wohl Opfer eines Streichs geworden. Nach einem 12-minütigen Video über Trumps Weg ins Weiße Haus trat der Präsident unter dem Jubel der Versamme… [+840 chars]"
       },
       {
           "source": {
               "id": "handelsblatt",
               "name": "Handelsblatt"
           },
-          "author": "Reuters",
-          "title": "Straße von Hormus",
-          "description": "Der Iran dementiert den Abschuss der ersten Drohne, die USA wollen schon eine zweite abgeschossen haben. Zugleich finden sich Unterstützer für die britische Schutzidee.",
-          "url": "https://www.handelsblatt.com/politik/international/strasse-von-hormus-moeglicherweise-zweite-iranische-drohne-abgeschossen-unterstuetzung-fuer-europaeischen-schutzeinsatz/24692864.html",
-          "urlToImage": "https://www.handelsblatt.com/images/us-soldat-an-bord-des-zerstoerers-uss-mitscher-im-golf-von-oman/24692886/2-format2003.jpg",
-          "publishedAt": "2019-07-23T18:23:00+00:00",
-          "content": "Washington, BrüsselDas US-Militär hat nach eigener Darstellung möglicherweise eine zweite iranische Drohne in der Straße von Hormus abgeschossen. Eine sei sicher abgeschossen worden, sagte der für die Region zuständige US-Kommandeur Kenneth McKenzie am Dienst… [+2497 chars]"
+          "author": "Reuters, ",
+          "title": "Metro-Großaktionär Beisheim lehnt Kretinsky-Angebot ab",
+          "description": "Knapp sechs Milliarden Euro sind nicht genug: Das Übernahmeangebot des tschechischen Milliardärs Daniel Kretinsky passt auch Metro-Großaktionär Beisheim nicht.",
+          "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/handelskonzern-auch-metro-grossaktionaer-beisheim-lehnt-kretinsky-angebot-ab/24702216.html",
+          "urlToImage": "https://www.handelsblatt.com/images/metro-markt/24702256/2-format2003.jpg",
+          "publishedAt": "2019-07-25T18:00:00+00:00",
+          "content": "Frankfurt Nach Vorstand und Aufsichtsrat des Handelskonzerns Metro hat sich auch der Großaktionär Beisheim gegen das Übernahme-Angebot des tschechischen Milliardärs Daniel Kretinsky ausgesprochen. Die Beisheim Holding habe entschieden, dass sie das Übernahmea… [+1662 chars]"
       },
       {
           "source": {
-              "id": "wirtschafts-woche",
-              "name": "Wirtschafts Woche"
+              "id": "der-tagesspiegel",
+              "name": "Der Tagesspiegel"
           },
-          "author": "Wirtschaftswoche",
-          "title": "Straße von Hormus: Möglicherweise zweite iranische Drohne abgeschossen – Unterstützung für europäischen Schutzeinsatz",
-          "description": "Der Iran dementiert den Abschuss der ersten Drohne, die USA wollen schon eine zweite abgeschossen haben. Zugleich finden sich Unterstützer für die britische Schutzidee.",
-          "url": "https://www.handelsblatt.com/politik/international/strasse-von-hormus-moeglicherweise-zweite-iranische-drohne-abgeschossen-unterstuetzung-fuer-europaeischen-schutzeinsatz/24692864.html",
-          "urlToImage": "https://www.wiwo.de/images/us-soldat-an-bord-des-zerstoerers-uss-mitscher-im-golf-von-oman/24692886/2-format11240.jpg",
-          "publishedAt": "2019-07-23T18:23:00+00:00",
-          "content": "Washington, BrüsselDas US-Militär hat nach eigener Darstellung möglicherweise eine zweite iranische Drohne in der Straße von Hormus abgeschossen. Eine sei sicher abgeschossen worden, sagte der für die Region zuständige US-Kommandeur Kenneth McKenzie am Dienst… [+2632 chars]"
+          "author": "Frederik Hanssen",
+          "title": "Hoffnungsträger aus der Türkei",
+          "description": "Technisch überzeugend und mit viele romantischer Emphase: Das Jugendorchester aus der Türkei überzeugt bei Young Euro Classic.",
+          "url": "https://www.tagesspiegel.de/kultur/young-euro-classic-hoffnungstraeger-aus-der-tuerkei/24701022.html",
+          "urlToImage": "https://www.tagesspiegel.de/images/gendarmenmarkt-in-berlin-mitte-an-einigen-stellen-ist-der-boden-uneben-und-es-fehlen-pflastersteine-foto-mike-wolff/24702210/1-format530.jpg",
+          "publishedAt": "2019-07-25T17:58:43+00:00",
+          "content": "Menschen, die befürchten, der Klassik könnte das Publikum wegsterben, kritisieren ja gerne die Kleidung der Orchester. Das einheitliche Schwarz, das dem Publikum eigentlich helfen soll, die Mitwirkenden als Gemeinschaft wahrzunehmen und so die Konzentration a… [+2789 chars]"
       },
       {
           "source": {
-              "id": "die-zeit",
-              "name": "Die Zeit"
+              "id": "bild",
+              "name": "Bild"
           },
-          "author": "Stefan Schlögl",
-          "title": "Wiener Hauptbücherei: Revolution im Leseschiff",
-          "description": "Die Wiener Hauptbücherei am Gürtel, die größte ihrer Art in Österreich, ist das Habitat einer bunt gemischten Gesellschaft. Doch nun stellt der digitale Wandel ihre Bedeutung infrage.",
-          "url": "https://www.zeit.de/2019/30/wiener-hauptbuecherei-digitalisierung-oesterreich",
-          "urlToImage": "https://img.zeit.de/2019/30/wiener-hauptbuecherei-digitalisierung/wide__1300x731",
-          "publishedAt": "2019-07-23T18:21:43+00:00",
-          "content": "Milan Kundera und Blixa Bargeld sind auch schon da. Während der eine\r\n Doppelgänger, ein erstaunlich getreues Abbild des tschechischen Romanciers, sich mit\r\n schelmisch funkelnden Augen hinter einer Zeitschrift mit unaussprechlichem Namen in seiner\r\n Leseecke… [+4885 chars]"
+          "author": "KOLJA GÄRTNER und JÜRGEN MAHNKE",
+          "title": "Frankfurt: A 648: Dieser Artikel kann Ihren Führerschein retten!",
+          "description": "Blitzlicht-Gewitter auf der A 648: Wegen etwas Farbe rauschten hunderte Autofahrer in eine Radarfalle.",
+          "url": "http://www.bild.de/regional/frankfurt/frankfurt-aktuell/frankfurt-a-648-dieser-artikel-kann-ihren-fuehrerschein-retten-63545336.bild.html",
+          "urlToImage": "https://bilder.bild.de/fotos/frankfurt-a-648-dieser-artikel-kann-ihren-fuehrerschein-retten--201192966-63545564/Bild/2.bild.jpg",
+          "publishedAt": "2019-07-25T17:56:05Z",
+          "content": "Frankfurt Blitzlicht-Gewitter auf der A 648: Wegen etwas Farbe rauschten hunderte Autofahrer in eine Radarfalle.\r\nMorgens schlichen Unbekannte bei Sossenheim an die Autobahn. Mit grauer Farbe. Sie übermalten in jede Fahrrichtung drei Schilder, die Autos an ei… [+848 chars]"
       },
       {
           "source": {
-              "id": "die-zeit",
-              "name": "Die Zeit"
+              "id": "focus",
+              "name": "Focus"
           },
-          "author": "Martin Gehlen",
-          "title": "Straße von Hormus: Der zentrale Ort des Iran-Konflikts",
-          "description": "In der Straße von Hormus eskaliert der Streit zwischen USA, Europa und Iran. Warum ist die Meerenge so wichtig? Was hat sie mit dem Atomvertrag zu tun? Fünf Antworten",
-          "url": "https://www.zeit.de/politik/ausland/2019-07/persischer-golf-strasse-von-hormus-iran-konflikt-oeltransport",
-          "urlToImage": "https://img.zeit.de/politik/ausland/2019-07/persischer-golf-strasse-von-hormus/wide__1300x731",
-          "publishedAt": "2019-07-23T18:19:10+00:00",
-          "content": "Als die Stena Impero gekapert wurde, war ein amerikanischer Zerstörer zwar in der Nähe, griff aber nicht ein. Für den US-Präsidenten Donald Trump scheint der Schutz der Öltanker in der Region keine zentrale Rolle zu spielen, denn die\r\nUSA beziehen nur noch si… [+1643 chars]"
+          "author": "Von FOCUS-Online-Reporter Axel Spilcker",
+          "title": "Abzocke: Familie aus Herten muss Türkei-Reise nochmal bezahlen",
+          "description": "Mensch, was hatten sie sich auf diesen Urlaub gefreut. Zwei Wochen im Fünfsterne-Hotel an der türkischen Riviera. Endlich mal abschalten. Doch noch vor Reisebeginn kommt das böse Erwachen für Alina und Tim Meier. Der Betreiber des Reisebüros hat sich mit ihre…",
+          "url": "https://www.focus.de/finanzen/news/viele-kunden-geprellt-reisebuero-betreiber-taucht-mit-geld-unter-familie-aus-herten-muss-tuerkei-reise-nochmal-bezahlen_id_10958079.html",
+          "urlToImage": "https://p5.focus.de/img/fotos/crop10958101/6892718266-w1200-h627-o-q75-p5/spilcker1a-20190720-105013.jpg",
+          "publishedAt": "2019-07-25T17:55:00Z",
+          "content": "Mensch, was hatten sie sich auf diesen Urlaub gefreut. Zwei Wochen im Fünfsterne-Hotel an der türkischen Riviera. Endlich mal abschalten. Doch noch vor Reisebeginn kommt das böse Erwachen für Alina und Tim Meier. Der Betreiber des Reisebüros hat sich mit ihre… [+7035 chars]"
       }
   ]
 }

@@ -69,8 +69,8 @@ $trans-time-slow: 1s;
 $minimum-screen-size: 320px;
 
 $max-cards-per-row: 5;
-$min-card-spacing-sides: 5px;
-$card-spacing-below: 5px;
+$min-card-spacing-sides: 8px;
+$card-spacing-below: 10px;
 $cards-border-width: 2px;
 $max-card-width: (1920px - ($max-cards-per-row + 1) *
   $min-card-spacing-sides) / ($max-cards-per-row) -

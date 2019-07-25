@@ -4,16 +4,26 @@
 .articles__container {
   @include flex(row, center, stretch);
   flex-wrap: wrap;
-  align-content: stretch;
   padding: $min-card-spacing-sides;
 }
 .articles__card {
+  position: relative;
   padding: 1rem;
   border: $cards-border-width solid $light;
   border-radius: 1rem;
   margin: $min-card-spacing-sides;
   margin-bottom: $card-spacing-below;
   max-width: $max-card-width;
+
+  /* stretched-link: */
+  a::after {
+    position: absolute;
+    z-index: 1;
+    top: 0; left: 0;
+    bottom: 0; right: 0;
+    background-color: transparent;
+    content: "";
+  }
 }
 .articles__img {
   width: 100%;
